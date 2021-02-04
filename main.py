@@ -43,18 +43,6 @@ def multiple_evaluate_relationships(*arg):
     return relationships
 
 
-def dumb_reduce_efficient(data, relationships={}):
-    for bondsman in data.items():
-        # print(bondsman)
-        for lord in bondsman[1]:
-            # print(lord)
-            if frozenset({lord, bondsman[0]}) in relationships:
-                relationships[frozenset({lord, bondsman[0]})] += 1
-            else:
-                relationships[frozenset({lord, bondsman[0]})] = 1
-    return relationships
-
-
 def dumb_reduce(data, relationships={}):
     for bondsman in data.items():
         for lord in bondsman[1]:
@@ -69,23 +57,43 @@ def dumb_reduce(data, relationships={}):
     return relationships
 
 
+def multiple_reduce(data, relationships={}):
+    for bondsman in data.items():
+        for lord in bondsman[1]:
+            if (lord == bondsman[0]):
+                continue
+            if (lord, bondsman[0]) in relationships:
+                relationships[(lord, bondsman[0])] += bondsman[1][lord]
+            elif (bondsman[0], lord) in relationships:
+                relationships[(bondsman[0], lord)] += bondsman[1][lord]
+            else:
+                relationships[(lord, bondsman[0])] = bondsman[1][lord]
+    return relationships
+
+
 def add_edges(relationships, graph):
     for mutual in relationships:
+        # unadjusted is a bit squashed and excludes everyone but power users
         unadjusted_weight = relationships[mutual]
+        # squaring is better, but still not great at grouping
         squared_weight = unadjusted_weight ** 2
+        # the worst, don't use tanh one
         tanh_weight = numpy.tanh(unadjusted_weight)
-        exponential_capped_weight = min(100, 2 ** unadjusted_weight)
-        graph.add_edge(mutual[0], mutual[1],
-                       weight=exponential_capped_weight)
+        # current best, good at rewarding very strong connections
+        exponential_capped_weight = min(100000, 2 ** unadjusted_weight)
+        if unadjusted_weight > 2:
+            graph.add_edge(mutual[0], mutual[1],
+                           weight=unadjusted_weight)
 
 
 def no_overwrite(filename, extension, i=0):
+    # recursively finds a file name that does not exist to never overwrite previous saves
     path = ('{}{:d}{}'.format(filename, i, extension))
     print(path)
-    if os.path.exists(path):
+    if os.path.exists(path):  # if it exists, increment number next to name and continue
         i += 1
         no_overwrite(filename, extension, i)
-    elif extension == '.png':
+    elif extension == '.png':  # if its a png, use the dpi argument
         plt.savefig(path, dpi=1000)
     else:
         plt.savefig(path)
@@ -97,15 +105,14 @@ def draw_graph(relationships):
     add_edges(relationships, G)
 
     elarge = [(u, v) for (u, v, d) in G.edges(data=True)]
-    # esmall = [(u, v) for (u, v, d) in G.edges(data=True) if d["weight"] <= 0.5]
 
-    pos = nx.spring_layout(G, 1)  # positions for all nodes
+    # positions for all nodes
+    pos = nx.spring_layout(G, k=1, seed=1)
 
     # nodes
     nx.draw_networkx_nodes(G, pos, node_size=90, node_color="k")
 
     # edges
-    # nx.draw_networkx_edges(G, pos, edgelist=elarge, width=1)
     nx.draw_networkx_edges(
         G, pos, edgelist=elarge, width=0.1, edge_color="b")
 
@@ -113,12 +120,9 @@ def draw_graph(relationships):
     nx.draw_networkx_labels(G, pos, font_size=0.3,
                             font_family="sans-serif", font_color="w")
 
-    plt.axis("off")
-    # plt.savefig("output\\graph.png", dpi=1000)
-    # plt.savefig("output\\graph.pdf")
-    no_overwrite("output\\graph", ".pdf")
+    # no_overwrite("output\\graph", ".pdf")
     no_overwrite("output\\graph", ".png")
-
+    # plt.axis("off")
     # plt.show()
 
 
@@ -126,7 +130,9 @@ unilateral_relationships = multiple_evaluate_relationships(*all_json_files())
 unilateral_relationships_small = multiple_evaluate_relationships(
     'data\\channel_general.json')
 
-dumb_reduced_relationships = dumb_reduce(unilateral_relationships)
+# dumb_reduced_relationships = dumb_reduce(unilateral_relationships)
+reduced_relationships = multiple_reduce(unilateral_relationships)
+print(reduced_relationships)
 
 # pprint(unilateral_relationships)
 # pprint(dumb_reduced_relationships)
@@ -136,4 +142,5 @@ dumb_reduced_relationships = dumb_reduce(unilateral_relationships)
 #       file=open("output\\udumb_reduced_relationships.json", "w"))
 # print(all_json_files())
 
-draw_graph(dumb_reduced_relationships)
+# draw_graph(dumb_reduced_relationships)
+draw_graph(reduced_relationships)
