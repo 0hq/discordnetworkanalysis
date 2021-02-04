@@ -3,7 +3,6 @@ from nltk.corpus import twitter_samples, stopwords
 from nltk.tag import pos_tag
 from nltk.tokenize import word_tokenize
 from nltk import FreqDist, classify, NaiveBayesClassifier
-
 import re
 import string
 import random
@@ -55,6 +54,8 @@ if __name__ == "__main__":
 
     positive_tweet_tokens = twitter_samples.tokenized('positive_tweets.json')
     negative_tweet_tokens = twitter_samples.tokenized('negative_tweets.json')
+    print(positive_tweets[0])
+    print(positive_tweet_tokens[0])
 
     positive_cleaned_tokens_list = []
     negative_cleaned_tokens_list = []

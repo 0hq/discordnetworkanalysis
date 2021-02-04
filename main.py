@@ -5,27 +5,39 @@ import collections
 import json
 from pprint import pprint
 from helper_functions import *
+from reaction import *
 import numpy
-
-
-def dangerous_evaluate_relationships(data, relationships={}):
-    for message in data['messages']:
-        user = message['author']['name']
-        if message['mentions'] != []:
-            if user not in relationships:
-                relationships[user] = {}
-                for mention in message['mentions']:
-                    name = mention['name']
-                    print(name)
-                    pprint(mention)
-                    if name not in relationships[user]:
-                        relationships[user][name] = 1
-                    else:
-                        relationships[user][name] = 999
-    return relationships
+import nltk
+from nltk.stem.wordnet import WordNetLemmatizer
+from nltk.corpus import twitter_samples, stopwords
+from nltk.tag import pos_tag
+from nltk.tokenize import word_tokenize
+from nltk import FreqDist, classify, NaiveBayesClassifier
+import re
+import string
+import random
+import pickle
 
 
 def multiple_evaluate_relationships(*arg):
+    relationships = {}
+    for file_name in arg:
+        data = json.load(open(file_name, encoding='utf8'))
+        for message in data['messages']:
+            user = message['author']['name']
+            if message['mentions'] != []:
+                if user not in relationships:
+                    relationships[user] = {}
+                for mention in message['mentions']:
+                    name = mention['name']
+                    if name not in relationships[user]:
+                        relationships[user][name] = 1
+                    else:
+                        relationships[user][name] += 1
+    return relationships
+
+
+def relationship_score(*arg):
     relationships = {}
     for file_name in arg:
         data = json.load(open(file_name, encoding='utf8'))
@@ -80,10 +92,10 @@ def add_edges(relationships, graph):
         # the worst, don't use tanh one
         tanh_weight = numpy.tanh(unadjusted_weight)
         # current best, good at rewarding very strong connections
-        exponential_capped_weight = min(100000, 2 ** unadjusted_weight)
-        if unadjusted_weight > 2:
+        exponential_capped_weight = min(100, 2 ** unadjusted_weight)
+        if unadjusted_weight > 1:
             graph.add_edge(mutual[0], mutual[1],
-                           weight=unadjusted_weight)
+                           weight=exponential_capped_weight)
 
 
 def no_overwrite(filename, extension, i=0):
@@ -126,13 +138,74 @@ def draw_graph(relationships):
     # plt.show()
 
 
-unilateral_relationships = multiple_evaluate_relationships(*all_json_files())
-unilateral_relationships_small = multiple_evaluate_relationships(
-    'data\\channel_general.json')
+def classify_reactions():
+    reaction = condense_reaction(*all_json_files())
+    noreaction = condense_nonreaction(*all_json_files())
+
+    reaction_tokens = [word_tokenize(string) for string in reaction]
+    noreaction_tokens = [word_tokenize(string) for string in noreaction]
+
+    stop_words = stopwords.words('english')
+
+    positive_cleaned_tokens_list = []
+    negative_cleaned_tokens_list = []
+
+    for tokens in reaction_tokens:
+        positive_cleaned_tokens_list.append(remove_noise(tokens, stop_words))
+
+    for tokens in noreaction_tokens:
+        negative_cleaned_tokens_list.append(remove_noise(tokens, stop_words))
+
+    # fd = nltk.FreqDist(positive_cleaned_tokens_list)
+    # fd.plot(30, cumulative=False)
+
+    all_pos_words = get_all_words(positive_cleaned_tokens_list)
+
+    # freq_dist_pos = FreqDist(all_pos_words)
+    # print(freq_dist_pos.most_common(10))
+
+    positive_tokens_for_model = get_tweets_for_model(
+        positive_cleaned_tokens_list)
+    negative_tokens_for_model = get_tweets_for_model(
+        negative_cleaned_tokens_list)
+
+    positive_dataset = [(tweet_dict, "Reaction")
+                        for tweet_dict in positive_tokens_for_model]
+
+    negative_dataset = [(tweet_dict, "NoReaction")
+                        for tweet_dict in negative_tokens_for_model]
+
+    dataset = positive_dataset + negative_dataset
+
+    random.shuffle(dataset)
+
+    train_data = dataset[:7000]
+    test_data = dataset[7000:]
+
+    classifier = NaiveBayesClassifier.train(train_data)
+
+    print("Accuracy is:", classify.accuracy(classifier, test_data))
+
+    print(classifier.show_most_informative_features(10))
+
+    custom_tweet = "innovation mod present prior programming looking excited breakdown calculate"
+
+    custom_tokens = remove_noise(word_tokenize(custom_tweet))
+
+    print(custom_tweet, classifier.classify(
+        dict([token, True] for token in custom_tokens)))
+
+    f = open('my_classifier.pickle', 'wb')
+    pickle.dump(classifier, f)
+    f.close()
+
+
+# unilateral_relationships = multiple_evaluate_relationships(*all_json_files())
+# unilateral_relationships_small = multiple_evaluate_relationships(
+#     'data\\channel_general.json')
 
 # dumb_reduced_relationships = dumb_reduce(unilateral_relationships)
-reduced_relationships = multiple_reduce(unilateral_relationships)
-print(reduced_relationships)
+# reduced_relationships = multiple_reduce(unilateral_relationships)
 
 # pprint(unilateral_relationships)
 # pprint(dumb_reduced_relationships)
@@ -143,4 +216,7 @@ print(reduced_relationships)
 # print(all_json_files())
 
 # draw_graph(dumb_reduced_relationships)
-draw_graph(reduced_relationships)
+# draw_graph(reduced_relationships)
+# print(condense_reaction(*all_json_files()))
+# print(condense_nonreaction(*all_json_files()))
+classify_reactions()
