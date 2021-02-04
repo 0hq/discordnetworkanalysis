@@ -11,11 +11,4 @@ def all_json_files():
         directory) if os.fsdecode(file).endswith(".json")]
 
 
-def no_overwrite():
-    import os
-    i = 0
-    while os.path.exists('{}{:d}.png'.format("output", i)):
-        i += 1
-    plt.savefig('{}{:d}.png'.format(filename, i))
-
 # print(all_json_files())

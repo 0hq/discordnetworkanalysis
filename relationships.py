@@ -79,12 +79,13 @@ def add_edges(relationships, graph):
                        weight=exponential_capped_weight)
 
 
-def no_overwrite(filename, extension):
-    i = 0
-    path = ('{}{:d}{}'.format("output", i, extension))
-    while os.path.exists(path):
+def no_overwrite(filename, extension, i=0):
+    path = ('{}{:d}{}'.format(filename, i, extension))
+    print(path)
+    if os.path.exists(path):
         i += 1
-    if extension == '.png':
+        no_overwrite(filename, extension, i)
+    elif extension == '.png':
         plt.savefig(path, dpi=1000)
     else:
         plt.savefig(path)
