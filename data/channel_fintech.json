@@ -1,0 +1,5411 @@
+{
+  "guild": {
+    "id": "733975218711953519",
+    "name": "gen z mafia",
+    "iconUrl": "https://cdn.discordapp.com/icons/733975218711953519/1defd2842cd55023e919903effda80b2.png"
+  },
+  "channel": {
+    "id": "759244828512092191",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDCAC | ▬▬▬▬ Topics ▬▬▬▬ | \uD83D\uDCAC",
+    "name": "\uD83D\uDCB5-fintech",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "759244916382760980",
+      "type": "Default",
+      "timestamp": "2020-09-26T02:48:14.154+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yo",
+      "author": {
+        "id": "262153666511765505",
+        "name": ".\uD835\uDD98\uD835\uDD8D\uD835\uDD91\uD835\uDD94\uD835\uDD92\uD835\uDD94",
+        "discriminator": "3243",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/262153666511765505/d0c050ea495649c0861df5f2ad1c5024.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759248105933242438",
+      "type": "Default",
+      "timestamp": "2020-09-26T03:00:54.602+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yo",
+      "author": {
+        "id": "121959716736860160",
+        "name": "PressTwice",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/121959716736860160/313d77b6c91dc07179d8d938929f83ff.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759248568942592021",
+      "type": "Default",
+      "timestamp": "2020-09-26T03:02:44.992+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What’s up",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759295177218326568",
+      "type": "Default",
+      "timestamp": "2020-09-26T06:07:57.271+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yo",
+      "author": {
+        "id": "474416275393609728",
+        "name": "Zagreus",
+        "discriminator": "0939",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/474416275393609728/a833ed9f13b0cd783fa5190cffab6096.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759297854614274049",
+      "type": "Default",
+      "timestamp": "2020-09-26T06:18:35.612+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anyone seen the X1 card?",
+      "author": {
+        "id": "262153666511765505",
+        "name": ".\uD835\uDD98\uD835\uDD8D\uD835\uDD91\uD835\uDD94\uD835\uDD92\uD835\uDD94",
+        "discriminator": "3243",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/262153666511765505/d0c050ea495649c0861df5f2ad1c5024.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759297865511469078",
+      "type": "Default",
+      "timestamp": "2020-09-26T06:18:38.21+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://x1creditcard.com/r/vb0q0TU",
+      "author": {
+        "id": "262153666511765505",
+        "name": ".\uD835\uDD98\uD835\uDD8D\uD835\uDD91\uD835\uDD94\uD835\uDD92\uD835\uDD94",
+        "discriminator": "3243",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/262153666511765505/d0c050ea495649c0861df5f2ad1c5024.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "X1 Card | The Smartest Credit Card Ever Made",
+          "url": "https://x1creditcard.com/r/vb0q0TU",
+          "timestamp": null,
+          "description": "17g of pure stainless steel. Designed for a new generation of cardholders.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://x1creditcard.com/static/x1-card-site/assets/og-image.png",
+            "width": 1200,
+            "height": 627
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759298074064846878",
+      "type": "Default",
+      "timestamp": "2020-09-26T06:19:27.933+00:00",
+      "timestampEdited": "2020-09-26T06:19:34.127+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m a sucker for pretty cards but they have some cool features too. Hoping it isn’t vaporware",
+      "author": {
+        "id": "262153666511765505",
+        "name": ".\uD835\uDD98\uD835\uDD8D\uD835\uDD91\uD835\uDD94\uD835\uDD92\uD835\uDD94",
+        "discriminator": "3243",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/262153666511765505/d0c050ea495649c0861df5f2ad1c5024.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759301119100321802",
+      "type": "Default",
+      "timestamp": "2020-09-26T06:31:33.926+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m like 250k on the waitlist ugh",
+      "author": {
+        "id": "474416275393609728",
+        "name": "Zagreus",
+        "discriminator": "0939",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/474416275393609728/a833ed9f13b0cd783fa5190cffab6096.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759313276097789982",
+      "type": "Default",
+      "timestamp": "2020-09-26T07:19:52.38+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What kinda features",
+      "author": {
+        "id": "414508441588072450",
+        "name": "paws",
+        "discriminator": "3311",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/414508441588072450/8a816afad4441302d60f31a418d5983c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759352558086520832",
+      "type": "Default",
+      "timestamp": "2020-09-26T09:55:57.936+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait for N26 metal to launch in the US",
+      "author": {
+        "id": "121959716736860160",
+        "name": "PressTwice",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/121959716736860160/313d77b6c91dc07179d8d938929f83ff.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759352588755271711",
+      "type": "Default",
+      "timestamp": "2020-09-26T09:56:05.248+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "N26 normal looks pretty cool too though",
+      "author": {
+        "id": "121959716736860160",
+        "name": "PressTwice",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/121959716736860160/313d77b6c91dc07179d8d938929f83ff.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759352900736122881",
+      "type": "Default",
+      "timestamp": "2020-09-26T09:57:19.63+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.instagram.com/p/BtldX1RAeF0/?igshid=1btbewjnggb18",
+      "author": {
+        "id": "121959716736860160",
+        "name": "PressTwice",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/121959716736860160/313d77b6c91dc07179d8d938929f83ff.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://www.instagram.com/p/BtldX1RAeF0/?igshid=1btbewjnggb18",
+          "timestamp": null,
+          "description": "All #Metal @N26 \uD83D\uDD25\uD83E\uDD73\uD83D\uDDA4",
+          "color": "#CE0072",
+          "author": {
+            "name": "anim8_",
+            "url": "https://instagram.com/anim8_/"
+          },
+          "image": {
+            "url": "https://instagram.com/p/BtldX1RAeF0/media?size=l",
+            "width": 720,
+            "height": 720
+          },
+          "footer": {
+            "text": "Instagram",
+            "iconUrl": "https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759353756709421057",
+      "type": "Default",
+      "timestamp": "2020-09-26T10:00:43.71+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Normal US card < this ones free",
+      "author": {
+        "id": "121959716736860160",
+        "name": "PressTwice",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/121959716736860160/313d77b6c91dc07179d8d938929f83ff.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759353773003898940",
+      "type": "Default",
+      "timestamp": "2020-09-26T10:00:47.595+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "121959716736860160",
+        "name": "PressTwice",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/121959716736860160/313d77b6c91dc07179d8d938929f83ff.png"
+      },
+      "attachments": [
+        {
+          "id": "759353770311155722",
+          "url": "https://cdn.discordapp.com/attachments/759244828512092191/759353770311155722/image0.jpg",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 20171
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759520296918843423",
+      "type": "Default",
+      "timestamp": "2020-09-26T21:02:29.99+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if anyone in here is working on a fintech or has worked with one before",
+      "author": {
+        "id": "734403691909742654",
+        "name": "tonyjr",
+        "discriminator": "6093",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734403691909742654/768ffe7cba5613577d777ac7f1be4b8a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759520309622997002",
+      "type": "Default",
+      "timestamp": "2020-09-26T21:02:33.019+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DM me",
+      "author": {
+        "id": "734403691909742654",
+        "name": "tonyjr",
+        "discriminator": "6093",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734403691909742654/768ffe7cba5613577d777ac7f1be4b8a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759542201935069195",
+      "type": "Default",
+      "timestamp": "2020-09-26T22:29:32.553+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What’s the value of these neobank credit cards? Never really got them",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759544777464741939",
+      "type": "Default",
+      "timestamp": "2020-09-26T22:39:46.607+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "N26 has 0 fees on foreign currency exchanges when using it abroad iirc",
+      "author": {
+        "id": "356462824320401408",
+        "name": "thesofakillers",
+        "discriminator": "8353",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/356462824320401408/77fd1b52d38f1a3eefd6fabb471cde07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759565486601666620",
+      "type": "Default",
+      "timestamp": "2020-09-27T00:02:04.05+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The \"hear the metal\" at the end of the site is a v smart move",
+      "author": {
+        "id": "705839999115067483",
+        "name": "coleman",
+        "discriminator": "2896",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705839999115067483/197cfbb9af7e429f276da7ab51a53bcf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "759644411939651605",
+      "type": "Default",
+      "timestamp": "2020-09-27T05:15:41.317+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A fintech channel yes!",
+      "author": {
+        "id": "735203456780075119",
+        "name": "Michael RyeBread",
+        "discriminator": "9626",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735203456780075119/3086fd533ca4c0ce6cc9fe2345040619.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759892942964916275",
+      "type": "Default",
+      "timestamp": "2020-09-27T21:43:15.731+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yo",
+      "author": {
+        "id": "376229900409110528",
+        "name": "Colm",
+        "discriminator": "3677",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376229900409110528/d9d27bb790b232f880c229bd70cfac63.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759892963899342878",
+      "type": "Default",
+      "timestamp": "2020-09-27T21:43:20.722+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Does Cadoo count?",
+      "author": {
+        "id": "376229900409110528",
+        "name": "Colm",
+        "discriminator": "3677",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376229900409110528/d9d27bb790b232f880c229bd70cfac63.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "759892991195480114",
+      "type": "Default",
+      "timestamp": "2020-09-27T21:43:27.23+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Kind of....",
+      "author": {
+        "id": "376229900409110528",
+        "name": "Colm",
+        "discriminator": "3677",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376229900409110528/d9d27bb790b232f880c229bd70cfac63.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760068328285929503",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:20:10.85+00:00",
+      "timestampEdited": "2020-09-28T09:21:26.188+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> Anyone seen the X1 card?\n@.\uD835\uDD98\uD835\uDD8D\uD835\uDD91\uD835\uDD94\uD835\uDD92\uD835\uDD94  yea i am at 201k waitlist. Never signed up for a card faster. I met one of the engineers that worked on this product. Very sharp!",
+      "author": {
+        "id": "754912592316727296",
+        "name": "pranav",
+        "discriminator": "2962",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/754912592316727296/a44902c7d4c8f4e2dbae44165af85420.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "262153666511765505",
+          "name": ".\uD835\uDD98\uD835\uDD8D\uD835\uDD91\uD835\uDD94\uD835\uDD92\uD835\uDD94",
+          "discriminator": 3243,
+          "nickname": ".\uD835\uDD98\uD835\uDD8D\uD835\uDD91\uD835\uDD94\uD835\uDD92\uD835\uDD94",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "760340020661452830",
+      "type": "Default",
+      "timestamp": "2020-09-29T03:19:47.36+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anyone know of some cool $10mm+ ARR fintechs ☺️☺️",
+      "author": {
+        "id": "744584739176054816",
+        "name": "davidlarar",
+        "discriminator": "6012",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760394529130938399",
+      "type": "Default",
+      "timestamp": "2020-09-29T06:56:23.192+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@davidlarar Mercury Bank and Ramp Card",
+      "author": {
+        "id": "754912592316727296",
+        "name": "pranav",
+        "discriminator": "2962",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/754912592316727296/a44902c7d4c8f4e2dbae44165af85420.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "744584739176054816",
+          "name": "davidlarar",
+          "discriminator": 6012,
+          "nickname": "@LararDavid on Twitter",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "761055469170982922",
+      "type": "Default",
+      "timestamp": "2020-10-01T02:42:43.577+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "something from hustle fund’s portfolio i found interesting",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "761055482047496222",
+      "type": "Default",
+      "timestamp": "2020-10-01T02:42:46.647+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://zorocard.com?ref=6yiwa",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Zoro Card - Build credit with a debit card.",
+          "url": "https://zorocard.com/?ref=6yiwa",
+          "timestamp": null,
+          "description": "Build credit with a debit card.",
+          "color": "#7832E3",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "761094870735388722",
+      "type": "Default",
+      "timestamp": "2020-10-01T05:19:17.642+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Zoro card seems similar to this https://www.getbits.app/",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Bits",
+          "url": "https://www.getbits.app/",
+          "timestamp": null,
+          "description": "A digital credit card that helps you build credit without getting into debt.",
+          "thumbnail": {
+            "url": "http://static1.squarespace.com/static/5c7820ef4d8711fdeaec1527/t/5d9c8660b041b26885c31a63/1570539105041/feziconheader.png?format=1500w",
+            "width": 257,
+            "height": 256
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "761329903806185472",
+      "type": "Default",
+      "timestamp": "2020-10-01T20:53:13.893+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah these kind of debit card to build credit products are pretty common. not hard to build...",
+      "author": {
+        "id": "728332093758767186",
+        "name": "yrechtman",
+        "discriminator": "3527",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/728332093758767186/7fbfcb22d4b9385f55b7e229fbf72992.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "761388801146748980",
+      "type": "Default",
+      "timestamp": "2020-10-02T00:47:16.113+00:00",
+      "timestampEdited": "2020-10-02T02:25:36.274+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "damn never thought id see Zoro here.  used to talk with the founders back at indiana university but they never brought me on :(.  seemed cool a couple years ago but nowadays anyone can build it.",
+      "author": {
+        "id": "179005730890711040",
+        "name": "zachdt",
+        "discriminator": "6856",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/179005730890711040/285e1682f744b50ee37294e7d4cb72a9.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "761389032127070258",
+      "type": "Default",
+      "timestamp": "2020-10-02T00:48:11.183+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "high monthly SaaS bill doesn't equate to a good product moat anymore lol",
+      "author": {
+        "id": "179005730890711040",
+        "name": "zachdt",
+        "discriminator": "6856",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/179005730890711040/285e1682f744b50ee37294e7d4cb72a9.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "761950610551210096",
+      "type": "Default",
+      "timestamp": "2020-10-03T13:59:41.913+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> yeah these kind of debit card to build credit products are pretty common. not hard to build...\n@yrechtman \n\nreally? they seem pretty hard to build.",
+      "author": {
+        "id": "141059180969721856",
+        "name": "rohan.kapur",
+        "discriminator": "0616",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141059180969721856/6dacc7c1d90952c507bec11162017148.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "728332093758767186",
+          "name": "yrechtman",
+          "discriminator": 3527,
+          "nickname": "yrechtman",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "761950860850757643",
+      "type": "Default",
+      "timestamp": "2020-10-03T14:00:41.589+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how would one go about building something like that? (I'm not going to do it, just asking out of curiousity)",
+      "author": {
+        "id": "141059180969721856",
+        "name": "rohan.kapur",
+        "discriminator": "0616",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141059180969721856/6dacc7c1d90952c507bec11162017148.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "761954303250006016",
+      "type": "Default",
+      "timestamp": "2020-10-03T14:14:22.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@rohan.kapur basically all you need is some balance sheet capital to start (and eventually a debt facility). Then you build on any old card issuing platform (Marqeta, Synapse, Privacy, etc.). All you’re doing is extending a LOC to users and immediately paying it off by debiting their accounts and reporting the outstanding balances to the bureaus. I’m obviously oversimplifying but at least from a tech perspective, it’s just a UI on top of some off the shelf tools",
+      "author": {
+        "id": "728332093758767186",
+        "name": "yrechtman",
+        "discriminator": "3527",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/728332093758767186/7fbfcb22d4b9385f55b7e229fbf72992.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "141059180969721856",
+          "name": "rohan.kapur",
+          "discriminator": 616,
+          "nickname": "rohan.kapur",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "761954357528363018",
+      "type": "Default",
+      "timestamp": "2020-10-03T14:14:35.262+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(They would protest that classification).",
+      "author": {
+        "id": "728332093758767186",
+        "name": "yrechtman",
+        "discriminator": "3527",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/728332093758767186/7fbfcb22d4b9385f55b7e229fbf72992.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "761959403971805184",
+      "type": "Default",
+      "timestamp": "2020-10-03T14:34:38.428+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fair enough",
+      "author": {
+        "id": "141059180969721856",
+        "name": "rohan.kapur",
+        "discriminator": "0616",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141059180969721856/6dacc7c1d90952c507bec11162017148.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "761959618771157014",
+      "type": "Default",
+      "timestamp": "2020-10-03T14:35:29.64+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah i feel like a lot of products are just UIs for some API(s) that are out there lol",
+      "author": {
+        "id": "141059180969721856",
+        "name": "rohan.kapur",
+        "discriminator": "0616",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141059180969721856/6dacc7c1d90952c507bec11162017148.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "762047348775583754",
+      "type": "Default",
+      "timestamp": "2020-10-03T20:24:06.103+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "extra is pretty cool",
+      "author": {
+        "id": "441262840158879746",
+        "name": "Max Alway-Townsend",
+        "discriminator": "3927",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "762047457990279188",
+      "type": "Default",
+      "timestamp": "2020-10-03T20:24:32.142+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://extra.app/",
+      "author": {
+        "id": "441262840158879746",
+        "name": "Max Alway-Townsend",
+        "discriminator": "3927",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "EXTRA",
+          "url": "https://extra.app/",
+          "timestamp": null,
+          "description": "Meet the debit card with superpowers.",
+          "thumbnail": {
+            "url": "https://extra.app/images/og_image_4.jpg",
+            "width": 1200,
+            "height": 850
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "762910003979223041",
+      "type": "Default",
+      "timestamp": "2020-10-06T05:31:59.131+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@rohan.kapur  I was chatting with someone from Stripe, and they were talking about how they want EVERYTHING in fintech to just be a UI on top of their APIs",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "141059180969721856",
+          "name": "rohan.kapur",
+          "discriminator": 616,
+          "nickname": "rohan.kapur",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "762911542953508874",
+      "type": "Default",
+      "timestamp": "2020-10-06T05:38:06.051+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@piddy that’s interesting. Where do you think Fast.af fits into this? They are a 1 click checkout/login company. I understand they are focused just on the click part but can’t Stripe technically kill them? Stripe invested in them too. Makes for an interesting dynamic.",
+      "author": {
+        "id": "754912592316727296",
+        "name": "pranav",
+        "discriminator": "2962",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/754912592316727296/a44902c7d4c8f4e2dbae44165af85420.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "377297751106519041",
+          "name": "piddy",
+          "discriminator": 3845,
+          "nickname": "piddy",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "762911913264414731",
+      "type": "Default",
+      "timestamp": "2020-10-06T05:39:34.34+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not sure. Stripe might try to kill them, or they might be content to just power Fast",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "762912026417823744",
+      "type": "Default",
+      "timestamp": "2020-10-06T05:40:01.318+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Seems like their core strength is fintech infra",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "762912162066071592",
+      "type": "Default",
+      "timestamp": "2020-10-06T05:40:33.659+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So they might try to have other services, but they aren't interested in a customer ever knowing the transaction is processed by stripe",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "762917793368244274",
+      "type": "Default",
+      "timestamp": "2020-10-06T06:02:56.266+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Worse case they acquihire Fast",
+      "author": {
+        "id": "754912592316727296",
+        "name": "pranav",
+        "discriminator": "2962",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/754912592316727296/a44902c7d4c8f4e2dbae44165af85420.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "762917827588915200",
+      "type": "Default",
+      "timestamp": "2020-10-06T06:03:04.425+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Since they led the round anyway",
+      "author": {
+        "id": "754912592316727296",
+        "name": "pranav",
+        "discriminator": "2962",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/754912592316727296/a44902c7d4c8f4e2dbae44165af85420.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "763121913471041546",
+      "type": "Default",
+      "timestamp": "2020-10-06T19:34:02.291+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you like 1 click check out, try nate.tech",
+      "author": {
+        "id": "679715827762593818",
+        "name": "jared",
+        "discriminator": "2180",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/679715827762593818/230afe5385b70624b657cfed7e171c2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "763126006173138995",
+      "type": "Default",
+      "timestamp": "2020-10-06T19:50:18.067+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@piddy I can TOTALLY see them pulling this off",
+      "author": {
+        "id": "141059180969721856",
+        "name": "rohan.kapur",
+        "discriminator": "0616",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141059180969721856/6dacc7c1d90952c507bec11162017148.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "377297751106519041",
+          "name": "piddy",
+          "discriminator": 3845,
+          "nickname": "piddy",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "763220069072896041",
+      "type": "Default",
+      "timestamp": "2020-10-07T02:04:04.41+00:00",
+      "timestampEdited": "2020-10-07T02:04:09.165+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey guys, is there a gen z mafia group but for straight finance?",
+      "author": {
+        "id": "261278673787813889",
+        "name": "vosdhfweoiu932nnfsdf",
+        "discriminator": "7791",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE29",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f629.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "763225374439505940",
+      "type": "Default",
+      "timestamp": "2020-10-07T02:25:09.308+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@vosdhfweoiu932nnfsdf what is straight finance",
+      "author": {
+        "id": "754912592316727296",
+        "name": "pranav",
+        "discriminator": "2962",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/754912592316727296/a44902c7d4c8f4e2dbae44165af85420.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "261278673787813889",
+          "name": "vosdhfweoiu932nnfsdf",
+          "discriminator": 7791,
+          "nickname": "vosdhfweoiu932nnfsdf",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "763226172905357322",
+      "type": "Default",
+      "timestamp": "2020-10-07T02:28:19.677+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "IB, PE, Hedge Funds, etc @pranav",
+      "author": {
+        "id": "261278673787813889",
+        "name": "vosdhfweoiu932nnfsdf",
+        "discriminator": "7791",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "754912592316727296",
+          "name": "pranav",
+          "discriminator": 2962,
+          "nickname": "@pranavsf",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "763226238071996416",
+      "type": "Default",
+      "timestamp": "2020-10-07T02:28:35.214+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "want to talk to some ppl from the industry",
+      "author": {
+        "id": "261278673787813889",
+        "name": "vosdhfweoiu932nnfsdf",
+        "discriminator": "7791",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "763227443477217280",
+      "type": "Default",
+      "timestamp": "2020-10-07T02:33:22.605+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@vosdhfweoiu932nnfsdf I’m at Bloomberg if that’s close enough but prolly not",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "261278673787813889",
+          "name": "vosdhfweoiu932nnfsdf",
+          "discriminator": 7791,
+          "nickname": "vosdhfweoiu932nnfsdf",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "763227551115247646",
+      "type": "Default",
+      "timestamp": "2020-10-07T02:33:48.268+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What’re you looking for?",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "763227920306536499",
+      "type": "Default",
+      "timestamp": "2020-10-07T02:35:16.29+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nice! just wanting to learn about others' journey to buy side firms  - a first yr bschool student rn",
+      "author": {
+        "id": "261278673787813889",
+        "name": "vosdhfweoiu932nnfsdf",
+        "discriminator": "7791",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "763228381671849994",
+      "type": "Default",
+      "timestamp": "2020-10-07T02:37:06.288+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I know someone at an HF but small - he’s also an intern",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "763228470259482634",
+      "type": "Default",
+      "timestamp": "2020-10-07T02:37:27.409+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Don’t really know anyone b school and after",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "763228614325698592",
+      "type": "Default",
+      "timestamp": "2020-10-07T02:38:01.757+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if you could connect me that'd be fantastic, don't really care the size rn",
+      "author": {
+        "id": "261278673787813889",
+        "name": "vosdhfweoiu932nnfsdf",
+        "discriminator": "7791",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "763228648441643018",
+      "type": "Default",
+      "timestamp": "2020-10-07T02:38:09.891+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also what do you to at bloomberg?",
+      "author": {
+        "id": "261278673787813889",
+        "name": "vosdhfweoiu932nnfsdf",
+        "discriminator": "7791",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "763918619607826433",
+      "type": "Default",
+      "timestamp": "2020-10-09T00:19:51.836+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@piddy",
+      "author": {
+        "id": "261278673787813889",
+        "name": "vosdhfweoiu932nnfsdf",
+        "discriminator": "7791",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "377297751106519041",
+          "name": "piddy",
+          "discriminator": 3845,
+          "nickname": "piddy",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "763920134720716800",
+      "type": "Default",
+      "timestamp": "2020-10-09T00:25:53.067+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah lemme talk to my friend and I'll DM you",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "763920284658434068",
+      "type": "Default",
+      "timestamp": "2020-10-09T00:26:28.815+00:00",
+      "timestampEdited": "2020-10-09T00:27:22.859+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m a first year analyst at a bank so not sure how helpful I’d be but happy to speak @vosdhfweoiu932nnfsdf",
+      "author": {
+        "id": "744584739176054816",
+        "name": "davidlarar",
+        "discriminator": "6012",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "261278673787813889",
+          "name": "vosdhfweoiu932nnfsdf",
+          "discriminator": 7791,
+          "nickname": "vosdhfweoiu932nnfsdf",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "763920355327868979",
+      "type": "Default",
+      "timestamp": "2020-10-09T00:26:45.664+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So Bloomberg has an internal email and instant chat system that anyone with a Bloomberg Terminal subscription had access to",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD19",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f919.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "763920421694996500",
+      "type": "Default",
+      "timestamp": "2020-10-09T00:27:01.487+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am part of the team that automates compliance on those messages",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "763920513311178782",
+      "type": "Default",
+      "timestamp": "2020-10-09T00:27:23.33+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We monitor for shit like sexual harassment/insider trading/bunch of other shit",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "763920753425907723",
+      "type": "Default",
+      "timestamp": "2020-10-09T00:28:20.578+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nothing really fintech-y rn",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "763922828566593536",
+      "type": "Default",
+      "timestamp": "2020-10-09T00:36:35.33+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gotchya, nice man!",
+      "author": {
+        "id": "261278673787813889",
+        "name": "vosdhfweoiu932nnfsdf",
+        "discriminator": "7791",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "763922842442006529",
+      "type": "Default",
+      "timestamp": "2020-10-09T00:36:38.638+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and tysm : )",
+      "author": {
+        "id": "261278673787813889",
+        "name": "vosdhfweoiu932nnfsdf",
+        "discriminator": "7791",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "765042223578087464",
+      "type": "Default",
+      "timestamp": "2020-10-12T02:44:39.898+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What’s Bloomberg HN like?",
+      "author": {
+        "id": "267197965452443648",
+        "name": "q_dot",
+        "discriminator": "1787",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/267197965452443648/6fb9e880a9f01d6e435de7a3379e94a4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "766000938783342642",
+      "type": "Default",
+      "timestamp": "2020-10-14T18:14:15.415+00:00",
+      "timestampEdited": "2020-10-14T18:22:41.277+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi everyone! Is someone working on/has a document of what the market looks like for fintech and what the recent shifts/trends are? I want to get a better view on what everyone is working on and where we are going!",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [
+        {
+          "id": "766000935386218546",
+          "url": "https://cdn.discordapp.com/attachments/759244828512092191/766000935386218546/Fintech-250-2020-vf5-9_2_20-1024x768.png",
+          "fileName": "Fintech-250-2020-vf5-9_2_20-1024x768.png",
+          "fileSizeBytes": 438529
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "766013728180142150",
+      "type": "Default",
+      "timestamp": "2020-10-14T19:05:04.645+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thats a dope image",
+      "author": {
+        "id": "238350515937869828",
+        "name": "Kipnerter",
+        "discriminator": "4510",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238350515937869828/4336fb38097c2519ae11c9a7fdb75b1a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "766014244923637780",
+      "type": "Default",
+      "timestamp": "2020-10-14T19:07:07.846+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes it is, helped me understand the different players/segments but I also would love to learn more about the momentum, direction, and trends in the market.",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "766038196991164417",
+      "type": "Default",
+      "timestamp": "2020-10-14T20:42:18.464+00:00",
+      "timestampEdited": "2020-10-14T20:42:56.636+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "btw - a Black-owned startup we're backing at Open Water",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "766038201458360343",
+      "type": "Default",
+      "timestamp": "2020-10-14T20:42:19.529+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://senchacredit.com/?r=aeeTe",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Sencha | Building credit has never been so effortless.",
+          "url": "http://senchacredit.com/?r=aeeTe",
+          "timestamp": null,
+          "description": "Sencha guarantees approval and allows you to determine your own credit limit, while helping you build your credit as fast as possible.",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "766038280634105916",
+      "type": "Default",
+      "timestamp": "2020-10-14T20:42:38.406+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "building credit through a debit card",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "766105710131150864",
+      "type": "Default",
+      "timestamp": "2020-10-15T01:10:34.851+00:00",
+      "timestampEdited": "2020-10-15T01:10:44.724+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Robrecht if you want to learn more start with one segment and research every company in that space.... see which ones are valued higher than the others and deduce why — that capability is indicative of where the investors see the market moving to",
+      "author": {
+        "id": "744584739176054816",
+        "name": "davidlarar",
+        "discriminator": "6012",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "195607094232219658",
+          "name": "Robrecht",
+          "discriminator": 4440,
+          "nickname": "Robrecht",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "766224248204689419",
+      "type": "Default",
+      "timestamp": "2020-10-15T09:01:36.53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm not sure if comparing the valuations might give a good represenation of the trend though, but it migth be worth trying out. thanks for the tip @davidlarar!",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "744584739176054816",
+          "name": "davidlarar",
+          "discriminator": 6012,
+          "nickname": "@LararDavid on Twitter",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "766259138170060831",
+      "type": "Default",
+      "timestamp": "2020-10-15T11:20:14.946+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It definitely will ... think about why Tesla’s multiples are greater than Ford, GM, Toyota etc",
+      "author": {
+        "id": "744584739176054816",
+        "name": "davidlarar",
+        "discriminator": "6012",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "766266222852833281",
+      "type": "Default",
+      "timestamp": "2020-10-15T11:48:24.066+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes in that case it signals a trend towards EV's, autonious driving, etc. but if you compared Wework to other co-work space companies, Wework had a way higher multiple and valuation than similar companies with no real reason (that I know of).\n\nI agree that this is a good method for figuering out trends, as long as we can exclude outliers that are overvaluated/undervaluated.",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "766432645772476436",
+      "type": "Default",
+      "timestamp": "2020-10-15T22:49:42.382+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://techcrunch.com/2020/10/15/stripe-acquires-nigerias-paystack-for-200m-to-expand-into-the-african-continent/",
+      "author": {
+        "id": "755559222347038914",
+        "name": "$russellin49",
+        "discriminator": "2551",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755559222347038914/6897cf8cb3557c270f8decb657ffd474.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Stripe acquires Nigeria’s Paystack for $200M+ to expand into the Af...",
+          "url": "https://techcrunch.com/2020/10/15/stripe-acquires-nigerias-paystack-for-200m-to-expand-into-the-african-continent/",
+          "timestamp": null,
+          "description": "When Stripe announced earlier this year that it had picked up another $600 million in funding, it said one big reason for the funding was to expand its API-based payments services into more geographies. Today the company is coming good on that plan in the form of some M&A. Str...",
+          "author": {
+            "name": "Ingrid Lunden",
+            "url": "https://techcrunch.com/author/ingrid-lunden/"
+          },
+          "thumbnail": {
+            "url": "https://techcrunch.com/wp-content/uploads/2018/08/Paystack-Founders.jpg?w=653",
+            "width": 653,
+            "height": 400
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "766432700692430848",
+      "type": "Default",
+      "timestamp": "2020-10-15T22:49:55.476+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Stripe making global moves \uD83D\uDC40",
+      "author": {
+        "id": "755559222347038914",
+        "name": "$russellin49",
+        "discriminator": "2551",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755559222347038914/6897cf8cb3557c270f8decb657ffd474.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "766863985781768192",
+      "type": "Default",
+      "timestamp": "2020-10-17T03:23:41.854+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Stripe been acquiring and investing in companies it doesn't have a foothold in to better understand payments in foreign markets, just like how they led a $12M Series A in PayMongo https://techcrunch.com/2020/09/27/philippines-payment-processing-startup-paymongo-lands-12-million-series-a-led-by-stripe/",
+      "author": {
+        "id": "180519431170949122",
+        "name": "Xavi",
+        "discriminator": "0139",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/180519431170949122/63d693beafdedbd2cbf80daf044db0ab.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Philippines payment processing startup PayMongo lands $12 million S...",
+          "url": "https://techcrunch.com/2020/09/27/philippines-payment-processing-startup-paymongo-lands-12-million-series-a-led-by-stripe/",
+          "timestamp": null,
+          "description": "Stripe has led a $12 million Series A round in Manila-based online payment platform PayMongo, the startup announced today. PayMongo, which offers an online payments API for businesses in the Philippines, was the first Filipino-owned financial tech startup to take part in Y Com...",
+          "author": {
+            "name": "Catherine Shu",
+            "url": "https://techcrunch.com/author/catherine-shu/"
+          },
+          "thumbnail": {
+            "url": "https://techcrunch.com/wp-content/uploads/2020/09/hires-paymongo-header.png?w=606",
+            "width": 606,
+            "height": 400
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "766864486124093452",
+      "type": "Default",
+      "timestamp": "2020-10-17T03:25:41.145+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fun fact, when the PayMongo team was at Y-Combinator, they pitched at the Stripe office without a deck and with an MVP that uses http basic auth",
+      "author": {
+        "id": "180519431170949122",
+        "name": "Xavi",
+        "discriminator": "0139",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/180519431170949122/63d693beafdedbd2cbf80daf044db0ab.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f440.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "766866030789394442",
+      "type": "Default",
+      "timestamp": "2020-10-17T03:31:49.422+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well they also invest in Fast.af early",
+      "author": {
+        "id": "754912592316727296",
+        "name": "pranav",
+        "discriminator": "2962",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/754912592316727296/a44902c7d4c8f4e2dbae44165af85420.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "766866090260299776",
+      "type": "Default",
+      "timestamp": "2020-10-17T03:32:03.601+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Stripe will become Google of finance infra",
+      "author": {
+        "id": "754912592316727296",
+        "name": "pranav",
+        "discriminator": "2962",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/754912592316727296/a44902c7d4c8f4e2dbae44165af85420.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "766866244196368384",
+      "type": "Default",
+      "timestamp": "2020-10-17T03:32:40.302+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and then a media narrative will be built...and then a bit of hate will start.... and then anti-trust and the cycle repeats lol",
+      "author": {
+        "id": "754912592316727296",
+        "name": "pranav",
+        "discriminator": "2962",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/754912592316727296/a44902c7d4c8f4e2dbae44165af85420.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD14",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f914.png"
+          },
+          "count": 6
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "767868389225922560",
+      "type": "Default",
+      "timestamp": "2020-10-19T21:54:50.296+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lol place $50 on a court hearing with stripe within the next 6 years",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "767868426461904926",
+      "type": "Default",
+      "timestamp": "2020-10-19T21:54:59.174+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "regulatory-issues futures LMFAO",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "768090968384602153",
+      "type": "Default",
+      "timestamp": "2020-10-20T12:39:17.303+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nah, P2P has too much of a stronghold for stripe to claim monopoly",
+      "author": {
+        "id": "503273784040488991",
+        "name": "schaar",
+        "discriminator": "3400",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/503273784040488991/457071f3de65164aae689965c1adc76a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "768091352788631572",
+      "type": "Default",
+      "timestamp": "2020-10-20T12:40:48.952+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Plus the volume of c2b transactions is a fraction of what goes through most central banks in a day",
+      "author": {
+        "id": "503273784040488991",
+        "name": "schaar",
+        "discriminator": "3400",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/503273784040488991/457071f3de65164aae689965c1adc76a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "768182215162200065",
+      "type": "Default",
+      "timestamp": "2020-10-20T18:41:52.23+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Has anyone in this channel used a BlockFi account?",
+      "author": {
+        "id": "754912592316727296",
+        "name": "pranav",
+        "discriminator": "2962",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/754912592316727296/a44902c7d4c8f4e2dbae44165af85420.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "768215555404464159",
+      "type": "Default",
+      "timestamp": "2020-10-20T20:54:21.163+00:00",
+      "timestampEdited": "2020-10-20T20:54:45.28+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@pranav I created one and afterwards deleted it without using it, was just wondering what it looked like.",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "754912592316727296",
+          "name": "pranav",
+          "discriminator": 2962,
+          "nickname": "@pranavsf",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "768236018758975499",
+      "type": "Default",
+      "timestamp": "2020-10-20T22:15:40.007+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yea pomp has been using it so thought to check it out",
+      "author": {
+        "id": "754912592316727296",
+        "name": "pranav",
+        "discriminator": "2962",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/754912592316727296/a44902c7d4c8f4e2dbae44165af85420.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "768361036914098176",
+      "type": "Default",
+      "timestamp": "2020-10-21T06:32:26.658+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes I have seen it come up a lot and it seems like they are building up credibility but didn't want to take the risk yet.",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "768478589779312740",
+      "type": "Default",
+      "timestamp": "2020-10-21T14:19:33.445+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "eyyy there’s a fintech channel now \uD83C\uDF89\uD83C\uDF89",
+      "author": {
+        "id": "464455332316577804",
+        "name": "lucasjohnston",
+        "discriminator": "4662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/464455332316577804/8dc7b4e432ed2ae3cf01c7522686256b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "768478759934230528",
+      "type": "Default",
+      "timestamp": "2020-10-21T14:20:14.013+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(have been offline for the past week or two so this is new to me \uD83D\uDE42)",
+      "author": {
+        "id": "464455332316577804",
+        "name": "lucasjohnston",
+        "discriminator": "4662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/464455332316577804/8dc7b4e432ed2ae3cf01c7522686256b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "771098034817597450",
+      "type": "Default",
+      "timestamp": "2020-10-28T19:48:17.809+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yoo",
+      "author": {
+        "id": "225071574145957890",
+        "name": "hungipham",
+        "discriminator": "3196",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/225071574145957890/86f5949fb4d8f91c0686ff839713613c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "771098543247065119",
+      "type": "Default",
+      "timestamp": "2020-10-28T19:50:19.028+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Any recommendations for newsletters around fintech?",
+      "author": {
+        "id": "225071574145957890",
+        "name": "hungipham",
+        "discriminator": "3196",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/225071574145957890/86f5949fb4d8f91c0686ff839713613c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "771098885908594700",
+      "type": "Default",
+      "timestamp": "2020-10-28T19:51:40.725+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm trying to keep up with the space. Currently subscribed to Fintech Today (https://fintechtoday.substack.com/), but I'm interested in exploring more",
+      "author": {
+        "id": "225071574145957890",
+        "name": "hungipham",
+        "discriminator": "3196",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/225071574145957890/86f5949fb4d8f91c0686ff839713613c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771102380862996491",
+      "type": "Default",
+      "timestamp": "2020-10-28T20:05:33.987+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah FTT is awesome. Also Simon from 11FS does a decent roundup",
+      "author": {
+        "id": "464455332316577804",
+        "name": "lucasjohnston",
+        "discriminator": "4662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/464455332316577804/8dc7b4e432ed2ae3cf01c7522686256b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "✌️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/270c.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "771102793700081664",
+      "type": "Default",
+      "timestamp": "2020-10-28T20:07:12.415+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I also get email alerts from Finextra",
+      "author": {
+        "id": "464455332316577804",
+        "name": "lucasjohnston",
+        "discriminator": "4662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/464455332316577804/8dc7b4e432ed2ae3cf01c7522686256b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "771109079661412372",
+      "type": "Default",
+      "timestamp": "2020-10-28T20:32:11.105+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@lucasjohnston   nice! I did not know about Simon and 11:FS, thanks for sharing.",
+      "author": {
+        "id": "225071574145957890",
+        "name": "hungipham",
+        "discriminator": "3196",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/225071574145957890/86f5949fb4d8f91c0686ff839713613c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "464455332316577804",
+          "name": "lucasjohnston",
+          "discriminator": 4662,
+          "nickname": "lucasjohnston",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "771111118725840927",
+      "type": "Default",
+      "timestamp": "2020-10-28T20:40:17.256+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "np!",
+      "author": {
+        "id": "464455332316577804",
+        "name": "lucasjohnston",
+        "discriminator": "4662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/464455332316577804/8dc7b4e432ed2ae3cf01c7522686256b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "772943089349427240",
+      "type": "Default",
+      "timestamp": "2020-11-02T21:59:53.089+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "podcasts for learning about fintech?",
+      "author": {
+        "id": "755850845505060976",
+        "name": "ciaralondon",
+        "discriminator": "8706",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755850845505060976/97962aa1c855d146345e078ed780d209.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "773022049617707080",
+      "type": "Default",
+      "timestamp": "2020-11-03T03:13:38.684+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@ciaralondon don't know particularly about podcasts",
+      "author": {
+        "id": "414508441588072450",
+        "name": "paws",
+        "discriminator": "3311",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/414508441588072450/8a816afad4441302d60f31a418d5983c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "755850845505060976",
+          "name": "ciaralondon",
+          "discriminator": 8706,
+          "nickname": "ciaralondon",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "773022093364953098",
+      "type": "Default",
+      "timestamp": "2020-11-03T03:13:49.114+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But this particular course from mit seems appealing",
+      "author": {
+        "id": "414508441588072450",
+        "name": "paws",
+        "discriminator": "3311",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/414508441588072450/8a816afad4441302d60f31a418d5983c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "773022114743451698",
+      "type": "Default",
+      "timestamp": "2020-11-03T03:13:54.211+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(I've been following it)",
+      "author": {
+        "id": "414508441588072450",
+        "name": "paws",
+        "discriminator": "3311",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/414508441588072450/8a816afad4441302d60f31a418d5983c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "773022125299990578",
+      "type": "Default",
+      "timestamp": "2020-11-03T03:13:56.728+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_RVDn6srWbLV_zFnd9n0",
+      "author": {
+        "id": "414508441588072450",
+        "name": "paws",
+        "discriminator": "3311",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/414508441588072450/8a816afad4441302d60f31a418d5983c.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MIT 15.S08 FinTech: Shaping the Financial World, Spring 2020",
+          "url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_RVDn6srWbLV_zFnd9n0",
+          "timestamp": null,
+          "description": "Instructor: Prof. Gary Gensler View the complete course: https://ocw.mit.edu/15-S08S20 This course is for students wishing to explore the ways in which new t...",
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/90JWoR9MfYU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCGG4T7S3sxqSAzTBsXB-JQ8Npk5A&days_since_epoch=18569",
+            "width": 168,
+            "height": 94
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "773022186436427798",
+      "type": "Default",
+      "timestamp": "2020-11-03T03:14:11.304+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's pretty recent so there's no disconnect issues either",
+      "author": {
+        "id": "414508441588072450",
+        "name": "paws",
+        "discriminator": "3311",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/414508441588072450/8a816afad4441302d60f31a418d5983c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "773037087451643924",
+      "type": "Default",
+      "timestamp": "2020-11-03T04:13:23.983+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh dope! Thank u",
+      "author": {
+        "id": "755850845505060976",
+        "name": "ciaralondon",
+        "discriminator": "8706",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755850845505060976/97962aa1c855d146345e078ed780d209.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "773731078434586664",
+      "type": "Default",
+      "timestamp": "2020-11-05T02:11:04.327+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "crossmessaging here if you might be interested",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "773731081286451202",
+      "type": "Default",
+      "timestamp": "2020-11-05T02:11:05.007+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.iris.finance/",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Iris Finance - Home",
+          "url": "https://www.iris.finance/",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774015595359633418",
+      "type": "Default",
+      "timestamp": "2020-11-05T21:01:38.448+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anyone here know about some \uD83D\uDD25 fintech startups that have disruption potential but aren’t as  well known yet? Looking for some startups to pitch at a high profile fintech event TBA early next year w kickass people like david walsh in attendance \uD83D\uDC40",
+      "author": {
+        "id": "486238163103252482",
+        "name": "cxcx",
+        "discriminator": "6732",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/486238163103252482/8586f0925a56d20c1884978af18bd852.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774017178512916511",
+      "type": "Default",
+      "timestamp": "2020-11-05T21:07:55.901+00:00",
+      "timestampEdited": "2020-11-05T21:08:04.386+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://umber.co \uD83D\uDE09",
+      "author": {
+        "id": "464455332316577804",
+        "name": "lucasjohnston",
+        "discriminator": "4662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/464455332316577804/8dc7b4e432ed2ae3cf01c7522686256b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "umber",
+          "url": "https://umber.co/",
+          "timestamp": null,
+          "description": "a new way for young people to manage their money. launching later this year.",
+          "color": "#171B1B",
+          "thumbnail": {
+            "url": "https://umber.co/logo-400.png",
+            "width": 400,
+            "height": 400
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774017187873685514",
+      "type": "Default",
+      "timestamp": "2020-11-05T21:07:58.133+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no shame",
+      "author": {
+        "id": "464455332316577804",
+        "name": "lucasjohnston",
+        "discriminator": "4662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/464455332316577804/8dc7b4e432ed2ae3cf01c7522686256b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774074395924758538",
+      "type": "Default",
+      "timestamp": "2020-11-06T00:55:17.595+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.quantopian.com/posts/were-joining-robinhood",
+      "author": {
+        "id": "391730725994364929",
+        "name": "Robi",
+        "discriminator": "7907",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/391730725994364929/cacf935004543abaf28b1a65aae40cd5.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "We’re Joining Robinhood!",
+          "url": "https://www.quantopian.com/posts/were-joining-robinhood",
+          "timestamp": null,
+          "description": "Hi everyone, The Quantopian team is joining Robinhood to continue to pursue our passion for opening access to markets and democratizing the financial system. Quantopian has always stood for greater access and deeper education, so we are fundamentally aligned with Robinhood’s m...",
+          "thumbnail": {
+            "url": "https://media.quantopian.com/public/og-image-default.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774098218212261898",
+      "type": "Default",
+      "timestamp": "2020-11-06T02:29:57.271+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "for anyone in the fintech broker dealer space, how would i go about regulatory advice?",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774098239775047681",
+      "type": "Default",
+      "timestamp": "2020-11-06T02:30:02.412+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyone have any expertise there",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774288876923650048",
+      "type": "Default",
+      "timestamp": "2020-11-06T15:07:33.85+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@yashgodiwala depends on the country! us i take it?",
+      "author": {
+        "id": "464455332316577804",
+        "name": "lucasjohnston",
+        "discriminator": "4662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/464455332316577804/8dc7b4e432ed2ae3cf01c7522686256b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "168396939862343680",
+          "name": "yashgodiwala",
+          "discriminator": 6508,
+          "nickname": "¿yash",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "774308694249963541",
+      "type": "Default",
+      "timestamp": "2020-11-06T16:26:18.669+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yessir! @lucasjohnston",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "464455332316577804",
+          "name": "lucasjohnston",
+          "discriminator": 4662,
+          "nickname": "lucasjohnston",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "774794400931905557",
+      "type": "Default",
+      "timestamp": "2020-11-08T00:36:20.166+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> \n> https://umber.co \uD83D\uDE09\n> @lucasjohnston  I've a mate from an accelerator working here, not familiar with the service personally but If he's there I'd have a confidence in it.",
+      "author": {
+        "id": "270666670807187467",
+        "name": "Jack O'Regan Kenny",
+        "discriminator": "5064",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270666670807187467/4125c65c87750b4e5d8f38f8c6e4a1d6.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "umber",
+          "url": "https://umber.co/",
+          "timestamp": null,
+          "description": "a new way for young people to manage their money. launching later this year.",
+          "color": "#171B1B",
+          "thumbnail": {
+            "url": "https://umber.co/logo-400.png",
+            "width": 400,
+            "height": 400
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "464455332316577804",
+          "name": "lucasjohnston",
+          "discriminator": 4662,
+          "nickname": "lucasjohnston",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "774794697209282570",
+      "type": "Default",
+      "timestamp": "2020-11-08T00:37:30.804+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mentioned you were on here to Liam the other day \uD83D\uDE09",
+      "author": {
+        "id": "464455332316577804",
+        "name": "lucasjohnston",
+        "discriminator": "4662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/464455332316577804/8dc7b4e432ed2ae3cf01c7522686256b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774794926978105384",
+      "type": "Default",
+      "timestamp": "2020-11-08T00:38:25.585+00:00",
+      "timestampEdited": "2020-11-08T00:39:04.484+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ah your the Lucas! I've heard that you mentioned me, great to meet you. Liam's a great man",
+      "author": {
+        "id": "270666670807187467",
+        "name": "Jack O'Regan Kenny",
+        "discriminator": "5064",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270666670807187467/4125c65c87750b4e5d8f38f8c6e4a1d6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "775063437734182913",
+      "type": "Default",
+      "timestamp": "2020-11-08T18:25:23.538+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am indeed! Great to meet you too - he is indeed \uD83D\uDE42",
+      "author": {
+        "id": "464455332316577804",
+        "name": "lucasjohnston",
+        "discriminator": "4662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/464455332316577804/8dc7b4e432ed2ae3cf01c7522686256b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "777918625649786891",
+      "type": "Default",
+      "timestamp": "2020-11-16T15:30:53.384+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> Anyone here know about some \uD83D\uDD25 fintech startups that have disruption potential but aren’t as  well known yet? Looking for some startups to pitch at a high profile fintech event TBA early next year w kickass people like david walsh in attendance \uD83D\uDC40\n@cxcx I am working on launching one that you might be interested in.",
+      "author": {
+        "id": "614866243807215651",
+        "name": "leo.guinan",
+        "discriminator": "9723",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/614866243807215651/53e697de3b3cbefcab83cd2baa846176.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "486238163103252482",
+          "name": "cxcx",
+          "discriminator": 6732,
+          "nickname": "cxcx",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "777929467514716231",
+      "type": "Default",
+      "timestamp": "2020-11-16T16:13:58.286+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> Anyone here know about some \uD83D\uDD25 fintech startups that have disruption potential but aren’t as  well known yet? Looking for some startups to pitch at a high profile fintech event TBA early next year w kickass people like david walsh in attendance \uD83D\uDC40\n@cxcx You're speaking my language. I launched a fintech a couple months back called Pigeon Loans. We're the world's first global lending platform that allows you to create and manage loans between your friends, family, and loved ones. We're disrupting a $200 Billion dollar US market and a $1 Trillion Dollar global market. We're working on a US patent, experiencing 86% user growth month-over-month, and supported by some pretty well known folks. Check us out https://www.pigeonloans.io",
+      "author": {
+        "id": "777732951181754378",
+        "name": "mr_$tealyogirl",
+        "discriminator": "8205",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/777732951181754378/a15e20d8c15dea3d64049cf78c8bb3f1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Loans With The Ones You Trust | Pigeon Loans",
+          "url": "https://www.pigeonloans.io/",
+          "timestamp": null,
+          "description": "Pigeon Loans offers you a safe and secure way to negotiate, create, and make loans with your friends, family and loved ones. You decide the terms of your loan agreement like, whether or not you want to charge your friend an interest rate and can even plan out what your repayme...",
+          "color": "#FFB33F",
+          "thumbnail": {
+            "url": "https://www.pigeonloans.io/logo.png",
+            "width": 1200,
+            "height": 1200
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "772521912558419968",
+            "name": "genz",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/772521912558419968.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "486238163103252482",
+          "name": "cxcx",
+          "discriminator": 6732,
+          "nickname": "cxcx",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "778457335663165451",
+      "type": "Default",
+      "timestamp": "2020-11-18T03:11:31.86+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Perhaps Peter Tio will be here?",
+      "author": {
+        "id": "716475219908362251",
+        "name": "Kevalin",
+        "discriminator": "2270",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716475219908362251/7cc754c7c0ee07a0645cf13dd1b46ed0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778461699195535390",
+      "type": "Default",
+      "timestamp": "2020-11-18T03:28:52.207+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Am I the only one disturbed by how Plaid—the core fintech infra—is basically just glorified phishing",
+      "author": {
+        "id": "267119476045119488",
+        "name": "BrennanColberg",
+        "discriminator": "2492",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/267119476045119488/a7d8a852bac5d39952b71dd5b7a300a8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778611634541297675",
+      "type": "Default",
+      "timestamp": "2020-11-18T13:24:39.579+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anybody want to bounce a few ideas around with me? I am new to the fintech arena and am currently working on putting together my MVP.",
+      "author": {
+        "id": "614866243807215651",
+        "name": "leo.guinan",
+        "discriminator": "9723",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/614866243807215651/53e697de3b3cbefcab83cd2baa846176.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778647266269462598",
+      "type": "Default",
+      "timestamp": "2020-11-18T15:46:14.845+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@BrennanColberg wdym?",
+      "author": {
+        "id": "371740818828165132",
+        "name": "jakeslaps",
+        "discriminator": "7236",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/371740818828165132/9abdf62cb36db0d8de08b0d64a1dee02.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "267119476045119488",
+          "name": "BrennanColberg",
+          "discriminator": 2492,
+          "nickname": "BrennanColberg",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "778656042800250921",
+      "type": "Default",
+      "timestamp": "2020-11-18T16:21:07.333+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@jakeslaps they put up a fake UI with the bank's name on it, have you enter your credentials *for that bank*, then go in on the backend and log in as you to check what your account balances are (and/or initiate transfers)\n\nit's pretty much just a legit version of the \"phishing\" scam, where you send an email linking to a fake site to get people to put in their credentials https://en.wikipedia.org/wiki/Phishing",
+      "author": {
+        "id": "267119476045119488",
+        "name": "BrennanColberg",
+        "discriminator": "2492",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/267119476045119488/a7d8a852bac5d39952b71dd5b7a300a8.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Phishing",
+          "url": "https://en.wikipedia.org/wiki/Phishing",
+          "timestamp": null,
+          "description": "Phishing is the fraudulent attempt to obtain sensitive information or data, such as usernames, passwords and credit card details, by disguising oneself as a trustworthy entity in an electronic communication. Typically carried out by email spoofing, instant messaging, and text ...",
+          "thumbnail": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/PhishingTrustedBank.png",
+            "width": 549,
+            "height": 408
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "371740818828165132",
+          "name": "jakeslaps",
+          "discriminator": 7236,
+          "nickname": "jakeslaps",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "778659542577053706",
+      "type": "Default",
+      "timestamp": "2020-11-18T16:35:01.745+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ohh ya I understand. They definitely aren't v transparent about what they're doing, it's pretty sus",
+      "author": {
+        "id": "371740818828165132",
+        "name": "jakeslaps",
+        "discriminator": "7236",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/371740818828165132/9abdf62cb36db0d8de08b0d64a1dee02.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778673052652142622",
+      "type": "Default",
+      "timestamp": "2020-11-18T17:28:42.798+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah the fact that they take your password isntead of some token is really sus",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778673257351086101",
+      "type": "Default",
+      "timestamp": "2020-11-18T17:29:31.602+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think Capital One and Chase let you use a token",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778673333721628724",
+      "type": "Default",
+      "timestamp": "2020-11-18T17:29:49.81+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But then again Mint and Personal Capital both take passwords too",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778673424075325510",
+      "type": "Default",
+      "timestamp": "2020-11-18T17:30:11.352+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tbh banks needs read only passwords for shit like Personal Capital",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778673430479765514",
+      "type": "Default",
+      "timestamp": "2020-11-18T17:30:12.879+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't think I have plaid",
+      "author": {
+        "id": "371740818828165132",
+        "name": "jakeslaps",
+        "discriminator": "7236",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/371740818828165132/9abdf62cb36db0d8de08b0d64a1dee02.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778673485517422603",
+      "type": "Default",
+      "timestamp": "2020-11-18T17:30:26.001+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but if I changed my password, would it break the plaid app?",
+      "author": {
+        "id": "371740818828165132",
+        "name": "jakeslaps",
+        "discriminator": "7236",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/371740818828165132/9abdf62cb36db0d8de08b0d64a1dee02.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778673798056247316",
+      "type": "Default",
+      "timestamp": "2020-11-18T17:31:40.516+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Prolly just have to re sign in",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778673830142935110",
+      "type": "Default",
+      "timestamp": "2020-11-18T17:31:48.166+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bc all your auth tokens get invalidated",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778673931451105281",
+      "type": "Default",
+      "timestamp": "2020-11-18T17:32:12.32+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> Tbh banks needs read only passwords for shit like Personal Capital\n@piddy This makes too much sense, but instead let's get a more complex, bloated financial services bundle",
+      "author": {
+        "id": "371740818828165132",
+        "name": "jakeslaps",
+        "discriminator": "7236",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/371740818828165132/9abdf62cb36db0d8de08b0d64a1dee02.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "377297751106519041",
+          "name": "piddy",
+          "discriminator": 3845,
+          "nickname": "piddy",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "778674319902900244",
+      "type": "Default",
+      "timestamp": "2020-11-18T17:33:44.934+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thing is if your system only has authenticated/not authenticated status",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778674400383205377",
+      "type": "Default",
+      "timestamp": "2020-11-18T17:34:04.122+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Probably hard to add read only access",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778674481551114281",
+      "type": "Default",
+      "timestamp": "2020-11-18T17:34:23.474+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We had to add that for a small use case at work and managing it is a pain in the ass",
+      "author": {
+        "id": "377297751106519041",
+        "name": "piddy",
+        "discriminator": "3845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377297751106519041/5cc5e9c8a359494ef043bc1c4dda9d52.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778916078297940009",
+      "type": "Default",
+      "timestamp": "2020-11-19T09:34:24.627+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What are the best API's for financial data for a small side project? \n\nWas looking into https://iexcloud.io/core-data/ and a few others.",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Core Data | IEX Cloud",
+          "url": "https://iexcloud.io/core-data/",
+          "timestamp": null,
+          "description": "One core financial API for all your financial data needs",
+          "color": "#F7F8FB",
+          "thumbnail": {
+            "url": "https://iexcloud.io/images/share-card.png",
+            "width": 1201,
+            "height": 628
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779002490921811979",
+      "type": "Default",
+      "timestamp": "2020-11-19T15:17:47.002+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Robrecht I've had a really good experience with the IEX API. https://github.com/ranaroussi/yfinance is a good option if you're looking for something free, although it's slower and less reliable",
+      "author": {
+        "id": "240630841640747010",
+        "name": "KjamesV",
+        "discriminator": "2180",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/240630841640747010/d4918ab895f0296b97fa201070c2f6d0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ranaroussi/yfinance",
+          "url": "https://github.com/ranaroussi/yfinance",
+          "timestamp": null,
+          "description": "Yahoo! Finance market data downloader (+faster Pandas Datareader) - ranaroussi/yfinance",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://repository-images.githubusercontent.com/91948540/e2b14a80-7fc7-11e9-8b9b-5e1f56b0052a",
+            "width": 1280,
+            "height": 640
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "195607094232219658",
+          "name": "Robrecht",
+          "discriminator": 4440,
+          "nickname": "Robrecht",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "779010749548462120",
+      "type": "Default",
+      "timestamp": "2020-11-19T15:50:36.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@KjamesV Thanks for the info! Will look into yfinance as well!",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "240630841640747010",
+          "name": "KjamesV",
+          "discriminator": 2180,
+          "nickname": "KjamesV",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "779010764978651166",
+      "type": "Default",
+      "timestamp": "2020-11-19T15:50:39.691+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Robrecht check out Quandl",
+      "author": {
+        "id": "607109448518991922",
+        "name": "jazilzaim",
+        "discriminator": "3976",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/607109448518991922/04f412acafcc80ac0f4f56e36b6f8320.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "195607094232219658",
+          "name": "Robrecht",
+          "discriminator": 4440,
+          "nickname": "Robrecht",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "779010840656347146",
+      "type": "Default",
+      "timestamp": "2020-11-19T15:50:57.734+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.quandl.com/",
+      "author": {
+        "id": "607109448518991922",
+        "name": "jazilzaim",
+        "discriminator": "3976",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/607109448518991922/04f412acafcc80ac0f4f56e36b6f8320.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Quandl",
+          "url": "https://www.quandl.com/",
+          "timestamp": null,
+          "description": "The source for financial, economic, and alternative datasets, serving investment professionals.",
+          "thumbnail": {
+            "url": "http://www.quandl.com/images/head/quandl-logo-social.png",
+            "width": 1024,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779010989483229194",
+      "type": "Default",
+      "timestamp": "2020-11-19T15:51:33.217+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@jazilzaim Thanks for the suggestion, going to give it a look! Did you work with it before?",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "607109448518991922",
+          "name": "jazilzaim",
+          "discriminator": 3976,
+          "nickname": "jazilzaim",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "779011060594114621",
+      "type": "Default",
+      "timestamp": "2020-11-19T15:51:50.171+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Robrecht Just tried it for fun to mess around with a project a while back",
+      "author": {
+        "id": "607109448518991922",
+        "name": "jazilzaim",
+        "discriminator": "3976",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/607109448518991922/04f412acafcc80ac0f4f56e36b6f8320.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "195607094232219658",
+          "name": "Robrecht",
+          "discriminator": 4440,
+          "nickname": "Robrecht",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "779011255490183169",
+      "type": "Default",
+      "timestamp": "2020-11-19T15:52:36.638+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cool!",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779356429848150116",
+      "type": "Default",
+      "timestamp": "2020-11-20T14:44:12.618+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anyone know about the alpaca API?\n (https://www.alpaca.markets)",
+      "author": {
+        "id": "665871945094397954",
+        "name": "cmdGeneral",
+        "discriminator": "0290",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665871945094397954/615d055e1ff39603992be82d3e77e6b1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779359012717068319",
+      "type": "Default",
+      "timestamp": "2020-11-20T14:54:28.422+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ye boi @cmdGeneral what's on your mind",
+      "author": {
+        "id": "371740818828165132",
+        "name": "jakeslaps",
+        "discriminator": "7236",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/371740818828165132/9abdf62cb36db0d8de08b0d64a1dee02.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "665871945094397954",
+          "name": "cmdGeneral",
+          "discriminator": 290,
+          "nickname": "Sid (@fflowerdogg)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "779360987274805258",
+      "type": "Default",
+      "timestamp": "2020-11-20T15:02:19.193+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wanted to know if anyone ever got to using it to build anything that's not a stock trading platform \nmaybe use it for personal use?",
+      "author": {
+        "id": "665871945094397954",
+        "name": "cmdGeneral",
+        "discriminator": "0290",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665871945094397954/615d055e1ff39603992be82d3e77e6b1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779361190253035530",
+      "type": "Default",
+      "timestamp": "2020-11-20T15:03:07.587+00:00",
+      "timestampEdited": "2020-11-20T15:07:40.967+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just curious... I know it's powerful asl (if used right)",
+      "author": {
+        "id": "665871945094397954",
+        "name": "cmdGeneral",
+        "discriminator": "0290",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665871945094397954/615d055e1ff39603992be82d3e77e6b1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779367238247120966",
+      "type": "Default",
+      "timestamp": "2020-11-20T15:27:09.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm playing around with it rn for some day trading bot stuff, I know there's bots all over the git universe for personal use",
+      "author": {
+        "id": "371740818828165132",
+        "name": "jakeslaps",
+        "discriminator": "7236",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/371740818828165132/9abdf62cb36db0d8de08b0d64a1dee02.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCB8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4b8.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779367667605045268",
+      "type": "Default",
+      "timestamp": "2020-11-20T15:28:51.908+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC40 good to know!\nwhat do you want your bot to do",
+      "author": {
+        "id": "665871945094397954",
+        "name": "cmdGeneral",
+        "discriminator": "0290",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665871945094397954/615d055e1ff39603992be82d3e77e6b1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779373360161226802",
+      "type": "Default",
+      "timestamp": "2020-11-20T15:51:29.119+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Increase accessibility to automated trading -> I'll post some updates here in a week or two probably",
+      "author": {
+        "id": "371740818828165132",
+        "name": "jakeslaps",
+        "discriminator": "7236",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/371740818828165132/9abdf62cb36db0d8de08b0d64a1dee02.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779374364776857610",
+      "type": "Default",
+      "timestamp": "2020-11-20T15:55:28.638+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yessir",
+      "author": {
+        "id": "665871945094397954",
+        "name": "cmdGeneral",
+        "discriminator": "0290",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665871945094397954/615d055e1ff39603992be82d3e77e6b1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779458943293325332",
+      "type": "Default",
+      "timestamp": "2020-11-20T21:31:33.728+00:00",
+      "timestampEdited": "2020-11-27T23:50:40.102+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "one of my old friend starting fintech vc and he invited me to his slack channel. hop in if you are interested. just fyi.\nhttps://join.slack.com/t/global-finnovation/shared_invite/zt-7tfs4akn-CBMwwIWvPZVXIpfnf94oKA\nUPDATE: It's actually not his but recommended.",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [
+        {
+          "id": "779458941024862218",
+          "url": "https://cdn.discordapp.com/attachments/759244828512092191/779458941024862218/Screen_Shot_2020-11-20_at_1.30.55_PM.png",
+          "fileName": "Screen_Shot_2020-11-20_at_1.30.55_PM.png",
+          "fileSizeBytes": 422061
+        }
+      ],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 8
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780520320712572979",
+      "type": "Default",
+      "timestamp": "2020-11-23T19:49:05.824+00:00",
+      "timestampEdited": "2020-11-23T19:50:33.029+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anyone from India(or having insights into India) in this channel know whether Green Tiger is popular there or not? \nJust wanted to gauge how big or popular or trustworthy it is",
+      "author": {
+        "id": "665871945094397954",
+        "name": "cmdGeneral",
+        "discriminator": "0290",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665871945094397954/615d055e1ff39603992be82d3e77e6b1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780520500819918875",
+      "type": "Default",
+      "timestamp": "2020-11-23T19:49:48.765+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just saw on a subreddit that a year ago, \"there are a lot of reasons to not use this right now\" in the comments\nhttps://www.reddit.com/r/IndiaInvestments/comments/cu1bok/anyone_used_green_tiger/",
+      "author": {
+        "id": "665871945094397954",
+        "name": "cmdGeneral",
+        "discriminator": "0290",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665871945094397954/615d055e1ff39603992be82d3e77e6b1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "r/IndiaInvestments - Anyone used Green tiger",
+          "url": "https://www.reddit.com/r/IndiaInvestments/comments/cu1bok/anyone_used_green_tiger/",
+          "timestamp": null,
+          "description": "11 votes and 17 comments so far on Reddit",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://external-preview.redd.it/MuP7mGQ6jQEh2VXCXMKoYWZtsbF6MML9gISUwnaSLO0.jpg?auto=webp&s=cafa17e72657a58bc2aaece3cdb3c1e77be912b2",
+            "width": 1572,
+            "height": 1066
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780521362753191956",
+      "type": "Default",
+      "timestamp": "2020-11-23T19:53:14.266+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Asking because I'd like to know how Robinhood replicas are doing outside of the United States... can't seem to find a proper metric on whether people use the platform or trust it even",
+      "author": {
+        "id": "665871945094397954",
+        "name": "cmdGeneral",
+        "discriminator": "0290",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665871945094397954/615d055e1ff39603992be82d3e77e6b1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782011903084986388",
+      "type": "Reply",
+      "timestamp": "2020-11-27T22:36:06.774+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is that sheel's slack?",
+      "author": {
+        "id": "428585060304814080",
+        "name": "wilson",
+        "discriminator": "2038",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/428585060304814080/6e66fa5b235b82a9ece19bd379b37253.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "713464564997685329",
+          "name": "mei",
+          "discriminator": 8977,
+          "nickname": "mei",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "779458943293325332",
+        "channelId": "759244828512092191",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "782015373116440596",
+      "type": "Reply",
+      "timestamp": "2020-11-27T22:49:54.094+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "428585060304814080",
+          "name": "wilson",
+          "discriminator": 2038,
+          "nickname": "!wilson (@wilsonsaccount)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "782011903084986388",
+        "channelId": "759244828512092191",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "782030458791133185",
+      "type": "Default",
+      "timestamp": "2020-11-27T23:49:50.799+00:00",
+      "timestampEdited": "2020-11-27T23:50:01.296+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh wait no, he actually recommended for fintech startup networking sry my bad. @wilson",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "428585060304814080",
+          "name": "wilson",
+          "discriminator": 2038,
+          "nickname": "!wilson (@wilsonsaccount)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "783768690722078740",
+      "type": "Default",
+      "timestamp": "2020-12-02T18:56:57.586+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Another good slack for fintech is Fintech Today! I know the folks over there so let me know if you need an intro",
+      "author": {
+        "id": "748229026446835794",
+        "name": "brooke leblanc",
+        "discriminator": "9642",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD1E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f91e.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784150045968564246",
+      "type": "Default",
+      "timestamp": "2020-12-03T20:12:19.762+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i’d love to get on if possible",
+      "author": {
+        "id": "769699292264005632",
+        "name": "noorie",
+        "discriminator": "0131",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/769699292264005632/f0720038ee91f418bc6b44aad72903bf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784211368298938438",
+      "type": "Default",
+      "timestamp": "2020-12-04T00:16:00.145+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "same",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784317212907274270",
+      "type": "Default",
+      "timestamp": "2020-12-04T07:16:35.466+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That sounds hella lit",
+      "author": {
+        "id": "739429338100924516",
+        "name": "haden",
+        "discriminator": "7264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739429338100924516/d070e3f343bad45ea5ffd9b55f65746c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785201135828467722",
+      "type": "Default",
+      "timestamp": "2020-12-06T17:48:59.113+00:00",
+      "timestampEdited": "2020-12-06T17:49:09.202+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi everyone, I asked kind of the same questions a few weeks ago but I am going to be more specific this time. \n\nI am building a portfolio manager as a sideproject and want to update prices of stocks, crypto, etc.\n\nIs there 1 API that covers everything? An all in one solution for stocks in the US, EU, ... and also currencies, crypto,...? \n\nI found a few different options but it looks like some only cover US stocks, others only crypto etc.",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785513506845491202",
+      "type": "Reply",
+      "timestamp": "2020-12-07T14:30:14.167+00:00",
+      "timestampEdited": "2020-12-07T14:32:36.911+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I had a similar idea but only for crypto.\nIdk about getting the full historical data from a publicly available API, but if you want real time price feeds for most crypto exchanges, you can use this public API that uses websockets to connect to each exchange. \n\nIt also provides order book data, in addition to ticker, trade, and candle data.\n\nAlmost forgot to share the link lol:\nhttps://github.com/altangent/ccxws",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "altangent/ccxws",
+          "url": "https://github.com/altangent/ccxws",
+          "timestamp": null,
+          "description": "WebSocket client for 38 cryptocurrency exchanges. Contribute to altangent/ccxws development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://avatars0.githubusercontent.com/u/33230426?s=400&v=4",
+            "width": 384,
+            "height": 384
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "195607094232219658",
+          "name": "Robrecht",
+          "discriminator": 4440,
+          "nickname": "Robrecht",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "785201135828467722",
+        "channelId": "759244828512092191",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "785516894752866324",
+      "type": "Default",
+      "timestamp": "2020-12-07T14:43:41.907+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Interesting, thanks for sharing @platocrat !",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783724226619768912",
+          "name": "platocrat",
+          "discriminator": 4224,
+          "nickname": "platocrat",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "787036689599692800",
+      "type": "Default",
+      "timestamp": "2020-12-11T19:22:49.235+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @Robrecht did u end up using the ccxws lib?",
+      "author": {
+        "id": "141059180969721856",
+        "name": "rohan.kapur",
+        "discriminator": "0616",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141059180969721856/6dacc7c1d90952c507bec11162017148.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "195607094232219658",
+          "name": "Robrecht",
+          "discriminator": 4440,
+          "nickname": "Robrecht",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "787036738542895144",
+      "type": "Default",
+      "timestamp": "2020-12-11T19:23:00.904+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have a few questions about it that maybe you could answer",
+      "author": {
+        "id": "141059180969721856",
+        "name": "rohan.kapur",
+        "discriminator": "0616",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141059180969721856/6dacc7c1d90952c507bec11162017148.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787037350785187870",
+      "type": "Default",
+      "timestamp": "2020-12-11T19:25:26.874+00:00",
+      "timestampEdited": "2020-12-11T19:25:43.303+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @rohan.kapur, no after looking at a lot of options I limted my project to crypto and used this API (https://www.coingecko.com/en/api), made the whole process a lot simpeler",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "141059180969721856",
+          "name": "rohan.kapur",
+          "discriminator": 616,
+          "nickname": "rohan.kapur",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "787045735526694933",
+      "type": "Default",
+      "timestamp": "2020-12-11T19:58:45.952+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ahh fair enough",
+      "author": {
+        "id": "141059180969721856",
+        "name": "rohan.kapur",
+        "discriminator": "0616",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141059180969721856/6dacc7c1d90952c507bec11162017148.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787392188220571688",
+      "type": "Default",
+      "timestamp": "2020-12-12T18:55:26.711+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How do you all feel about Fast?",
+      "author": {
+        "id": "607109448518991922",
+        "name": "jazilzaim",
+        "discriminator": "3976",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/607109448518991922/04f412acafcc80ac0f4f56e36b6f8320.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787412081589747773",
+      "type": "Default",
+      "timestamp": "2020-12-12T20:14:29.66+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Looks like they are doing good, are taking a 'building in public approach' to get a lot of brand recognition.",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787412256719503420",
+      "type": "Default",
+      "timestamp": "2020-12-12T20:15:11.414+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Don't know how it will play out with the other big players in the market though.",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787443343729754173",
+      "type": "Default",
+      "timestamp": "2020-12-12T22:18:43.135+00:00",
+      "timestampEdited": "2020-12-12T22:19:19.335+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't think the product is something good to build as a startup. Big e-commerce players have no reason to implement it and it can easily be copied by larger cos (Shopify, Stripe) in a matter of days, which they would rather do than using fast. Company branding is cool but I see no path to a mainstream adoption for fast checkout",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787937372091842572",
+      "type": "Reply",
+      "timestamp": "2020-12-14T07:01:48.675+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes,  fast checkout is surely a good thing but I don't think people will immediately adopt it only for this feature",
+      "author": {
+        "id": "473208935281721354",
+        "name": "_Aman_",
+        "discriminator": "0319",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473208935281721354/2ad7dacd8b0bead1cb18b2154500fe4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "238740157254074368",
+          "name": "Luis",
+          "discriminator": 3761,
+          "nickname": "Luis",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "787443343729754173",
+        "channelId": "759244828512092191",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "787937933268090892",
+      "type": "Default",
+      "timestamp": "2020-12-14T07:04:02.47+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@jazilzaim @Robrecht @Luis  what do you guys think of whatsapp payment? heard a podcast on  similar topic of social merging with fintech today",
+      "author": {
+        "id": "473208935281721354",
+        "name": "_Aman_",
+        "discriminator": "0319",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473208935281721354/2ad7dacd8b0bead1cb18b2154500fe4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "238740157254074368",
+          "name": "Luis",
+          "discriminator": 3761,
+          "nickname": "Luis",
+          "isBot": false
+        },
+        {
+          "id": "195607094232219658",
+          "name": "Robrecht",
+          "discriminator": 4440,
+          "nickname": "Robrecht",
+          "isBot": false
+        },
+        {
+          "id": "607109448518991922",
+          "name": "jazilzaim",
+          "discriminator": 3976,
+          "nickname": "jazilzaim",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "787937969808867338",
+      "type": "Default",
+      "timestamp": "2020-12-14T07:04:11.182+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.spotify.com/episode/28FnUePAXh50zqMwzdABcv?si=xK1v7ucoRjmq2lLmCPwZ0A",
+      "author": {
+        "id": "473208935281721354",
+        "name": "_Aman_",
+        "discriminator": "0319",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473208935281721354/2ad7dacd8b0bead1cb18b2154500fe4a.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Holy Grail of Social + Fintech - a16z Podcast",
+          "url": "https://open.spotify.com/episode/28FnUePAXh50zqMwzdABcv?si=xK1v7ucoRjmq2lLmCPwZ0A",
+          "timestamp": null,
+          "description": "The intersection of social and finance—as well as shifting attitudes around what we share about money online—have given way to an ambitious new wave of financial products.While revealing one’s financial information was once considered taboo, now people are more apt than ever to openly discuss money online, particularly Gen Z and millenn...",
+          "thumbnail": {
+            "url": "https://i.scdn.co/image/7485a1ed803a5a785b2d46997f160ee40bc43606",
+            "width": 640,
+            "height": 640
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787939724345212939",
+      "type": "Reply",
+      "timestamp": "2020-12-14T07:11:09.496+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ahh I cant speak on that since that hasn't arrived in the US yet. I think only users in India and Brazil have that feature",
+      "author": {
+        "id": "607109448518991922",
+        "name": "jazilzaim",
+        "discriminator": "3976",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/607109448518991922/04f412acafcc80ac0f4f56e36b6f8320.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "473208935281721354",
+          "name": "_Aman_",
+          "discriminator": 319,
+          "nickname": "_Aman_",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "787937933268090892",
+        "channelId": "759244828512092191",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "787943412841840640",
+      "type": "Reply",
+      "timestamp": "2020-12-14T07:25:48.902+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In general what do you think of merging social with fintech will it unlock a new set of innovatives? Would love to explore about the possibilities",
+      "author": {
+        "id": "473208935281721354",
+        "name": "_Aman_",
+        "discriminator": "0319",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473208935281721354/2ad7dacd8b0bead1cb18b2154500fe4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "607109448518991922",
+          "name": "jazilzaim",
+          "discriminator": 3976,
+          "nickname": "jazilzaim",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "787939724345212939",
+        "channelId": "759244828512092191",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "787957269077557277",
+      "type": "Default",
+      "timestamp": "2020-12-14T08:20:52.486+00:00",
+      "timestampEdited": "2020-12-14T08:21:13.097+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think we are generally moving in that direction. Social is mixing with ecommerce, Instagram has now a shopping tab. Live streaming is also being used for ecommerce, where a person is showing products and giving more information about it if you ask for it (more commonly used in eastern countries atm)\n\nI haven't used whatsapp payment but I think there is indeed a trend that will have a big impact.",
+      "author": {
+        "id": "195607094232219658",
+        "name": "Robrecht",
+        "discriminator": "4440",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/195607094232219658/4b9f7c8eedb7c5984c3c365114e2553a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787963245301989378",
+      "type": "Default",
+      "timestamp": "2020-12-14T08:44:37.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "More platforms for marketers to advertise their products, indirectly making selling easier, also the concept of virtual currency that we know of as reward points will increase in adoption, I personally think platforms will move towards more user engagement which means creating a game like experience for users",
+      "author": {
+        "id": "473208935281721354",
+        "name": "_Aman_",
+        "discriminator": "0319",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473208935281721354/2ad7dacd8b0bead1cb18b2154500fe4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788074086433292359",
+      "type": "Default",
+      "timestamp": "2020-12-14T16:05:03.914+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.producthunt.com/posts/data-lotto hm...",
+      "author": {
+        "id": "581094181901172736",
+        "name": "injesst",
+        "discriminator": "2275",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/581094181901172736/c5004df8150fa37a6bc6a18e5b324d78.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Data Lotto - give us your data, we sell it, one person gets all the...",
+          "url": "https://www.producthunt.com/posts/data-lotto",
+          "timestamp": null,
+          "description": "First, we collect your user data. Once we have lots of it, this data starts to become an asset we can sell to advertisers. After, we sell everyone’s data for as much money as we can. Then, ONE lucky person gets all the profits from the sale.",
+          "thumbnail": {
+            "url": "https://ph-files.imgix.net/9a7206a6-37c5-4110-ada7-46d103a13039.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+            "width": 1024,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788087077408735253",
+      "type": "Reply",
+      "timestamp": "2020-12-14T16:56:41.204+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "regarding this, it is really interesting. I know that apps like Wechat have perfected this. I really wonder how Facebook (owns Whatsapp) can pull this off for sure",
+      "author": {
+        "id": "607109448518991922",
+        "name": "jazilzaim",
+        "discriminator": "3976",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/607109448518991922/04f412acafcc80ac0f4f56e36b6f8320.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "473208935281721354",
+          "name": "_Aman_",
+          "discriminator": 319,
+          "nickname": "_Aman_",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "787943412841840640",
+        "channelId": "759244828512092191",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788801731462692924",
+      "type": "Default",
+      "timestamp": "2020-12-16T16:16:28.008+00:00",
+      "timestampEdited": "2020-12-16T16:17:11.37+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Going to be picking up a project in the nearish future:\n\nEspecially relevant after today - a sentiment analysis Twitter API for tickers and crypto. How's your asset trending?\n\nDM if you have any decent experience with sentiment analysis and this sounds interesting.",
+      "author": {
+        "id": "371740818828165132",
+        "name": "jakeslaps",
+        "discriminator": "7236",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/371740818828165132/9abdf62cb36db0d8de08b0d64a1dee02.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789566815217909772",
+      "type": "Default",
+      "timestamp": "2020-12-18T18:56:38.19+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Given all the hype around auctions in crypto art, I'm guessing that collecting vinyl records (music) will be just as big as collecting paintings (huge market).\n\nSothebys rn only has a couple of vinyl records on auctions and on their store. -- my guess this is only going to grow to all up and coming artists, not only the all-stars. Streaming will only make vinyls more rare and attractive for collectables. \n\nAnyone here has experience in this industry (auctions, crypto-art, art-auctions, vinyl records, music industry)",
+      "author": {
+        "id": "638540743304151060",
+        "name": "Pablo Peniche",
+        "discriminator": "2765",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/638540743304151060/1a530042f577c3ef41b4ebb9d294c359.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789577922858975262",
+      "type": "Reply",
+      "timestamp": "2020-12-18T19:40:46.458+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I inherited a 600+ record collection. All classics Beatles, Elvis, 80s primarily. Not sure what to do with it as I don’t see the demand for it immediately to sell, but curious to know what will happen in a few decades from now. But will there be so many other “classic vinyls” from 2000’s-2020’s in competition say in 2040 when they could be coveted for? Hard to say. Contemporary art is insane for millions of dollars for paintings / sculptures / etc so I would love to see how that applies to crypto art and even modern tales of what music industry memorabilia would be.",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "638540743304151060",
+          "name": "Pablo Peniche",
+          "discriminator": 2765,
+          "nickname": "Pablo Peniche",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789566815217909772",
+        "channelId": "759244828512092191",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789628628047495188",
+      "type": "Reply",
+      "timestamp": "2020-12-18T23:02:15.517+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If I was you, I would do some research on the pressed-series of your vinyls and hold on to them for a couple of years.\n\nI think there is a massive opportunity for a secondary market for vinyl auctions just like there is with paintings.",
+      "author": {
+        "id": "638540743304151060",
+        "name": "Pablo Peniche",
+        "discriminator": "2765",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/638540743304151060/1a530042f577c3ef41b4ebb9d294c359.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "514178560832045056",
+          "name": "thatchinesejew",
+          "discriminator": 9264,
+          "nickname": "thatchinesejew",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789577922858975262",
+        "channelId": "759244828512092191",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "790772988508766218",
+      "type": "Default",
+      "timestamp": "2020-12-22T02:49:32.312+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "has anyone here used Plaid before?",
+      "author": {
+        "id": "607109448518991922",
+        "name": "jazilzaim",
+        "discriminator": "3976",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/607109448518991922/04f412acafcc80ac0f4f56e36b6f8320.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "790773110374662154",
+      "type": "Default",
+      "timestamp": "2020-12-22T02:50:01.367+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Almost did why?",
+      "author": {
+        "id": "128659723183587329",
+        "name": "erictrimbs",
+        "discriminator": "6511",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/128659723183587329/b734e370bde6aa64d39fbad8814a3832.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791007744555483136",
+      "type": "Default",
+      "timestamp": "2020-12-22T18:22:22.515+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@jazilzaim yup, we run on plaid",
+      "author": {
+        "id": "464455332316577804",
+        "name": "lucasjohnston",
+        "discriminator": "4662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/464455332316577804/8dc7b4e432ed2ae3cf01c7522686256b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "607109448518991922",
+          "name": "jazilzaim",
+          "discriminator": 3976,
+          "nickname": "jazilzaim",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "791777536140247072",
+      "type": "Default",
+      "timestamp": "2020-12-24T21:21:15.131+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@jazilzaim yeah I've built multiple plaid integrations",
+      "author": {
+        "id": "740649509037670524",
+        "name": "dmonaldo",
+        "discriminator": "1210",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740649509037670524/9b5c199cf3abae2733d9874d2331232c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "607109448518991922",
+          "name": "jazilzaim",
+          "discriminator": 3976,
+          "nickname": "jazilzaim",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "792495415357472779",
+      "type": "Default",
+      "timestamp": "2020-12-26T20:53:50.874+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey friends, i’m looking for an internship in the fintech space. any tips?",
+      "author": {
+        "id": "769699292264005632",
+        "name": "noorie",
+        "discriminator": "0131",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/769699292264005632/f0720038ee91f418bc6b44aad72903bf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793975606382821418",
+      "type": "Default",
+      "timestamp": "2020-12-30T22:55:35.915+00:00",
+      "timestampEdited": "2020-12-30T23:00:03.607+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm building a web-tool for day traders to manage their risk. These last 4 months, I learned quite a bit of front-end and back-end web development and though I've made a lot of progress, I know this process will be a lot more fun and the product will be better having a co-founder.\nSo, I put together a pitch deck to share my vision in hopes to find a technical co-founder:\n• If anyone with a background in web development is interested in hearing my 15 min pitch\n• If anyone not in that space is willing to give feedback on my pitch, let me know. I'd be grateful \uD83D\uDE4F\n\nintroduction: https://discordapp.com/channels/733975218711953519/742492833381875813/793976411286929500",
+      "author": {
+        "id": "704905433734971433",
+        "name": "inzone44ravi",
+        "discriminator": "4439",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/704905433734971433/655618fbd26de66efa1fa6828671b6b8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794959239650082826",
+      "type": "Default",
+      "timestamp": "2021-01-02T16:04:12.361+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@inzone44ravi happy to help you out with pitch deck creation. (been funded 3 times now)",
+      "author": {
+        "id": "142749330552520704",
+        "name": "WinterCharm",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/142749330552520704/47e2bae07653534594e0ef084fa442f1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "704905433734971433",
+          "name": "inzone44ravi",
+          "discriminator": 4439,
+          "nickname": "SourDough",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "795156072167243836",
+      "type": "Reply",
+      "timestamp": "2021-01-03T05:06:20.89+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like any part of fintech? or is there a specific sector of the industry you are looking at such as blockchain, compliance, or something else?",
+      "author": {
+        "id": "607109448518991922",
+        "name": "jazilzaim",
+        "discriminator": "3976",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/607109448518991922/04f412acafcc80ac0f4f56e36b6f8320.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "769699292264005632",
+          "name": "noorie",
+          "discriminator": 131,
+          "nickname": "noorie",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "792495415357472779",
+        "channelId": "759244828512092191",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "795391102135435264",
+      "type": "Default",
+      "timestamp": "2021-01-03T20:40:16.401+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.edensavings.com/",
+      "author": {
+        "id": "397269876345012245",
+        "name": "fredrickdouglass",
+        "discriminator": "8531",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397269876345012245/a_e3b5578f043ff406665d60b5dd489d78.gif"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Eden",
+          "url": "https://www.edensavings.com/",
+          "timestamp": null,
+          "description": "World's first visual bank account.",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795391122804441094",
+      "type": "Default",
+      "timestamp": "2021-01-03T20:40:21.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "seems interesting",
+      "author": {
+        "id": "397269876345012245",
+        "name": "fredrickdouglass",
+        "discriminator": "8531",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397269876345012245/a_e3b5578f043ff406665d60b5dd489d78.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795407808924483614",
+      "type": "Reply",
+      "timestamp": "2021-01-03T21:46:39.61+00:00",
+      "timestampEdited": "2021-01-03T21:46:48.642+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think a number might be more useful at a glance than an island size but seems kinda chill \uD83C\uDFDD️",
+      "author": {
+        "id": "739429338100924516",
+        "name": "haden",
+        "discriminator": "7264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739429338100924516/d070e3f343bad45ea5ffd9b55f65746c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "397269876345012245",
+          "name": "fredrickdouglass",
+          "discriminator": 8531,
+          "nickname": "will\uD83D\uDCA4",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "795391102135435264",
+        "channelId": "759244828512092191",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "796180644962500608",
+      "type": "Reply",
+      "timestamp": "2021-01-06T00:57:38.08+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Stuff like this is always neat to me but to use platforms like this I want to be able to use the platform past the likely lifespan of the company behind it. Comma AI has a good model.",
+      "author": {
+        "id": "95288618515435520",
+        "name": "hekatonsure",
+        "discriminator": "9234",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/95288618515435520/5c2635c9132eacff7f7d3f6642130051.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "397269876345012245",
+          "name": "fredrickdouglass",
+          "discriminator": 8531,
+          "nickname": "will\uD83D\uDCA4",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "795391102135435264",
+        "channelId": "759244828512092191",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "797220066097496174",
+      "type": "Reply",
+      "timestamp": "2021-01-08T21:47:55.39+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Love the idea",
+      "author": {
+        "id": "713063899502477313",
+        "name": "eshan",
+        "discriminator": "2703",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713063899502477313/c4d39d8d1cf1b199504dbba0a481b3db.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "704905433734971433",
+          "name": "inzone44ravi",
+          "discriminator": 4439,
+          "nickname": "SourDough",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "793975606382821418",
+        "channelId": "759244828512092191",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "798668513026900029",
+      "type": "Default",
+      "timestamp": "2021-01-12T21:43:32.049+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/NicoAFerr/status/1349107759028068352?s=20",
+      "author": {
+        "id": "638381073860132865",
+        "name": "trenbopapi",
+        "discriminator": "1520",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/638381073860132865/b1797a28b0ea89e61e7684cf3c6e0758.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/NicoAFerr/status/1349107759028068352?s=20",
+          "timestamp": "2021-01-12T21:35:29.619+00:00",
+          "description": "Remember when everyone thought the Honey acquisition was peak fintech? Good times",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "nico (@NicoAFerr)",
+            "url": "https://twitter.com/NicoAFerr",
+            "iconUrl": "https://pbs.twimg.com/profile_images/1347935114400034829/JrchB27G_bigger.jpg"
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDDD3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f9d3.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "800004263396114452",
+      "type": "Reply",
+      "timestamp": "2021-01-16T14:11:19.754+00:00",
+      "timestampEdited": "2021-01-16T14:11:38.862+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "India's biggest is Zerodha currently, and if I'm not mistaken, they started discount brokerage model before Robinhood started. They are doing really well. Paytm (a payment + e comm company) is also betting heavily to compete with Zerodha. Both are on-boarding a lot of new investors (keep in mind that retail participation in stock markets was 2-3% in India until a couple of years back) - but these players give access to only Indian markets. As far as\nGreenTiger, saw it on producthunt when launched but haven't used it. Now that it seems, more popular, maybe will give it a shot.",
+      "author": {
+        "id": "710845425220976701",
+        "name": "particle",
+        "discriminator": "4813",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/710845425220976701/ced895d1b990e0d9fdb5b396915a7e5a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "665871945094397954",
+          "name": "cmdGeneral",
+          "discriminator": 290,
+          "nickname": "Sid (@fflowerdogg)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "780521362753191956",
+        "channelId": "759244828512092191",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "804824624210509894",
+      "type": "Default",
+      "timestamp": "2021-01-29T21:25:43.33+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/LYN3h5DjeXw",
+      "author": {
+        "id": "274268280456347649",
+        "name": "Nikolaj-K",
+        "discriminator": "6603",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/274268280456347649/b0905d36d7b0e48c650321579a278484.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Secret exponent to WIF private key and address (Bitcoin)",
+          "url": "https://www.youtube.com/watch?v=LYN3h5DjeXw",
+          "timestamp": null,
+          "description": "In this video we discuss how to get from the secret private key number (a.k.a. exponent) to the WIF and how to get from the public key to address formats. He's the code: https://gist.github.com/Nikolaj-K/d548a12a45599070ea89ff376803758b",
+          "color": "#FF0000",
+          "author": {
+            "name": "Nikolaj-K",
+            "url": "https://www.youtube.com/channel/UCcrSMnEYhIPX_p127jI23qw"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/LYN3h5DjeXw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 212
+}

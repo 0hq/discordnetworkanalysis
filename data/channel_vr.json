@@ -1,0 +1,2775 @@
+{
+  "guild": {
+    "id": "733975218711953519",
+    "name": "gen z mafia",
+    "iconUrl": "https://cdn.discordapp.com/icons/733975218711953519/1defd2842cd55023e919903effda80b2.png"
+  },
+  "channel": {
+    "id": "787740053719613490",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDCAC | ▬▬▬▬ Topics ▬▬▬▬ | \uD83D\uDCAC",
+    "name": "\uD83E\uDD7D-ar-vr-xr-reality",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "787740571518107690",
+      "type": "Default",
+      "timestamp": "2020-12-13T17:59:47.762+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Rudra| Alpher @Nitesh created this channel because one of you asked for a AR/VR/XR channel",
+      "author": {
+        "id": "754912592316727296",
+        "name": "pranav",
+        "discriminator": "2962",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/754912592316727296/a44902c7d4c8f4e2dbae44165af85420.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "423401538195685376",
+          "name": "Nitesh",
+          "discriminator": 4735,
+          "nickname": "Nitesh(@niranjannitesh)",
+          "isBot": false
+        },
+        {
+          "id": "787607967280136202",
+          "name": "Rudra| Alpher",
+          "discriminator": 632,
+          "nickname": "Rudra| Alpher",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "787740789438414879",
+      "type": "Default",
+      "timestamp": "2020-12-13T18:00:39.718+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "some of my most recent work : ) https://twitter.com/miraculous_cake/status/1336501521710780416",
+      "author": {
+        "id": "767574609821302835",
+        "name": "Leon -",
+        "discriminator": "4657",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/767574609821302835/020932180eea26fa8d1bc07089370647.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/miraculous_cake/status/1336501521710780416",
+          "timestamp": "2020-12-09T02:42:48.43+00:00",
+          "description": "Things that light up and glow are so fascinating, aren't they? fireflies, stars in the night sky, glowsticks, embers...\n\nOver the past week i've been learning about a-frame and putting together a cocoon of lights in virtual reality. enjoy! https://t.co/m4dgGYfNo7",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Leon (@miraculous_cake)",
+            "url": "https://twitter.com/miraculous_cake",
+            "iconUrl": "https://pbs.twimg.com/profile_images/1324504023005827078/YTiu5WHV_bigger.jpg"
+          },
+          "image": {
+            "url": "https://pbs.twimg.com/media/Eow1C0WW8AE9c6I.png:large",
+            "width": 695,
+            "height": 761
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787743718282493952",
+      "type": "Default",
+      "timestamp": "2020-12-13T18:12:18.009+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "One huge market I'm excited about is portable A/R workstations. Virtual machine run off the cloud, no need for cubicles or monitors. Dual monitors on smart glasses whenever and wherever you set up to work. Will accelerate flexible workstations, boost productivity on the go, and lower costs. Needs to be paired with some sort of keyboard & mouse but theoretically you could have a \"touch\" keyboard and trackpad shown in A/R as projected on whatever surface you're working on. Might need some sort of wearable on hands or wrists for tactile feedback. I have strong conviction that this will be a big market (though not sure if we will have dedicated work tech, or if it will be the same tech as we use for A/R recreationally -- like we do for our smartphones).",
+      "author": {
+        "id": "709905269974630490",
+        "name": "samuel-spitz",
+        "discriminator": "8793",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/709905269974630490/fec1ebe924c7fe5d772d21d5f3479c9a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787745675395596309",
+      "type": "Default",
+      "timestamp": "2020-12-13T18:20:04.621+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is really cool. I hadn't really thought about this use. Though, I do think it would be the same technology that we would use recreationally because both markets would demand this. I personally also don't really see new firms coming in to this market because the barrier to entry would be too high. I think it would just be the same firms currently dominating (Apple, Google, Microsoft). Also because people would want to continue using the same operating systems. That's why I think Apple Glass will do really well.",
+      "author": {
+        "id": "713836971713101879",
+        "name": "Aventura",
+        "discriminator": "5016",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713836971713101879/9d965b236837de8dab26524c540a4166.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787814528146341948",
+      "type": "Default",
+      "timestamp": "2020-12-13T22:53:40.396+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i made a tweet about this a while back, but curious to hear thoughts https://twitter.com/yashgodiwala/status/1336914873582678016",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/yashgodiwala/status/1336914873582678016",
+          "timestamp": "2020-12-10T06:05:19.196+00:00",
+          "description": "one day in the far future, enhanced visualization is going to be integrated with XR to create something absolutely mind blowing",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "yash (@yashgodiwala)",
+            "url": "https://twitter.com/yashgodiwala",
+            "iconUrl": "https://pbs.twimg.com/profile_images/1322282292283346946/cvwGfAgy_bigger.jpg"
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787814592653950978",
+      "type": "Default",
+      "timestamp": "2020-12-13T22:53:55.776+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i was just thinking that our thoughts will really become something tangible",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787814608639492106",
+      "type": "Default",
+      "timestamp": "2020-12-13T22:53:59.587+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "something that can be communicated.",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787814644458192936",
+      "type": "Default",
+      "timestamp": "2020-12-13T22:54:08.127+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is more deeptech and neuroscience",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787814679770693633",
+      "type": "Default",
+      "timestamp": "2020-12-13T22:54:16.546+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but still something cool to nerd out about",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787817933081935882",
+      "type": "Default",
+      "timestamp": "2020-12-13T23:07:12.196+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, for sure. Lots of opportunity in this space.",
+      "author": {
+        "id": "713836971713101879",
+        "name": "Aventura",
+        "discriminator": "5016",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713836971713101879/9d965b236837de8dab26524c540a4166.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787817991458127942",
+      "type": "Default",
+      "timestamp": "2020-12-13T23:07:26.114+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just followed you",
+      "author": {
+        "id": "713836971713101879",
+        "name": "Aventura",
+        "discriminator": "5016",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713836971713101879/9d965b236837de8dab26524c540a4166.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787899483634925589",
+      "type": "Default",
+      "timestamp": "2020-12-14T04:31:15.363+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/dannyaroslavski/status/1338030154900066305",
+      "author": {
+        "id": "423401538195685376",
+        "name": "Nitesh",
+        "discriminator": "4735",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/423401538195685376/7a9233c371251935d6dc2f16a3b9b9d1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/dannyaroslavski/status/1338030154900066305",
+          "timestamp": "2020-12-13T07:57:02.983+00:00",
+          "description": "Sharing my #WebXR modeler at https://t.co/haxOBJDi5A. \uD83E\uDD73 Tested on #OculusQuest2. Disclaimer: there's no onboarding, there may be bugs, and there's a ton of features I still want to add- nonetheless I thought I'd share. \uD83D\uDE43 @threejs_org #vrdev https://t.co/zGU7O9jWxH",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Danny Yaroslavski (@dannyaroslavski)",
+            "url": "https://twitter.com/dannyaroslavski",
+            "iconUrl": "https://pbs.twimg.com/profile_images/1162878514565136384/viDWi_mm_bigger.jpg"
+          },
+          "thumbnail": {
+            "url": "https://pbs.twimg.com/ext_tw_video_thumb/1338028744007553025/pu/img/VUe4i4IAmS9QfCgK.jpg",
+            "width": 720,
+            "height": 720
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": [
+            {
+              "name": "Likes",
+              "value": "260",
+              "isInline": true
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787913446045384725",
+      "type": "Default",
+      "timestamp": "2020-12-14T05:26:44.261+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For those interested, check out VirtualHumans.Org – an industry website we created to document the world of virtual influencers.",
+      "author": {
+        "id": "616390943880380416",
+        "name": "shep",
+        "discriminator": "3035",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/616390943880380416/5e9908848a8fdedcddc668719c61477b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787919290728579082",
+      "type": "Default",
+      "timestamp": "2020-12-14T05:49:57.742+00:00",
+      "timestampEdited": "2020-12-14T05:53:45.924+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://vm.tiktok.com/ZMJbrE5mR/ showing off a bit of my current project's setup",
+      "author": {
+        "id": "134419906614657024",
+        "name": "Vortex",
+        "discriminator": "8913",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/134419906614657024/78631d6c5119933e6284ad6763163b06.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788024942067056690",
+      "type": "Default",
+      "timestamp": "2020-12-14T12:49:46.984+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyone knows the cheapest way to try out vr? is google cardboard any good?",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D\uD83C\uDFFD",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d-1f3fd.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788109767683735642",
+      "type": "Reply",
+      "timestamp": "2020-12-14T18:26:50.987+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Google cardboard isn't really comparable to a proper VR experience with a good headset, it's almost a night and day difference. Your best bet would be to find someone who already owns one and try to use theirs, or once covid restrictions ease up try to find an arcade with VR headsets for rent.",
+      "author": {
+        "id": "134419906614657024",
+        "name": "Vortex",
+        "discriminator": "8913",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/134419906614657024/78631d6c5119933e6284ad6763163b06.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "238740157254074368",
+          "name": "Luis",
+          "discriminator": 3761,
+          "nickname": "Luis",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788024942067056690",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788130830840758302",
+      "type": "Reply",
+      "timestamp": "2020-12-14T19:50:32.835+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i own a cardboard and have tried quest (quest 1, planning on getting my hands on quest 2 but dont own either atm) and can confirm it's a night and day difference compared to having actual proper hardware instead of just your phone, 6dof instead of 3dof, actual controllers, etc etc\n\nthat said, if you _really_ are reluctant to part with the $300 for a quest 2 or worried about facebook whatevers, or if you just want to try vr one time and have no intentions of picking it up again then a cardboard is fine to dip your toes in",
+      "author": {
+        "id": "767574609821302835",
+        "name": "Leon -",
+        "discriminator": "4657",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/767574609821302835/020932180eea26fa8d1bc07089370647.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "238740157254074368",
+          "name": "Luis",
+          "discriminator": 3761,
+          "nickname": "Luis",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788024942067056690",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788143790610448405",
+      "type": "Reply",
+      "timestamp": "2020-12-14T20:42:02.685+00:00",
+      "timestampEdited": "2020-12-14T20:43:50.113+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "quest 2 is 450€ in europe \uD83D\uDE2E I would buy it if I was able to try it in advance, but I never used VR goggles, so 450€ is too much for just wanting to try it out",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "767574609821302835",
+          "name": "Leon -",
+          "discriminator": 4657,
+          "nickname": "@miraculous_cake (Leon)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788130830840758302",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788144173726695464",
+      "type": "Default",
+      "timestamp": "2020-12-14T20:43:34.027+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "are there any other viable use cases other than gaming right now?",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788145374597480510",
+      "type": "Default",
+      "timestamp": "2020-12-14T20:48:20.337+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "for vr? off the top of my head VR travelling (doesn't even have to exist on earth!), hanging out with friends, going to concerts, relaxing with beach sounds, 3-D video experiences, creating virtual art (there was a very cool one i've tried where you essentially have a full fledged ms paint-like thing but in 3D)",
+      "author": {
+        "id": "767574609821302835",
+        "name": "Leon -",
+        "discriminator": "4657",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/767574609821302835/020932180eea26fa8d1bc07089370647.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788145723564228649",
+      "type": "Default",
+      "timestamp": "2020-12-14T20:49:43.537+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "those are the obvious things that you as an individual can do (so ignoring things that might be useful in an economic sense, like virtual  training for how to repair something, remotely operating some machine with your gestures idk)",
+      "author": {
+        "id": "767574609821302835",
+        "name": "Leon -",
+        "discriminator": "4657",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/767574609821302835/020932180eea26fa8d1bc07089370647.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788146169351110698",
+      "type": "Default",
+      "timestamp": "2020-12-14T20:51:29.821+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "learning about outer space or the ocean by actually being \"in space\" or \"in the ocean\" and seeing the fish swim around you, literally flying around (not technically a game although i guess it could be part of a game mechanic)",
+      "author": {
+        "id": "767574609821302835",
+        "name": "Leon -",
+        "discriminator": "4657",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/767574609821302835/020932180eea26fa8d1bc07089370647.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788146421613854730",
+      "type": "Default",
+      "timestamp": "2020-12-14T20:52:29.965+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "there's this guided walking tech which subtly shifts the camera every time your eyes do saccadic movements so you don't notice it but end up walking in big circles instead of straight lines-- you can simulate a space the size of NYC in a large warehouse, last i heard",
+      "author": {
+        "id": "767574609821302835",
+        "name": "Leon -",
+        "discriminator": "4657",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/767574609821302835/020932180eea26fa8d1bc07089370647.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788146814435721267",
+      "type": "Default",
+      "timestamp": "2020-12-14T20:54:03.621+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "even sitting in a chair watching a 3-D rollercoaster vid is a whooooole rush holy cow",
+      "author": {
+        "id": "767574609821302835",
+        "name": "Leon -",
+        "discriminator": "4657",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/767574609821302835/020932180eea26fa8d1bc07089370647.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788182479222865961",
+      "type": "Reply",
+      "timestamp": "2020-12-14T23:15:46.769+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "teleoperation of robots imo",
+      "author": {
+        "id": "394750369026277386",
+        "name": "shariq",
+        "discriminator": "8100",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/394750369026277386/0047c7fd367f83141b29a41404479ec3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "238740157254074368",
+          "name": "Luis",
+          "discriminator": 3761,
+          "nickname": "Luis",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788144173726695464",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788212029600825346",
+      "type": "Reply",
+      "timestamp": "2020-12-15T01:13:12.128+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok wow that's a lot more than I expected! makes me consider buying the quest 2 haha",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f440.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "767574609821302835",
+          "name": "Leon -",
+          "discriminator": 4657,
+          "nickname": "@miraculous_cake (Leon)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788145374597480510",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788212491498160180",
+      "type": "Default",
+      "timestamp": "2020-12-15T01:15:02.253+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "does it really feel immersive? like is the simulation good enough (e.g from a graphics perspective) to really make it seem like you're inside the virtual world?",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788213155809067068",
+      "type": "Reply",
+      "timestamp": "2020-12-15T01:17:40.637+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "depends on what you mean by immersive! for a regular video game analogy, when we play mario of course it's very clearly not real, and yet it's immersive at the same time. I've done the roller coaster video and literally had to remind myself i was sitting still to not rock back and forth in my chair, tried super hot and had to be careful to keep an open space to not punch anyone, etc etc",
+      "author": {
+        "id": "767574609821302835",
+        "name": "Leon -",
+        "discriminator": "4657",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/767574609821302835/020932180eea26fa8d1bc07089370647.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "788212491498160180",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788213438052696075",
+      "type": "Default",
+      "timestamp": "2020-12-15T01:18:47.929+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i suppose a lot of it will depend on the details of hardware and software-- something that can refresh its screen fast enough will feel better and reduce VR sickness versus something that's less powerful, or a big heavy program vs. a small light one",
+      "author": {
+        "id": "767574609821302835",
+        "name": "Leon -",
+        "discriminator": "4657",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/767574609821302835/020932180eea26fa8d1bc07089370647.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788215618867953665",
+      "type": "Default",
+      "timestamp": "2020-12-15T01:27:27.876+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cool! thanks a lot! will try to get my hands on one",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788289792403701773",
+      "type": "Default",
+      "timestamp": "2020-12-15T06:22:12.225+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I wonder if the Go can be had cheaply now",
+      "author": {
+        "id": "267197965452443648",
+        "name": "q_dot",
+        "discriminator": "1787",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/267197965452443648/6fb9e880a9f01d6e435de7a3379e94a4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788565147596750868",
+      "type": "Default",
+      "timestamp": "2020-12-16T00:36:22.019+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've bought two Go's, the quest 1 and the quest 2. The quest is exponentially better than the Go. Would not recommend the Go. The quest 1 blew my mind the first time I had a friend's on an instantly bought one haha. The quest 2 wasn't much of an upgrade. There needs to be more useful content for it. I think on of the most interesting cases outside of gaming is what Spatial OS is doing rn with their meeting software.",
+      "author": {
+        "id": "491583404119293955",
+        "name": "jaredgoering",
+        "discriminator": "3265",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491583404119293955/9afd028f2735a2d36c089effe16e69ee.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788565429223424053",
+      "type": "Default",
+      "timestamp": "2020-12-16T00:37:29.164+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We hosted a few college classes with everyone in a virtual room and the instructor going through slides which was pretty awesome and we're working on wider adoption of it with everyone remote rn. Education will be another big one, but not a solid use case to put it on everyday even with the games available",
+      "author": {
+        "id": "491583404119293955",
+        "name": "jaredgoering",
+        "discriminator": "3265",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491583404119293955/9afd028f2735a2d36c089effe16e69ee.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788596373070807040",
+      "type": "Default",
+      "timestamp": "2020-12-16T02:40:26.752+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Imma buy one if I have enough money xD",
+      "author": {
+        "id": "487076177530322944",
+        "name": "\uD835\uDD40\uD835\uDD63\uD835\uDD52\uD835\uDD65\uD835\uDD59\uD835\uDD4B\uD835\uDD3C\uD835\uDD3E",
+        "discriminator": "5337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/487076177530322944/db421df4bb663a6fb9eeb32639accb1a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788596458839736371",
+      "type": "Default",
+      "timestamp": "2020-12-16T02:40:47.201+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It would be cool to have a VR type thing where you dont even have to have controllers",
+      "author": {
+        "id": "487076177530322944",
+        "name": "\uD835\uDD40\uD835\uDD63\uD835\uDD52\uD835\uDD65\uD835\uDD59\uD835\uDD4B\uD835\uDD3C\uD835\uDD3E",
+        "discriminator": "5337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/487076177530322944/db421df4bb663a6fb9eeb32639accb1a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788596495644491776",
+      "type": "Default",
+      "timestamp": "2020-12-16T02:40:55.976+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and your brain controls it all",
+      "author": {
+        "id": "487076177530322944",
+        "name": "\uD835\uDD40\uD835\uDD63\uD835\uDD52\uD835\uDD65\uD835\uDD59\uD835\uDD4B\uD835\uDD3C\uD835\uDD3E",
+        "discriminator": "5337",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/487076177530322944/db421df4bb663a6fb9eeb32639accb1a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788597400104075274",
+      "type": "Default",
+      "timestamp": "2020-12-16T02:44:31.616+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "full dive VR would be pretty dope",
+      "author": {
+        "id": "134419906614657024",
+        "name": "Vortex",
+        "discriminator": "8913",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/134419906614657024/78631d6c5119933e6284ad6763163b06.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788597444844978226",
+      "type": "Default",
+      "timestamp": "2020-12-16T02:44:42.283+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's kind of one the things I'm hoping to help create",
+      "author": {
+        "id": "134419906614657024",
+        "name": "Vortex",
+        "discriminator": "8913",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/134419906614657024/78631d6c5119933e6284ad6763163b06.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788598052948541482",
+      "type": "Reply",
+      "timestamp": "2020-12-16T02:47:07.266+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You’ve got some biig budget",
+      "author": {
+        "id": "492689173325676554",
+        "name": "Fathih",
+        "discriminator": "6943",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492689173325676554/5fee0842ffd7263f6e1cbbe8ba95bf87.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "491583404119293955",
+          "name": "jaredgoering",
+          "discriminator": 3265,
+          "nickname": "jaredgoering",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788565429223424053",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788799367402094653",
+      "type": "Reply",
+      "timestamp": "2020-12-16T16:07:04.372+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I just got one of these dev kits on order. https://www.next-mind.com/. Looking forward to seeing how well it works but their demos are awesome",
+      "author": {
+        "id": "491583404119293955",
+        "name": "jaredgoering",
+        "discriminator": "3265",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491583404119293955/9afd028f2735a2d36c089effe16e69ee.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "NextMind | Let your mind take control | Order your Dev Kit",
+          "url": "https://www.next-mind.com/",
+          "timestamp": null,
+          "description": "NextMind is shipping World’s First Real-time Brain-Sensing Wearable to the Developers community, offering new human-computer interactions.",
+          "thumbnail": {
+            "url": "https://www.next-mind.com/wp-content/uploads/2019/12/social01-copie-2.png",
+            "width": 1024,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "487076177530322944",
+          "name": "\uD835\uDD40\uD835\uDD63\uD835\uDD52\uD835\uDD65\uD835\uDD59\uD835\uDD4B\uD835\uDD3C\uD835\uDD3E",
+          "discriminator": 5337,
+          "nickname": "\uD835\uDD40\uD835\uDD63\uD835\uDD52\uD835\uDD65\uD835\uDD59\uD835\uDD4B\uD835\uDD3C\uD835\uDD3E",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788596495644491776",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788799492275044393",
+      "type": "Reply",
+      "timestamp": "2020-12-16T16:07:34.144+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lol I have like a AR/VR dev gig",
+      "author": {
+        "id": "491583404119293955",
+        "name": "jaredgoering",
+        "discriminator": "3265",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491583404119293955/9afd028f2735a2d36c089effe16e69ee.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "492689173325676554",
+          "name": "Fathih",
+          "discriminator": 6943,
+          "nickname": "Fathih",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788598052948541482",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788862960818716753",
+      "type": "Default",
+      "timestamp": "2020-12-16T20:19:46.224+00:00",
+      "timestampEdited": "2020-12-16T20:20:32.834+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how long can you wear those before getting a headache? or is it not a problem anymore (I heard the early ones caused one after a wearing them for too long)",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788863573207679017",
+      "type": "Default",
+      "timestamp": "2020-12-16T20:22:12.229+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "might not be important right now but if we really want to create a metaverse and have people spend long hours inside vr I think eye damage and headaches are huge issues imho",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788866487837786123",
+      "type": "Default",
+      "timestamp": "2020-12-16T20:33:47.131+00:00",
+      "timestampEdited": "2020-12-16T20:37:52.1+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah in development, trying to accommodate for motion sickness and fatigue is a hard. It's why most VR games, you are stationary. As refresh rates get better, this will help. Also, FB is working on a VR headset that physically moves the lens based on where your eye is focusing.",
+      "author": {
+        "id": "491583404119293955",
+        "name": "jaredgoering",
+        "discriminator": "3265",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491583404119293955/9afd028f2735a2d36c089effe16e69ee.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788883936716652596",
+      "type": "Reply",
+      "timestamp": "2020-12-16T21:43:07.268+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have the quest 2, no regrets. Threw nextdns on it so it doesn't talk back to zucc 99% of the time.",
+      "author": {
+        "id": "357956315672215553",
+        "name": "konraditurbe",
+        "discriminator": "5302",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357956315672215553/b355bb2c5500156781475eed6afdc8ef.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "238740157254074368",
+          "name": "Luis",
+          "discriminator": 3761,
+          "nickname": "Luis",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788143790610448405",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788884206818033664",
+      "type": "Reply",
+      "timestamp": "2020-12-16T21:44:11.665+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I use the quest 2 for work with virtual desktop or inmersed vr, cool for editing videos bc you can have timeline/preview spaced out.",
+      "author": {
+        "id": "357956315672215553",
+        "name": "konraditurbe",
+        "discriminator": "5302",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357956315672215553/b355bb2c5500156781475eed6afdc8ef.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "238740157254074368",
+          "name": "Luis",
+          "discriminator": 3761,
+          "nickname": "Luis",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788144173726695464",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788885228797034496",
+      "type": "Reply",
+      "timestamp": "2020-12-16T21:48:15.324+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Usually after 3ish hours when stationary. But on games maybe after an hour or two.",
+      "author": {
+        "id": "357956315672215553",
+        "name": "konraditurbe",
+        "discriminator": "5302",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357956315672215553/b355bb2c5500156781475eed6afdc8ef.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "238740157254074368",
+          "name": "Luis",
+          "discriminator": 3761,
+          "nickname": "Luis",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788862960818716753",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788886667423514644",
+      "type": "Reply",
+      "timestamp": "2020-12-16T21:53:58.319+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait wait nextdns? i just googled it and i'm kinda surprised that something that feels as locked down as vr has this stuff avialable\nalso how trustworthy is this thing anyways",
+      "author": {
+        "id": "613739397485035531",
+        "name": "cat in the hat",
+        "discriminator": "2034",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/613739397485035531/933d3ee02ead476a3b095266f5cf058f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "357956315672215553",
+          "name": "konraditurbe",
+          "discriminator": 5302,
+          "nickname": "konraditurbe",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788883936716652596",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788887454119755846",
+      "type": "Reply",
+      "timestamp": "2020-12-16T21:57:05.882+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok, so the oculus quest 2 (and OG quest) run Android, yep, AOSP. Then FB adds their stuff on top. Because it runs Android, we can use adb to talk to it, and set parameters, such as which DNS resolver to point to, I set my headset to point at my NextDNS config, which blocks FANG (need Amazon) domains, and that way it won't ping to FB (or any other company I dislike). Since I mostly use it for virtual desktop, beat saber and top golf it doesn't need to ping FB does it? https://twitter.com/konrad_it/status/1339310411485732866",
+      "author": {
+        "id": "357956315672215553",
+        "name": "konraditurbe",
+        "discriminator": "5302",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357956315672215553/b355bb2c5500156781475eed6afdc8ef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/konrad_it/status/1339310411485732866",
+          "timestamp": "2020-12-16T20:44:19.939+00:00",
+          "description": "Put nextdns on the quest 2... No regrets.",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Konrad Iturbe (@konrad_it)",
+            "url": "https://twitter.com/konrad_it",
+            "iconUrl": "https://pbs.twimg.com/profile_images/1333372659179155456/sdzixKZ0_bigger.jpg"
+          },
+          "image": {
+            "url": "https://pbs.twimg.com/media/EpYvtrOXMAEYoba.jpg:large",
+            "width": 922,
+            "height": 2048
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        },
+        {
+          "title": "",
+          "url": "https://twitter.com/konrad_it/status/1339310411485732866",
+          "timestamp": null,
+          "description": "",
+          "image": {
+            "url": "https://pbs.twimg.com/media/EpYvt8uW4AA95ik.jpg:large",
+            "width": 922,
+            "height": 2048
+          },
+          "fields": []
+        },
+        {
+          "title": "",
+          "url": "https://twitter.com/konrad_it/status/1339310411485732866",
+          "timestamp": null,
+          "description": "",
+          "image": {
+            "url": "https://pbs.twimg.com/media/EpYvuKXXcAEsprs.jpg:large",
+            "width": 922,
+            "height": 2048
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f440.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "613739397485035531",
+          "name": "cat in the hat",
+          "discriminator": 2034,
+          "nickname": "@nerdposterino on twitter",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788886667423514644",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788887893652799498",
+      "type": "Default",
+      "timestamp": "2020-12-16T21:58:50.675+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The thing that is extremely worrying with the quest devices is how Facebook has decided to make it compulsory to sync a FB account to the headset, which understandably many people do not like. The quest is also the best wireless headset on the market, and there's no other choice, and the German regulators are kinda pissed at that: https://www.theverge.com/2020/12/10/22167509/germany-fco-investigation-facebook-oculus-account-requirements-competition",
+      "author": {
+        "id": "357956315672215553",
+        "name": "konraditurbe",
+        "discriminator": "5302",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357956315672215553/b355bb2c5500156781475eed6afdc8ef.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "German regulators are investigating Facebook for its controversial ...",
+          "url": "https://www.theverge.com/2020/12/10/22167509/germany-fco-investigation-facebook-oculus-account-requirements-competition",
+          "timestamp": null,
+          "description": "Oculus paused sales in Germany earlier this year.",
+          "thumbnail": {
+            "url": "https://cdn.vox-cdn.com/thumbor/4976qnSaThzeJa8koF_kJXyePiw=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21869424/akrales_200904_4160_0010.0.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788889913227345961",
+      "type": "Reply",
+      "timestamp": "2020-12-16T22:06:52.179+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok one or two really isn't much. For mainstream adoption there will need to be lots of improvement here I guess. Have never heard about that physical lens moving one @jaredgoering mentioned, but hopefully that'll not be the only possible solution cause moving parts most times bring some flaws with them in terms of build quality/durability",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "357956315672215553",
+          "name": "konraditurbe",
+          "discriminator": 5302,
+          "nickname": "konraditurbe",
+          "isBot": false
+        },
+        {
+          "id": "491583404119293955",
+          "name": "jaredgoering",
+          "discriminator": 3265,
+          "nickname": "jaredgoering",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788885228797034496",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788896607109120030",
+      "type": "Reply",
+      "timestamp": "2020-12-16T22:33:28.125+00:00",
+      "timestampEdited": "2020-12-16T22:34:00.8+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's code name is half dome - https://uploadvr.com/half-dome-3-prime-time/. Looks like they've upgraded the varifocal tech it so it's less moving parts than the first version I saw. Pretty excited, sounds like it's going to be some next level stuff",
+      "author": {
+        "id": "491583404119293955",
+        "name": "jaredgoering",
+        "discriminator": "3265",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491583404119293955/9afd028f2735a2d36c089effe16e69ee.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "238740157254074368",
+          "name": "Luis",
+          "discriminator": 3761,
+          "nickname": "Luis",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788889913227345961",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788897314873016371",
+      "type": "Reply",
+      "timestamp": "2020-12-16T22:36:16.869+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Have you tried side loading Sidequest yet? Apparently pretty sweet https://sidequestvr.com/",
+      "author": {
+        "id": "491583404119293955",
+        "name": "jaredgoering",
+        "discriminator": "3265",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491583404119293955/9afd028f2735a2d36c089effe16e69ee.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SideQuest: Early Access Virtual Reality",
+          "url": "https://sidequestvr.com/",
+          "timestamp": null,
+          "description": "SideQuest is the early access layer for Virtual Reality. Get access to the latest Oculus Quest Games & Apps.",
+          "color": "#503B73",
+          "thumbnail": {
+            "url": "https://i.imgur.com/eXe9Mcs.jpg",
+            "width": 4096,
+            "height": 2280
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "357956315672215553",
+          "name": "konraditurbe",
+          "discriminator": 5302,
+          "nickname": "konraditurbe",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788887454119755846",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788897489201266690",
+      "type": "Reply",
+      "timestamp": "2020-12-16T22:36:58.432+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah I sideloaded several apps including pavlov, BMBF, an UVC player...",
+      "author": {
+        "id": "357956315672215553",
+        "name": "konraditurbe",
+        "discriminator": "5302",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357956315672215553/b355bb2c5500156781475eed6afdc8ef.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "491583404119293955",
+          "name": "jaredgoering",
+          "discriminator": 3265,
+          "nickname": "jaredgoering",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788897314873016371",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789005993085894666",
+      "type": "Reply",
+      "timestamp": "2020-12-17T05:48:07.774+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Agree",
+      "author": {
+        "id": "492689173325676554",
+        "name": "Fathih",
+        "discriminator": "6943",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492689173325676554/5fee0842ffd7263f6e1cbbe8ba95bf87.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "238740157254074368",
+          "name": "Luis",
+          "discriminator": 3761,
+          "nickname": "Luis",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788863573207679017",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789006316994691072",
+      "type": "Reply",
+      "timestamp": "2020-12-17T05:49:25+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fucking Facebook, I hate them.",
+      "author": {
+        "id": "492689173325676554",
+        "name": "Fathih",
+        "discriminator": "6943",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492689173325676554/5fee0842ffd7263f6e1cbbe8ba95bf87.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "357956315672215553",
+          "name": "konraditurbe",
+          "discriminator": 5302,
+          "nickname": "konraditurbe",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788887454119755846",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789006408825700393",
+      "type": "Default",
+      "timestamp": "2020-12-17T05:49:46.894+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Guys anyone think that out future is a bit scary??",
+      "author": {
+        "id": "492689173325676554",
+        "name": "Fathih",
+        "discriminator": "6943",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492689173325676554/5fee0842ffd7263f6e1cbbe8ba95bf87.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789043760545005579",
+      "type": "Default",
+      "timestamp": "2020-12-17T08:18:12.238+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no",
+      "author": {
+        "id": "357956315672215553",
+        "name": "konraditurbe",
+        "discriminator": "5302",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357956315672215553/b355bb2c5500156781475eed6afdc8ef.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789043809223704617",
+      "type": "Default",
+      "timestamp": "2020-12-17T08:18:23.844+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the future is sick",
+      "author": {
+        "id": "357956315672215553",
+        "name": "konraditurbe",
+        "discriminator": "5302",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357956315672215553/b355bb2c5500156781475eed6afdc8ef.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789103441073930241",
+      "type": "Reply",
+      "timestamp": "2020-12-17T12:15:21.185+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "do the dns settings stay after reboots? I know some adb commands for quest don't",
+      "author": {
+        "id": "479830800410476546",
+        "name": "aiddun",
+        "discriminator": "3449",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/479830800410476546/d8d5d1c64c3c0b288936b71533677f3d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "357956315672215553",
+          "name": "konraditurbe",
+          "discriminator": 5302,
+          "nickname": "konraditurbe",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788887454119755846",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789103640631312414",
+      "type": "Default",
+      "timestamp": "2020-12-17T12:16:08.763+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the DNS does stick after reboots, but sometimes it reverts back to no DNS.",
+      "author": {
+        "id": "357956315672215553",
+        "name": "konraditurbe",
+        "discriminator": "5302",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357956315672215553/b355bb2c5500156781475eed6afdc8ef.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790110143550455829",
+      "type": "Reply",
+      "timestamp": "2020-12-20T06:55:37.759+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mood",
+      "author": {
+        "id": "397269876345012245",
+        "name": "fredrickdouglass",
+        "discriminator": "8531",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397269876345012245/a_e3b5578f043ff406665d60b5dd489d78.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "492689173325676554",
+          "name": "Fathih",
+          "discriminator": 6943,
+          "nickname": "Fathih",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789006316994691072",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "790110566282166282",
+      "type": "Default",
+      "timestamp": "2020-12-20T06:57:18.546+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lol",
+      "author": {
+        "id": "492689173325676554",
+        "name": "Fathih",
+        "discriminator": "6943",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492689173325676554/5fee0842ffd7263f6e1cbbe8ba95bf87.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790153330189664266",
+      "type": "Default",
+      "timestamp": "2020-12-20T09:47:14.256+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What are some cool games you can play on Firefox XR/oculus browser?",
+      "author": {
+        "id": "357956315672215553",
+        "name": "konraditurbe",
+        "discriminator": "5302",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357956315672215553/b355bb2c5500156781475eed6afdc8ef.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790619618996781086",
+      "type": "Default",
+      "timestamp": "2020-12-21T16:40:06.171+00:00",
+      "timestampEdited": "2020-12-21T16:40:12.39+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyone have recommendations for quest 2 storage? is it worth getting 256 gb or is 64 fine? unfamiliar with how big apps or games or whatever it is tend to be",
+      "author": {
+        "id": "613739397485035531",
+        "name": "cat in the hat",
+        "discriminator": "2034",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/613739397485035531/933d3ee02ead476a3b095266f5cf058f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790623579842412575",
+      "type": "Default",
+      "timestamp": "2020-12-21T16:55:50.51+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok reddit consensus seems to be 256 if and only if you have a lot of movies or for some reason wanna have 20 games loaded at once\n\n im good with that, i play chess so my expectations for game graphics quality is pretty low \uD83D\uDE02",
+      "author": {
+        "id": "613739397485035531",
+        "name": "cat in the hat",
+        "discriminator": "2034",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/613739397485035531/933d3ee02ead476a3b095266f5cf058f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790725571498999839",
+      "type": "Default",
+      "timestamp": "2020-12-21T23:41:07.216+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@cat in the hat I got 256",
+      "author": {
+        "id": "397277623576690692",
+        "name": "Prophet",
+        "discriminator": "0578",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397277623576690692/f53315390a4037d786c0eda1f863b225.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f440.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "613739397485035531",
+          "name": "cat in the hat",
+          "discriminator": 2034,
+          "nickname": "@nerdposterino on twitter",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "790725601958559805",
+      "type": "Default",
+      "timestamp": "2020-12-21T23:41:14.478+00:00",
+      "timestampEdited": "2020-12-21T23:41:33.794+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but I dont think anyone needs it lol",
+      "author": {
+        "id": "397277623576690692",
+        "name": "Prophet",
+        "discriminator": "0578",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397277623576690692/f53315390a4037d786c0eda1f863b225.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791776603717238805",
+      "type": "Default",
+      "timestamp": "2020-12-24T21:17:32.824+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just got my https://www.next-mind.com. It's insane. After trying a long list of EEG headsets that have come out in the last few years, I was extremely skeptical. However, this blew my mind that it actually worked. It was able to tell what I was looking at on the screen and click on it just by my brain signals. Can't wait to try some VR applications with it",
+      "author": {
+        "id": "491583404119293955",
+        "name": "jaredgoering",
+        "discriminator": "3265",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491583404119293955/9afd028f2735a2d36c089effe16e69ee.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "NextMind | Let your mind take control | Order your Dev Kit",
+          "url": "https://www.next-mind.com./",
+          "timestamp": null,
+          "description": "NextMind is shipping World’s First Real-time Brain-Sensing Wearable to the Developers community, offering new human-computer interactions.",
+          "thumbnail": {
+            "url": "https://www.next-mind.com/wp-content/uploads/2019/12/social01-copie-2.png",
+            "width": 1024,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791778095975235636",
+      "type": "Default",
+      "timestamp": "2020-12-24T21:23:28.606+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait hold up, so does this thing actually put electrodes on your head?!!!",
+      "author": {
+        "id": "613739397485035531",
+        "name": "cat in the hat",
+        "discriminator": "2034",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/613739397485035531/933d3ee02ead476a3b095266f5cf058f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791783867409104936",
+      "type": "Default",
+      "timestamp": "2020-12-24T21:46:24.623+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah dry EEG electrodes",
+      "author": {
+        "id": "491583404119293955",
+        "name": "jaredgoering",
+        "discriminator": "3265",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491583404119293955/9afd028f2735a2d36c089effe16e69ee.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "792071439808593940",
+      "type": "Default",
+      "timestamp": "2020-12-25T16:49:07.226+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wow that's so cool",
+      "author": {
+        "id": "613739397485035531",
+        "name": "cat in the hat",
+        "discriminator": "2034",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/613739397485035531/933d3ee02ead476a3b095266f5cf058f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "792071451544780811",
+      "type": "Default",
+      "timestamp": "2020-12-25T16:49:10.024+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "spooky but cool",
+      "author": {
+        "id": "613739397485035531",
+        "name": "cat in the hat",
+        "discriminator": "2034",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/613739397485035531/933d3ee02ead476a3b095266f5cf058f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "792335837709729802",
+      "type": "Default",
+      "timestamp": "2020-12-26T10:19:44.598+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "even 64gb quest 2 should be enough for a more than 10 games",
+      "author": {
+        "id": "357956315672215553",
+        "name": "konraditurbe",
+        "discriminator": "5302",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/357956315672215553/b355bb2c5500156781475eed6afdc8ef.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "792508951270129664",
+      "type": "Default",
+      "timestamp": "2020-12-26T21:47:38.087+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i have a ton of games on my 64gb quest 2",
+      "author": {
+        "id": "479830800410476546",
+        "name": "aiddun",
+        "discriminator": "3449",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/479830800410476546/d8d5d1c64c3c0b288936b71533677f3d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793555899506491472",
+      "type": "Default",
+      "timestamp": "2020-12-29T19:07:49.998+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "im wondering, whats y'all thoughts on the original Google Glass from 2014? i have the chance to get one for 300 dollars, is it worth the $?",
+      "author": {
+        "id": "528564781217611776",
+        "name": "qualladoom",
+        "discriminator": "9489",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/528564781217611776/e7c61a0d0b24714bf27bed88ae1983a6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794140193757593660",
+      "type": "Default",
+      "timestamp": "2020-12-31T09:49:36.603+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "planetary.vision",
+      "author": {
+        "id": "267197965452443648",
+        "name": "q_dot",
+        "discriminator": "1787",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/267197965452443648/6fb9e880a9f01d6e435de7a3379e94a4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794959240858173480",
+      "type": "Reply",
+      "timestamp": "2021-01-02T16:04:12.649+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is this a viable product for proper rapid prototyping with BCIs? I am a total newbie to BCIs but got the feeling that this sensor is very simple and that they put in a lot of effort into making it more accessible for gaming-devs through a solid API. I would like to dig into robot teleoperation but am not sure if that would be a suitable system ( is it limited in quality / quantity of the measurable SOTA signals compared to other EEG headsets?) there surely have to be some downsides for that price \uD83E\uDDD0",
+      "author": {
+        "id": "392291545270714389",
+        "name": "creapuretivity",
+        "discriminator": "1059",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392291545270714389/9af1059ac53e96616dd7b55ed826965d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "491583404119293955",
+          "name": "jaredgoering",
+          "discriminator": 3265,
+          "nickname": "jaredgoering",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "791776603717238805",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "795625791936528406",
+      "type": "Default",
+      "timestamp": "2021-01-04T12:12:50.81+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://guybahat.medium.com/the-future-of-video-games-a-foresight-project-95b748438c48",
+      "author": {
+        "id": "480827799746379776",
+        "name": "disguisedope",
+        "discriminator": "6656",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480827799746379776/61ed7b9442b0552af5b2704f98457d08.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Future of Video Games - a foresight project.",
+          "url": "https://guybahat.medium.com/the-future-of-video-games-a-foresight-project-95b748438c48",
+          "timestamp": null,
+          "description": "As a part of the Foresight M.Sc. program at the University of Houston I researched and forecasted the future of video games, with the use…",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/1200/1*aF6SfHr61L6kHEZJN1IFFw.jpeg",
+            "width": 1200,
+            "height": 1552
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795625819484585994",
+      "type": "Default",
+      "timestamp": "2021-01-04T12:12:57.378+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Article about the future of video games",
+      "author": {
+        "id": "480827799746379776",
+        "name": "disguisedope",
+        "discriminator": "6656",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480827799746379776/61ed7b9442b0552af5b2704f98457d08.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796209834831511553",
+      "type": "Reply",
+      "timestamp": "2021-01-06T02:53:37.487+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's super cool for prototyping BCI interfaces but not BCI tech. By that I mean, they put the sensors in a package that actually works really well and give you an SDK to build apps for it but they don't give you access to the raw data coming from the sensors. I'm planning on building some AR/VR apps for it",
+      "author": {
+        "id": "491583404119293955",
+        "name": "jaredgoering",
+        "discriminator": "3265",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491583404119293955/9afd028f2735a2d36c089effe16e69ee.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "392291545270714389",
+          "name": "creapuretivity",
+          "discriminator": 1059,
+          "nickname": "toni",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "794959240858173480",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "796423334388039760",
+      "type": "Default",
+      "timestamp": "2021-01-06T17:01:59.748+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can someone help me with some good ideas for ar vr projects using unreal engine, It's for a college project",
+      "author": {
+        "id": "473208935281721354",
+        "name": "_Aman_",
+        "discriminator": "0319",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473208935281721354/2ad7dacd8b0bead1cb18b2154500fe4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796979492433297469",
+      "type": "Default",
+      "timestamp": "2021-01-08T05:51:58.159+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "im using my like old vive right now, pretty fucking crazy",
+      "author": {
+        "id": "397269876345012245",
+        "name": "fredrickdouglass",
+        "discriminator": "8531",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397269876345012245/a_e3b5578f043ff406665d60b5dd489d78.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "797126323528925195",
+      "type": "Reply",
+      "timestamp": "2021-01-08T15:35:25.42+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you could just take a scenic environment and implement geometry warping for infinite walk",
+      "author": {
+        "id": "95288618515435520",
+        "name": "hekatonsure",
+        "discriminator": "9234",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/95288618515435520/5c2635c9132eacff7f7d3f6642130051.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "473208935281721354",
+          "name": "_Aman_",
+          "discriminator": 319,
+          "nickname": "_Aman_",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "796423334388039760",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "797260741426020352",
+      "type": "Reply",
+      "timestamp": "2021-01-09T00:29:33.144+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Two friends and I threw together a easy fps mob spawner in a weekend for oculus quest. Not super innovative but a lot of fun",
+      "author": {
+        "id": "491583404119293955",
+        "name": "jaredgoering",
+        "discriminator": "3265",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/491583404119293955/9afd028f2735a2d36c089effe16e69ee.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "473208935281721354",
+          "name": "_Aman_",
+          "discriminator": 319,
+          "nickname": "_Aman_",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "796423334388039760",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "797439843247718430",
+      "type": "Reply",
+      "timestamp": "2021-01-09T12:21:14.346+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thinking something along the lines of virtual brain but I don't know if the implementation is possible or not plus hardware is the main issues in such projects hardware is a must and it is expensive",
+      "author": {
+        "id": "473208935281721354",
+        "name": "_Aman_",
+        "discriminator": "0319",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473208935281721354/2ad7dacd8b0bead1cb18b2154500fe4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "95288618515435520",
+          "name": "hekatonsure",
+          "discriminator": 9234,
+          "nickname": "hekatonsure",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "797126323528925195",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "797440819148881931",
+      "type": "Reply",
+      "timestamp": "2021-01-09T12:25:07.019+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Will try it someday",
+      "author": {
+        "id": "473208935281721354",
+        "name": "_Aman_",
+        "discriminator": "0319",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473208935281721354/2ad7dacd8b0bead1cb18b2154500fe4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "491583404119293955",
+          "name": "jaredgoering",
+          "discriminator": 3265,
+          "nickname": "jaredgoering",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "797260741426020352",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "799728738577022986",
+      "type": "Default",
+      "timestamp": "2021-01-15T19:56:29.518+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi all, I just launched https://www.unai.one/ It's a VR headset and the virtual world inside, both designed to make being with someone in VR feel the same as in real life\n\nWe've built the most popular open source VR headset when we were 15 years old and now (4 years latter) we want to make the Metaverse real!\nOh and we are hiring a lot!\n\nI'm pretty sure this server is full of very talented people, so if you are into moonshot, and interested in the Multiverse and building the hardware and software from scratch you might like to check out our open positions!",
+      "author": {
+        "id": "391304530098388994",
+        "name": "maxcoutte",
+        "discriminator": "3508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/391304530098388994/15a579322005a7fed870fc82a860a58c.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Unai - A VR headset designed for real social interactions",
+          "url": "https://www.unai.one/",
+          "timestamp": null,
+          "description": "Meeting and talking with people is the best experience VR has to offer. Unai is both a headset and a virtual world designed to make that experience a whole better.",
+          "thumbnail": {
+            "url": "https://global-uploads.webflow.com/5ff724f45615d66991129627/5ffeb2ab1c6f9283ebfe759f_Frame%208-p-1080.jpeg",
+            "width": 1080,
+            "height": 567
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f525.png"
+          },
+          "count": 12
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799766601993420810",
+      "type": "Reply",
+      "timestamp": "2021-01-15T22:26:56.86+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wow this looks SO COOL!! when i first saw the graphics in the video my jaw physically dropped\nI'm kind of curious now, since you mentioned the hardware and software have to be intertwined rather than two separate processes, does that mean one of the main challenges in building the Metaverse is coming up with standardized ways for all the different VR headsets out there to communicate? or do you think existing things like the internet & streaming tech will work well here?\n\n(I'm pretty inexperienced in the VR area so not too familiar with the state of the art here)",
+      "author": {
+        "id": "767574609821302835",
+        "name": "Leon -",
+        "discriminator": "4657",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/767574609821302835/020932180eea26fa8d1bc07089370647.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "391304530098388994",
+          "name": "maxcoutte",
+          "discriminator": 3508,
+          "nickname": "maxcoutte",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "799728738577022986",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "799932540759572521",
+      "type": "Reply",
+      "timestamp": "2021-01-16T09:26:19.745+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "THIS IS AWESOME!",
+      "author": {
+        "id": "296966492933718018",
+        "name": "Vedant Karia",
+        "discriminator": "8686",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296966492933718018/d916598015b06a9d1d46a97fec28c693.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "391304530098388994",
+          "name": "maxcoutte",
+          "discriminator": 3508,
+          "nickname": "maxcoutte",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "799728738577022986",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "800447172424368138",
+      "type": "Default",
+      "timestamp": "2021-01-17T19:31:17.495+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@maxcoutte \nLooks really awesome. Am I assuming correctly that you aiming to create the next VRChat with better graphics?",
+      "author": {
+        "id": "699654641557831690",
+        "name": "Lukas Schmidt",
+        "discriminator": "7717",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699654641557831690/ff4ef573d84401887ff331d73bc43a12.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "391304530098388994",
+          "name": "maxcoutte",
+          "discriminator": 3508,
+          "nickname": "maxcoutte",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "802785299813367818",
+      "type": "Reply",
+      "timestamp": "2021-01-24T06:22:10.505+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is soooo cool",
+      "author": {
+        "id": "614196773769969697",
+        "name": "bhvc",
+        "discriminator": "0927",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/614196773769969697/8d9f495cbbda2bbc422ff603803ad009.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "391304530098388994",
+          "name": "maxcoutte",
+          "discriminator": 3508,
+          "nickname": "maxcoutte",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "799728738577022986",
+        "channelId": "787740053719613490",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "803126770227609600",
+      "type": "Default",
+      "timestamp": "2021-01-25T04:59:03.396+00:00",
+      "timestampEdited": "2021-01-25T05:53:35.725+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey, Danilo here \uD83D\uDC4B \n\nI'm the co-founder of Scena 360. My friends and I are making virtual gatherings feel more like in-person gatherings! \n\nWe recently launched our first product! Check it out -> https://scena360.com\n\nWe don't support VR/AR yet, but we're working on making Scena 360 available on every VR device in the near future. \nDM me if you have any questions about our tech, how we're different than our competitors or want to learn more about our startup!",
+      "author": {
+        "id": "461741454830731271",
+        "name": "danilo-scena360",
+        "discriminator": "2757",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461741454830731271/2c33d25d5adee1dc1f70179a6f83eb2f.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SCENA 360 - Host more natural and private gatherings.",
+          "url": "https://scena360.com/",
+          "timestamp": null,
+          "description": "Upgrade your video calls with 3D Audio, realistic 3D avatars, Spatial Video Chatting, real life interactions, and a lot more in a privacy-first gathering platform.",
+          "thumbnail": {
+            "url": "https://storage.googleapis.com/scena-cdn-assets/landing-images/scena-og-image-2.png",
+            "width": 1200,
+            "height": 628
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "734410089368387594",
+            "name": "emoji_6",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/734410089368387594.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "803273839282880512",
+      "type": "Default",
+      "timestamp": "2021-01-25T14:43:27.391+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "473208935281721354",
+        "name": "_Aman_",
+        "discriminator": "0319",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473208935281721354/2ad7dacd8b0bead1cb18b2154500fe4a.png"
+      },
+      "attachments": [
+        {
+          "id": "803273836643745832",
+          "url": "https://cdn.discordapp.com/attachments/787740053719613490/803273836643745832/Screenshot_20210125-201016.jpg",
+          "fileName": "Screenshot_20210125-201016.jpg",
+          "fileSizeBytes": 227093
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803273933704134696",
+      "type": "Default",
+      "timestamp": "2021-01-25T14:43:49.903+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can vr based social media platforms solve this issue?",
+      "author": {
+        "id": "473208935281721354",
+        "name": "_Aman_",
+        "discriminator": "0319",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/473208935281721354/2ad7dacd8b0bead1cb18b2154500fe4a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804784578598404126",
+      "type": "Default",
+      "timestamp": "2021-01-29T18:46:35.712+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We have an upcoming XR device and are looking for tatented Android system and user lever engineers to join us. Please DM me for more info",
+      "author": {
+        "id": "338724837419646977",
+        "name": "someguyonline",
+        "discriminator": "7692",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804840685819134082",
+      "type": "Default",
+      "timestamp": "2021-01-29T22:29:32.716+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We just announced our launch on HackerNews: https://news.ycombinator.com/item?id=25963326#25963436 \uD83D\uDE80 \uD83D\uDE80 \uD83D\uDE80",
+      "author": {
+        "id": "461741454830731271",
+        "name": "danilo-scena360",
+        "discriminator": "2757",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/461741454830731271/2c33d25d5adee1dc1f70179a6f83eb2f.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Launch HN: Scena360.com – Immersive gathering platform",
+          "url": "https://news.ycombinator.com/item?id=25963326",
+          "timestamp": "2021-01-29T22:06:27+00:00",
+          "description": "Hey HN!Danilo, Anshuman and Daekun here, co-founders of Scena 360 and Software Engineering students at the University of Waterloo. Scena 360 lets you host more natural and private meetups in shared 3D spaces. In Scena 360, you can turn towards the person that you're talking to and have separate conversations around campfires without having to br...",
+          "color": "#FF6600",
+          "author": {
+            "name": "djoksimo",
+            "url": null
+          },
+          "footer": {
+            "text": "Hacker News",
+            "iconUrl": "https://news.ycombinator.com/y18.gif"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805885887351095347",
+      "type": "Default",
+      "timestamp": "2021-02-01T19:42:48.18+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/re_compiled/status/1356050904995168263?s=20",
+      "author": {
+        "id": "397269876345012245",
+        "name": "fredrickdouglass",
+        "discriminator": "8531",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397269876345012245/a_e3b5578f043ff406665d60b5dd489d78.gif"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/re_compiled/status/1356050904995168263?s=20",
+          "timestamp": "2021-02-01T01:25:04.615+00:00",
+          "description": "Voxon Photonics is building 3d volumetric displays - no glasses or special headsets.\n\nAlthough this might seem trivial in your area, 3D design and other planning can be made much easier with non-planar projection.\n\nExcited to see how this tech develops. https://t.co/tznOpZlCfE",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "recompiled (@re_compiled)",
+            "url": "https://twitter.com/re_compiled",
+            "iconUrl": "https://pbs.twimg.com/profile_images/1351029385642586112/vSSHvmNn_bigger.png"
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805885978215448637",
+      "type": "Default",
+      "timestamp": "2021-02-01T19:43:09.844+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Feels like the best channel to put this",
+      "author": {
+        "id": "397269876345012245",
+        "name": "fredrickdouglass",
+        "discriminator": "8531",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397269876345012245/a_e3b5578f043ff406665d60b5dd489d78.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805885985308016661",
+      "type": "Default",
+      "timestamp": "2021-02-01T19:43:11.535+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thoughts?",
+      "author": {
+        "id": "397269876345012245",
+        "name": "fredrickdouglass",
+        "discriminator": "8531",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397269876345012245/a_e3b5578f043ff406665d60b5dd489d78.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 100
+}

@@ -1,0 +1,4215 @@
+{
+  "guild": {
+    "id": "733975218711953519",
+    "name": "gen z mafia",
+    "iconUrl": "https://cdn.discordapp.com/icons/733975218711953519/1defd2842cd55023e919903effda80b2.png"
+  },
+  "channel": {
+    "id": "734187632686268458",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDCAC | ▬▬▬▬ Topics ▬▬▬▬ | \uD83D\uDCAC",
+    "name": "\uD83C\uDF08-pride",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "734822511182610483",
+      "type": "Default",
+      "timestamp": "2020-07-20T17:22:19.008+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is this an LGBT channel? It's an LGBT channel",
+      "author": {
+        "id": "213157668993368065",
+        "name": "paul_r_doherty",
+        "discriminator": "9644",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213157668993368065/23db6053b9520b8644e0b0d3ba7fd705.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734822576337059942",
+      "type": "Default",
+      "timestamp": "2020-07-20T17:22:34.542+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm bi, to start this channel off",
+      "author": {
+        "id": "213157668993368065",
+        "name": "paul_r_doherty",
+        "discriminator": "9644",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213157668993368065/23db6053b9520b8644e0b0d3ba7fd705.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64c.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "734822613758509117",
+      "type": "Default",
+      "timestamp": "2020-07-20T17:22:43.464+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "me too!",
+      "author": {
+        "id": "341347831942217731",
+        "name": "imdilick",
+        "discriminator": "7575",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/341347831942217731/a8b81898b61c94eedf60f20bf04124b3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734822640597991548",
+      "type": "Default",
+      "timestamp": "2020-07-20T17:22:49.863+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sick",
+      "author": {
+        "id": "213157668993368065",
+        "name": "paul_r_doherty",
+        "discriminator": "9644",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213157668993368065/23db6053b9520b8644e0b0d3ba7fd705.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734822806067478607",
+      "type": "Default",
+      "timestamp": "2020-07-20T17:23:29.314+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That's dope I mean",
+      "author": {
+        "id": "213157668993368065",
+        "name": "paul_r_doherty",
+        "discriminator": "9644",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213157668993368065/23db6053b9520b8644e0b0d3ba7fd705.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834119610990663",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:08:26.673+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4B\uD83D\uDC4B\uD83C\uDF08",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834197243363348",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:08:45.182+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@PrimalNick get in voice chats",
+      "author": {
+        "id": "558316519424262146",
+        "name": "CarsonPoole",
+        "discriminator": "0640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558316519424262146/ab13492352e1b24062c41d03abb0e805.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "734461808387162143",
+          "name": "PrimalNick",
+          "discriminator": 5619,
+          "nickname": "PrimalNick",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "734834335508594770",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:09:18.147+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pride in hell chat \uD83E\uDD14",
+      "author": {
+        "id": "172861243579826176",
+        "name": "suds",
+        "discriminator": "4763",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172861243579826176/d4ea981e210d64567f3a8e644c015c2f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834337907867750",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:09:18.719+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Only JZ",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834347013570581",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:09:20.89+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wyd emma",
+      "author": {
+        "id": "172861243579826176",
+        "name": "suds",
+        "discriminator": "4763",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172861243579826176/d4ea981e210d64567f3a8e644c015c2f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834379641323520",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:09:28.669+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i deleted",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834383449751674",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:09:29.577+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lol",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834390806560830",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:09:31.331+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "emmas not on",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834409433202758",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:09:35.772+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i cant say mean things to nick",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834709816672338",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:10:47.389+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@paul_r_doherty @imdilick IGs? \uD83D\uDC40",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "213157668993368065",
+          "name": "paul_r_doherty",
+          "discriminator": 9644,
+          "nickname": "Paul (Twitter @paul_r_doherty)",
+          "isBot": false
+        },
+        {
+          "id": "341347831942217731",
+          "name": "imdilick",
+          "discriminator": 7575,
+          "nickname": "imdilick",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "734834736127541416",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:10:53.662+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hi nick we were supposed to talk like a year ago and never did",
+      "author": {
+        "id": "172861243579826176",
+        "name": "suds",
+        "discriminator": "4763",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172861243579826176/d4ea981e210d64567f3a8e644c015c2f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834790146113607",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:11:06.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello Stud",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834792784199700",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:11:07.17+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "emma told me to connect w you \uD83D\uDE2D",
+      "author": {
+        "id": "172861243579826176",
+        "name": "suds",
+        "discriminator": "4763",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172861243579826176/d4ea981e210d64567f3a8e644c015c2f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834796059951274",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:11:07.951+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lol",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834799855796244",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:11:08.856+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I rarely use my Instagram, but I'm at @paulrobertdoherty",
+      "author": {
+        "id": "213157668993368065",
+        "name": "paul_r_doherty",
+        "discriminator": "9644",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213157668993368065/23db6053b9520b8644e0b0d3ba7fd705.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834802766905536",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:11:09.55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> @paul_r_doherty @imdilick IGs? \uD83D\uDC40",
+      "author": {
+        "id": "341347831942217731",
+        "name": "imdilick",
+        "discriminator": "7575",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/341347831942217731/a8b81898b61c94eedf60f20bf04124b3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "213157668993368065",
+          "name": "paul_r_doherty",
+          "discriminator": 9644,
+          "nickname": "Paul (Twitter @paul_r_doherty)",
+          "isBot": false
+        },
+        {
+          "id": "341347831942217731",
+          "name": "imdilick",
+          "discriminator": 7575,
+          "nickname": "imdilick",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "734834819992780899",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:11:13.657+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mine is @imdilick",
+      "author": {
+        "id": "341347831942217731",
+        "name": "imdilick",
+        "discriminator": "7575",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/341347831942217731/a8b81898b61c94eedf60f20bf04124b3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "341347831942217731",
+          "name": "imdilick",
+          "discriminator": 7575,
+          "nickname": "imdilick",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "734834879459753995",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:11:27.835+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@PrimalNick ru sliding in",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "734461808387162143",
+          "name": "PrimalNick",
+          "discriminator": 5619,
+          "nickname": "PrimalNick",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "734834900032684154",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:11:32.74+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC40\uD83D\uDC40",
+      "author": {
+        "id": "172861243579826176",
+        "name": "suds",
+        "discriminator": "4763",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172861243579826176/d4ea981e210d64567f3a8e644c015c2f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734834954306977853",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:11:45.68+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "clearly",
+      "author": {
+        "id": "172861243579826176",
+        "name": "suds",
+        "discriminator": "4763",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172861243579826176/d4ea981e210d64567f3a8e644c015c2f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734835434420437133",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:13:40.148+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":emoji_4:",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734835768304074812",
+      "type": "Default",
+      "timestamp": "2020-07-20T18:14:59.752+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> r u sliding in\n@cat in the hat guess you're right, we are getting a couple from this server",
+      "author": {
+        "id": "550884418139717632",
+        "name": "Yev",
+        "discriminator": "1654",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/550884418139717632/b4bcad1063c3a95c81f4f201a5382809.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f440.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60e.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "613739397485035531",
+          "name": "cat in the hat",
+          "discriminator": 2034,
+          "nickname": "@nerdposterino on twitter",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "734879379569639564",
+      "type": "Default",
+      "timestamp": "2020-07-20T21:08:17.488+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "haha im gay",
+      "author": {
+        "id": "174717510514376705",
+        "name": "fionais__online",
+        "discriminator": "2098",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/174717510514376705/95edd61587713bba0b59a57f1f0eada1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734881996483985448",
+      "type": "Default",
+      "timestamp": "2020-07-20T21:18:41.409+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also i have a gc for bi designers if u identify  https://t.me/joinchat/QMY6lRt4SmCtqPLsx_8dRg",
+      "author": {
+        "id": "174717510514376705",
+        "name": "fionais__online",
+        "discriminator": "2098",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/174717510514376705/95edd61587713bba0b59a57f1f0eada1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "bi design “cult”",
+          "url": "https://t.me/joinchat/QMY6lRt4SmCtqPLsx_8dRg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://cdn1.telesco.pe/file/ACiphsoBaifhph0fQn-8B7QXbqhlsA7Oif3GbYRXkq7K3IuW1--syqwPNfajS7S30kUb1GXa0dyXF65UgdkJtf4YLJydtJPFYzbKzD8khLmeWRKp03X9oR-WZ_aAguI-wuahQasNGbOTDVlqk70qMqRN1B7EbizXYGWh0SsZ6bKdAPrWjNpk4JhARlf5Yxd2lyrk7Yl07FhYLNkNuBX6yez4C8xS8vbPmAyAXpZmdLHSs3qE_9zrV1017ENSZMKV0wcyQn_NZlkIvp-eLz3JQ6oGmbgERwRmhPuqfO3BNFWRe5lfIr8f5cfV9g64xw7Lx2BnXVN7m3XE45Wx6a9vMw.jpg",
+            "width": 320,
+            "height": 320
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734882762972201002",
+      "type": "Default",
+      "timestamp": "2020-07-20T21:21:44.154+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "^^ this gc is great",
+      "author": {
+        "id": "341347831942217731",
+        "name": "imdilick",
+        "discriminator": "7575",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/341347831942217731/a8b81898b61c94eedf60f20bf04124b3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734884178356732004",
+      "type": "Default",
+      "timestamp": "2020-07-20T21:27:21.608+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It’s not letting me join \uD83D\uDE22",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734884254067982347",
+      "type": "Default",
+      "timestamp": "2020-07-20T21:27:39.659+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@PrimalNick yo how's atmos?",
+      "author": {
+        "id": "550884418139717632",
+        "name": "Yev",
+        "discriminator": "1654",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/550884418139717632/b4bcad1063c3a95c81f4f201a5382809.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "734461808387162143",
+          "name": "PrimalNick",
+          "discriminator": 5619,
+          "nickname": "PrimalNick",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "734884316886073495",
+      "type": "Default",
+      "timestamp": "2020-07-20T21:27:54.636+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Small world @PrimalNick",
+      "author": {
+        "id": "376229900409110528",
+        "name": "Colm",
+        "discriminator": "3677",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/376229900409110528/d9d27bb790b232f880c229bd70cfac63.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "734461808387162143",
+          "name": "PrimalNick",
+          "discriminator": 5619,
+          "nickname": "PrimalNick",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "734884361362473021",
+      "type": "Default",
+      "timestamp": "2020-07-20T21:28:05.24+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@fionais__online I'm bi but don't consider myself a designer. Can I still join?",
+      "author": {
+        "id": "213157668993368065",
+        "name": "paul_r_doherty",
+        "discriminator": "9644",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213157668993368065/23db6053b9520b8644e0b0d3ba7fd705.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "174717510514376705",
+          "name": "fionais__online",
+          "discriminator": 2098,
+          "nickname": "fionais__online",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "734884411564359690",
+      "type": "Default",
+      "timestamp": "2020-07-20T21:28:17.209+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Colm yeah everyone's here it's wild",
+      "author": {
+        "id": "550884418139717632",
+        "name": "Yev",
+        "discriminator": "1654",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/550884418139717632/b4bcad1063c3a95c81f4f201a5382809.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "376229900409110528",
+          "name": "Colm",
+          "discriminator": 3677,
+          "nickname": "Colm",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "734884423010353205",
+      "type": "Default",
+      "timestamp": "2020-07-20T21:28:19.938+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is clubhouse for gen z",
+      "author": {
+        "id": "550884418139717632",
+        "name": "Yev",
+        "discriminator": "1654",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/550884418139717632/b4bcad1063c3a95c81f4f201a5382809.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734885911753654323",
+      "type": "Default",
+      "timestamp": "2020-07-20T21:34:14.882+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It’s going well - seems like a daily roller coaster",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734885948852011171",
+      "type": "Default",
+      "timestamp": "2020-07-20T21:34:23.727+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Colm it tis",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "376229900409110528",
+          "name": "Colm",
+          "discriminator": 3677,
+          "nickname": "Colm",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "734893251890380870",
+      "type": "Default",
+      "timestamp": "2020-07-20T22:03:24.907+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tech is very smol",
+      "author": {
+        "id": "183820450164375552",
+        "name": "JustJake",
+        "discriminator": "9237",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/183820450164375552/021ad6e463de47e0d96ae8dde3b616db.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f440.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "734894099525664778",
+      "type": "Default",
+      "timestamp": "2020-07-20T22:06:46.999+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Jeeez",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734894369534115991",
+      "type": "Default",
+      "timestamp": "2020-07-20T22:07:51.374+00:00",
+      "timestampEdited": "2020-07-20T22:08:22.93+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> this is clubhouse for gen z\nclubhouse is just discord groups for boomers",
+      "author": {
+        "id": "283112394618568704",
+        "name": "stopwatch",
+        "discriminator": "7024",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/283112394618568704/b8d1bc649e4c01ec37b96f0b77918d38.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "734916952987926710",
+      "type": "Default",
+      "timestamp": "2020-07-20T23:37:35.689+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> clubhouse is just discord groups for boomers\n@stopwatch  actually been my take since launch",
+      "author": {
+        "id": "121959716736860160",
+        "name": "PressTwice",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/121959716736860160/313d77b6c91dc07179d8d938929f83ff.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "283112394618568704",
+          "name": "stopwatch",
+          "discriminator": 7024,
+          "nickname": "@notscottmoore",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "734918161756848180",
+      "type": "Default",
+      "timestamp": "2020-07-20T23:42:23.882+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Faaaxxx",
+      "author": {
+        "id": "165585921381629952",
+        "name": "Syrian Barbarian",
+        "discriminator": "1400",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/165585921381629952/86f5e481c99742acf329a4f9304ba184.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "734918282712317962",
+      "type": "Default",
+      "timestamp": "2020-07-20T23:42:52.72+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When I discovered it I was like this is just discord VC",
+      "author": {
+        "id": "165585921381629952",
+        "name": "Syrian Barbarian",
+        "discriminator": "1400",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/165585921381629952/86f5e481c99742acf329a4f9304ba184.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "735725421110362182",
+      "type": "Default",
+      "timestamp": "2020-07-23T05:10:09.51+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/confused-john-travolta-pulp-fiction-gif-5377106",
+      "author": {
+        "id": "213157668993368065",
+        "name": "paul_r_doherty",
+        "discriminator": "9644",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213157668993368065/23db6053b9520b8644e0b0d3ba7fd705.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "confused john travolta",
+          "url": "https://tenor.com/view/confused-john-travolta-pulp-fiction-gif-5377106",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://media.tenor.co/images/796513ad673ed0c8499ea4adbe126196/raw",
+            "width": 426,
+            "height": 212
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD23",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f923.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "735737881494290443",
+      "type": "Default",
+      "timestamp": "2020-07-23T05:59:40.297+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Feel the same way",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "735737922241953832",
+      "type": "Default",
+      "timestamp": "2020-07-23T05:59:50.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thought this was gen z",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "735737953044660363",
+      "type": "Default",
+      "timestamp": "2020-07-23T05:59:57.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not boomers",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "735749000480686080",
+      "type": "Default",
+      "timestamp": "2020-07-23T06:43:51.27+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Problem is there seem to be only four queer people on this Discord",
+      "author": {
+        "id": "213157668993368065",
+        "name": "paul_r_doherty",
+        "discriminator": "9644",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213157668993368065/23db6053b9520b8644e0b0d3ba7fd705.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "735749712178577438",
+      "type": "Default",
+      "timestamp": "2020-07-23T06:46:40.952+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Seem”",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "735750534988038205",
+      "type": "Default",
+      "timestamp": "2020-07-23T06:49:57.125+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, it's only me, you, @imdilick, and @fionais__online",
+      "author": {
+        "id": "213157668993368065",
+        "name": "paul_r_doherty",
+        "discriminator": "9644",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213157668993368065/23db6053b9520b8644e0b0d3ba7fd705.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "174717510514376705",
+          "name": "fionais__online",
+          "discriminator": 2098,
+          "nickname": "fionais__online",
+          "isBot": false
+        },
+        {
+          "id": "341347831942217731",
+          "name": "imdilick",
+          "discriminator": 7575,
+          "nickname": "imdilick",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "735773700372037692",
+      "type": "Default",
+      "timestamp": "2020-07-23T08:22:00.183+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Out",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "735773710610464828",
+      "type": "Default",
+      "timestamp": "2020-07-23T08:22:02.624+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC40",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736267469374619738",
+      "type": "Default",
+      "timestamp": "2020-07-24T17:04:03.887+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "At first I was making the 7 layers of hell and one was pride haha",
+      "author": {
+        "id": "628301957433393171",
+        "name": "emma",
+        "discriminator": "7210",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628301957433393171/217f5edaa3c9b6c2938748c21c5ffe85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD23",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f923.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "736267525947523183",
+      "type": "Default",
+      "timestamp": "2020-07-24T17:04:17.375+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Then I converted it to \uD83C\uDF08 pride",
+      "author": {
+        "id": "628301957433393171",
+        "name": "emma",
+        "discriminator": "7210",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628301957433393171/217f5edaa3c9b6c2938748c21c5ffe85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736267605995946004",
+      "type": "Default",
+      "timestamp": "2020-07-24T17:04:36.46+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Might delete it. It’s a lot of channels haha",
+      "author": {
+        "id": "628301957433393171",
+        "name": "emma",
+        "discriminator": "7210",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628301957433393171/217f5edaa3c9b6c2938748c21c5ffe85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736267606578823289",
+      "type": "Default",
+      "timestamp": "2020-07-24T17:04:36.599+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "something something horshoe theory",
+      "author": {
+        "id": "550884418139717632",
+        "name": "Yev",
+        "discriminator": "1654",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/550884418139717632/b4bcad1063c3a95c81f4f201a5382809.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736314627490840628",
+      "type": "Default",
+      "timestamp": "2020-07-24T20:11:27.258+00:00",
+      "timestampEdited": "2020-07-24T20:11:36.716+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> At first I was making the 7 layers of hell and one was pride haha\nhttps://youtu.be/hVQDEUu1GDk",
+      "author": {
+        "id": "405441120844251137",
+        "name": "tasty.jose",
+        "discriminator": "6640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405441120844251137/d8da0c5be252a8fca811f15aedc9df9b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "MOST TERRIFYING SCENE IN POWERPUFF GIRLS",
+          "url": "https://www.youtube.com/watch?v=hVQDEUu1GDk",
+          "timestamp": null,
+          "description": "Jesus Christ this is like a really bad dream \n\nI think him is a hermaphrodite \n\nEnjoy",
+          "color": "#FF0000",
+          "author": {
+            "name": "Fazdolanguy Flores",
+            "url": "https://www.youtube.com/channel/UCALn3MmaSB4vvTqHh1I2i3w"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/hVQDEUu1GDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736355241431269486",
+      "type": "Default",
+      "timestamp": "2020-07-24T22:52:50.376+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> Yeah, it's only me, you, @imdilick, and @fionais__online\n@paul_r_doherty \uD83D\uDC4B  sup fellas",
+      "author": {
+        "id": "229972069406736396",
+        "name": "Wertsdf",
+        "discriminator": "1773",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/229972069406736396/99aba9938c6672946208b7819f16cc32.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "213157668993368065",
+          "name": "paul_r_doherty",
+          "discriminator": 9644,
+          "nickname": "Paul (Twitter @paul_r_doherty)",
+          "isBot": false
+        },
+        {
+          "id": "341347831942217731",
+          "name": "imdilick",
+          "discriminator": 7575,
+          "nickname": "imdilick",
+          "isBot": false
+        },
+        {
+          "id": "174717510514376705",
+          "name": "fionais__online",
+          "discriminator": 2098,
+          "nickname": "fionais__online",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "736355473749573774",
+      "type": "Default",
+      "timestamp": "2020-07-24T22:53:45.765+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Wertsdf Sup",
+      "author": {
+        "id": "213157668993368065",
+        "name": "paul_r_doherty",
+        "discriminator": "9644",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213157668993368065/23db6053b9520b8644e0b0d3ba7fd705.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "229972069406736396",
+          "name": "Wertsdf",
+          "discriminator": 1773,
+          "nickname": "@RyanOuyang_",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "736355976952938547",
+      "type": "Default",
+      "timestamp": "2020-07-24T22:55:45.738+00:00",
+      "timestampEdited": "2020-07-24T22:55:56.616+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh yeah I’m also part of this community. I’m bi : - )",
+      "author": {
+        "id": "628301957433393171",
+        "name": "emma",
+        "discriminator": "7210",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628301957433393171/217f5edaa3c9b6c2938748c21c5ffe85.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736356010565959751",
+      "type": "Default",
+      "timestamp": "2020-07-24T22:55:53.752+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> Oh yeah I’m also part of this community. I’m bi \uD83D\uDE42\n@emma Same !!!",
+      "author": {
+        "id": "229972069406736396",
+        "name": "Wertsdf",
+        "discriminator": "1773",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/229972069406736396/99aba9938c6672946208b7819f16cc32.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "628301957433393171",
+          "name": "emma",
+          "discriminator": 7210,
+          "nickname": "emma",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "736356073472131103",
+      "type": "Default",
+      "timestamp": "2020-07-24T22:56:08.75+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ngl I thought this channel would be a lot more busy than it is",
+      "author": {
+        "id": "229972069406736396",
+        "name": "Wertsdf",
+        "discriminator": "1773",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/229972069406736396/99aba9938c6672946208b7819f16cc32.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "736370307064922132",
+      "type": "Default",
+      "timestamp": "2020-07-24T23:52:42.303+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Welcome welcome!",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "739621761619853504",
+      "type": "Default",
+      "timestamp": "2020-08-02T23:12:49.478+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m poly, may i come in? \uD83E\uDD7A",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "741029280670023700",
+      "type": "Default",
+      "timestamp": "2020-08-06T20:25:48.17+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lol wait you said you were a rat righ t",
+      "author": {
+        "id": "194599262917492736",
+        "name": "kipply",
+        "discriminator": "0459",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/194599262917492736/0f2f1debef44f4ee3b51d0a65666969a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "741545974111141972",
+      "type": "Default",
+      "timestamp": "2020-08-08T06:38:57.486+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@hxcloud99 yes \uD83C\uDF39",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "384857897126985729",
+          "name": "hxcloud99",
+          "discriminator": 5670,
+          "nickname": "zrkrlc",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "741589191724630118",
+      "type": "Default",
+      "timestamp": "2020-08-08T09:30:41.368+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kipply yeah, that probs explains why lol",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "194599262917492736",
+          "name": "kipply",
+          "discriminator": 459,
+          "nickname": "kipply",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "741707190062022838",
+      "type": "Default",
+      "timestamp": "2020-08-08T17:19:34.364+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pOlyAMorY iS rAtIOnaL",
+      "author": {
+        "id": "194599262917492736",
+        "name": "kipply",
+        "discriminator": "0459",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/194599262917492736/0f2f1debef44f4ee3b51d0a65666969a.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "✌️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/270c.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "745325954175467591",
+      "type": "Default",
+      "timestamp": "2020-08-18T16:59:14.962+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait i love this",
+      "author": {
+        "id": "679715827762593818",
+        "name": "jared",
+        "discriminator": "2180",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/679715827762593818/230afe5385b70624b657cfed7e171c2b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747771587951853628",
+      "type": "Default",
+      "timestamp": "2020-08-25T10:57:19.492+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "+1 here \uD83D\uDE42",
+      "author": {
+        "id": "525677568892993567",
+        "name": "Armin",
+        "discriminator": "6383",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/525677568892993567/0be138fccf939045bc000d9377d1acf7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748199786133585982",
+      "type": "Default",
+      "timestamp": "2020-08-26T15:18:49.894+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ayyy ayyy ayyy \uD83D\uDE42 ❤️",
+      "author": {
+        "id": "349187810433171459",
+        "name": "Sheridan Clayborne (Shewidan)",
+        "discriminator": "8025",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/349187810433171459/ab34a497d1d73b4c66a2fe2054760fd2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748951425450508365",
+      "type": "Default",
+      "timestamp": "2020-08-28T17:05:34.672+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi! Bi (probably really gay, but I identify as bi idk) here",
+      "author": {
+        "id": "656250039143759903",
+        "name": "Josephpmay",
+        "discriminator": "2265",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/656250039143759903/2842036e1dd3c2afe3673093ea3ef8ed.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "751138595586310144",
+      "type": "Default",
+      "timestamp": "2020-09-03T17:56:36.668+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this is so fkn cute",
+      "author": {
+        "id": "166794497236271104",
+        "name": "zhaovan",
+        "discriminator": "6818",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166794497236271104/d7f23e1127f1f17ce532b28a60270c3b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "751138766315454565",
+      "type": "Default",
+      "timestamp": "2020-09-03T17:57:17.373+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "identify as gay!",
+      "author": {
+        "id": "166794497236271104",
+        "name": "zhaovan",
+        "discriminator": "6818",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166794497236271104/d7f23e1127f1f17ce532b28a60270c3b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "751146345913385020",
+      "type": "Default",
+      "timestamp": "2020-09-03T18:27:24.49+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also! a couple of friends and I are hosting fireside chats with industry profs in tech and tech adjacent and would love if yall could/want to join! peep our substack here: https://teatime.substack.com/",
+      "author": {
+        "id": "166794497236271104",
+        "name": "zhaovan",
+        "discriminator": "6818",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/166794497236271104/d7f23e1127f1f17ce532b28a60270c3b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "LGB(Tea)Q+ Time",
+          "url": "https://teatime.substack.com/",
+          "timestamp": null,
+          "description": "Supporting, bridging, and creating a broader LGBTQ+ community in tech",
+          "thumbnail": {
+            "url": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb34930bf-4203-484b-880d-6c22a7f7d7d6_903x903.png",
+            "width": 256,
+            "height": 256
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "755521599553142954",
+      "type": "Default",
+      "timestamp": "2020-09-15T20:13:06.246+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "heyoo \uD83D\uDC4B",
+      "author": {
+        "id": "464455332316577804",
+        "name": "lucasjohnston",
+        "discriminator": "4662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/464455332316577804/8dc7b4e432ed2ae3cf01c7522686256b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755535628833390612",
+      "type": "Default",
+      "timestamp": "2020-09-15T21:08:51.087+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi \uD83D\uDE04 \uD83D\uDC4B",
+      "author": {
+        "id": "213157668993368065",
+        "name": "paul_r_doherty",
+        "discriminator": "9644",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213157668993368065/23db6053b9520b8644e0b0d3ba7fd705.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755558649178619984",
+      "type": "Default",
+      "timestamp": "2020-09-15T22:40:19.565+00:00",
+      "timestampEdited": "2020-09-15T22:40:48.739+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello! Pan/Demi  here :)",
+      "author": {
+        "id": "142749330552520704",
+        "name": "WinterCharm",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/142749330552520704/47e2bae07653534594e0ef084fa442f1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755558752295452752",
+      "type": "Default",
+      "timestamp": "2020-09-15T22:40:44.15+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Took me way too long to figure out that I was Pan / Demi.",
+      "author": {
+        "id": "142749330552520704",
+        "name": "WinterCharm",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/142749330552520704/47e2bae07653534594e0ef084fa442f1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755559524277944390",
+      "type": "Default",
+      "timestamp": "2020-09-15T22:43:48.205+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey :)",
+      "author": {
+        "id": "118387335292256257",
+        "name": "tinytaco",
+        "discriminator": "0673",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/118387335292256257/6d33e26bd8931d9b4ad7ee1356064d17.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755559539302072450",
+      "type": "Default",
+      "timestamp": "2020-09-15T22:43:51.787+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah it took a while for me with my sexuality as well, first time i felt comfortable being out was at work",
+      "author": {
+        "id": "118387335292256257",
+        "name": "tinytaco",
+        "discriminator": "0673",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/118387335292256257/6d33e26bd8931d9b4ad7ee1356064d17.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755570073187385486",
+      "type": "Default",
+      "timestamp": "2020-09-15T23:25:43.261+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ace/aro here",
+      "author": {
+        "id": "628060337853431808",
+        "name": "Xyder",
+        "discriminator": "5770",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/628060337853431808/c491def3ef982f633f508959e84e4e7e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "602965426502238303",
+            "name": "kittyAce",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/602965426502238303.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "755660031093112862",
+      "type": "Default",
+      "timestamp": "2020-09-16T05:23:10.897+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello \uD83D\uDE00",
+      "author": {
+        "id": "213157668993368065",
+        "name": "paul_r_doherty",
+        "discriminator": "9644",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213157668993368065/23db6053b9520b8644e0b0d3ba7fd705.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755660606371004467",
+      "type": "Default",
+      "timestamp": "2020-09-16T05:25:28.054+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I had trouble figuring out that I wasn't straight as well",
+      "author": {
+        "id": "213157668993368065",
+        "name": "paul_r_doherty",
+        "discriminator": "9644",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/213157668993368065/23db6053b9520b8644e0b0d3ba7fd705.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755667071404081182",
+      "type": "Default",
+      "timestamp": "2020-09-16T05:51:09.438+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "these are all so relatable! here is to arriving on our respective journeys \uD83D\uDC9E",
+      "author": {
+        "id": "581094181901172736",
+        "name": "injesst",
+        "discriminator": "2275",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/581094181901172736/c5004df8150fa37a6bc6a18e5b324d78.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "755911650573287525",
+      "type": "Default",
+      "timestamp": "2020-09-16T22:03:01.656+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Im Self-descibed early Millenial.... But Gen Z has given our generation a reignition of sprited ambition so I just wanna thank you all for going hard when some of us lost the energy... \"I lie under starlit sky watch the younf starts burn and the old starts die\" - Lord Huron (Lonesome Dreams)",
+      "author": {
+        "id": "749824517823529102",
+        "name": "Chem6a",
+        "discriminator": "3811",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749824517823529102/daf803b10823334188fd9adcddd436c6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 10
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "755912219639677029",
+      "type": "Default",
+      "timestamp": "2020-09-16T22:05:17.332+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sorry to just jump in on the current conversation \uD83D\uDE15",
+      "author": {
+        "id": "749824517823529102",
+        "name": "Chem6a",
+        "discriminator": "3811",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749824517823529102/daf803b10823334188fd9adcddd436c6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "756620617952002181",
+      "type": "Default",
+      "timestamp": "2020-09-18T21:00:12.651+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ayeee it's great to see so many new faces \uD83D\uDE04",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "756726876638150769",
+      "type": "Default",
+      "timestamp": "2020-09-19T04:02:26.696+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey guys",
+      "author": {
+        "id": "656638112251904002",
+        "name": "rorhug",
+        "discriminator": "6185",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/656638112251904002/be3bff63c99ecb17cd6884466e2c5466.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "756726900914782228",
+      "type": "Default",
+      "timestamp": "2020-09-19T04:02:32.484+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hmu on dms real quick",
+      "author": {
+        "id": "656638112251904002",
+        "name": "rorhug",
+        "discriminator": "6185",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/656638112251904002/be3bff63c99ecb17cd6884466e2c5466.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "756941584217407579",
+      "type": "Default",
+      "timestamp": "2020-09-19T18:15:36.972+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Any lgptq+ people who are good with nextjs?",
+      "author": {
+        "id": "656638112251904002",
+        "name": "rorhug",
+        "discriminator": "6185",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/656638112251904002/be3bff63c99ecb17cd6884466e2c5466.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "756947668953071616",
+      "type": "Default",
+      "timestamp": "2020-09-19T18:39:47.686+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lesbian generative pre trained model transformer queer +",
+      "author": {
+        "id": "647986170050904074",
+        "name": "erin",
+        "discriminator": "1111",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647986170050904074/863b8613c8df4dfd465ffa72802efb18.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "757596739615064156",
+      "type": "Default",
+      "timestamp": "2020-09-21T13:38:58.191+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://thred.com/change/activism-101-get-informed-involved-with-these-sites/",
+      "author": {
+        "id": "755554345591898134",
+        "name": "Jenk Oz",
+        "discriminator": "8077",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755554345591898134/403e3cd58c64370b293daeeae197da68.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Activism 101: get informed & involved with these sites - Thred Website",
+          "url": "https://thred.com/change/activism-101-get-informed-involved-with-these-sites/",
+          "timestamp": null,
+          "description": "Want to make your mark and change world for the better? This is your yellow pages.\u00A0 Last month, we wrote a comprehensive breakdown of the six stages of social activism with the aim of really fleshing out an enigmatic concept that has more relevance today than ever before. Luck...",
+          "author": {
+            "name": "Jamie Watts",
+            "url": "https://thred.com/author/jamie/"
+          },
+          "thumbnail": {
+            "url": "https://thred.com/wp-content/uploads/2020/06/activism-101-main-1024x572.png",
+            "width": 1024,
+            "height": 572
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "757596862558503012",
+      "type": "Default",
+      "timestamp": "2020-09-21T13:39:27.503+00:00",
+      "timestampEdited": "2020-09-21T13:39:46.055+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thought you may like some of the articles we puplish at Thred at everyday.",
+      "author": {
+        "id": "755554345591898134",
+        "name": "Jenk Oz",
+        "discriminator": "8077",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755554345591898134/403e3cd58c64370b293daeeae197da68.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "758056949479768064",
+      "type": "Default",
+      "timestamp": "2020-09-22T20:07:40.773+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi!!! Nice to see a lil channel for lgbt+ stuff here ❤️",
+      "author": {
+        "id": "260628234142482432",
+        "name": "pxtrickj (Pat)",
+        "discriminator": "6549",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260628234142482432/1a6d0f0fe5116647c0af2ddf0bcd18b6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "758057062029590778",
+      "type": "Default",
+      "timestamp": "2020-09-22T20:08:07.607+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yall can add another gay to your list of members here \uD83C\uDFF3️‍\uD83C\uDF08",
+      "author": {
+        "id": "260628234142482432",
+        "name": "pxtrickj (Pat)",
+        "discriminator": "6549",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/260628234142482432/1a6d0f0fe5116647c0af2ddf0bcd18b6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "761930927340650496",
+      "type": "Default",
+      "timestamp": "2020-10-03T12:41:29.07+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://thred.com/style/chromats-nyfw-film-delivered-a-very-powerful-message/",
+      "author": {
+        "id": "755554345591898134",
+        "name": "Jenk Oz",
+        "discriminator": "8077",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755554345591898134/403e3cd58c64370b293daeeae197da68.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Chromat’s NYFW film delivered a very powerful message - Thred Websi...",
+          "url": "https://thred.com/style/chromats-nyfw-film-delivered-a-very-powerful-message/",
+          "timestamp": null,
+          "description": "At this year’s show, the inclusive fashion label chose to focus on the struggles faced by trans athletes as they fight for a place within the world of athletics.",
+          "author": {
+            "name": "Sofia Phillips",
+            "url": "https://thred.com/author/sofia/"
+          },
+          "thumbnail": {
+            "url": "https://thred.com/wp-content/uploads/2020/09/chromat.jpg",
+            "width": 1600,
+            "height": 900
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "762014262843277314",
+      "type": "Default",
+      "timestamp": "2020-10-03T18:12:37.802+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey folks,\n\nI'm super glad to be here & e-meet y'all.\n\nNormally, I stay pretty stealth about this in anything remotely professional, but I'm trans. Nice to meet more LGBTQ+ folks in tech",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "769409643544838144",
+      "type": "Default",
+      "timestamp": "2020-10-24T03:59:13.961+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@AFunkyMonkey Hi, I was just wondering what is it like being trans in modern day? What can cisgendered people do to help you?",
+      "author": {
+        "id": "520747984380493854",
+        "name": "gallop",
+        "discriminator": "1573",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/520747984380493854/6c598ef5cc831f968586c9d0d7e16665.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "328089210177191936",
+          "name": "AFunkyMonkey",
+          "discriminator": 966,
+          "nickname": "AFunkyMonkey",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "770224783970664469",
+      "type": "Default",
+      "timestamp": "2020-10-26T09:58:18.583+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @gallop ,\n\nThanks for asking. I'm not quite sure how to answer that in any way that's deeper than surface level concepts that just boil down to being respectful decent human beings.\n\nI.e. asking for someone's pronouns rather than assuming,...\n\nI'd be happy to chat more via DMs.",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "520747984380493854",
+          "name": "gallop",
+          "discriminator": 1573,
+          "nickname": "liz",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "770225742708736000",
+      "type": "Default",
+      "timestamp": "2020-10-26T10:02:07.164+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ok, and as I sent that, I remembered something.\n\nNot sure how other places do this, but at Apple (yes, I'm guilty of selling my soul to the corporate overlords of the Silicon Valley), our internal directory application & web interface have a spot right below our names for pronouns. So mine would say she,her,hers & have a ? Icon that pops up to explain when to use each (which in turn is great for people with limited English too).\n\nWe're also allowed to use preferred names for all correspondence, internal directory, and yadayada, which is great for trans folk who haven't yet had a legal name change.\n\nAdvocating for these is always awesome!",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774467569137745941",
+      "type": "Default",
+      "timestamp": "2020-11-07T02:57:37.394+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think that we should start asking gender pronouns to new people and be cool with being asked at the same time \uD83D\uDC40",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774507753749217310",
+      "type": "Default",
+      "timestamp": "2020-11-07T05:37:18.152+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I dunno what the bot situation on this server is, but we could have a bot to add roles based off that, that way you can always check someone's preferred pronouns",
+      "author": {
+        "id": "215866112972161036",
+        "name": "m1guelpf",
+        "discriminator": "4217",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215866112972161036/3899afcd1ceed90926c7c3ff102d284c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774511452047671307",
+      "type": "Default",
+      "timestamp": "2020-11-07T05:51:59.895+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "beautiful \uD83C\uDF08",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "775770664321286164",
+      "type": "Default",
+      "timestamp": "2020-11-10T17:15:39.496+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Woot! Go great ideas!",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "775770841501138944",
+      "type": "Default",
+      "timestamp": "2020-11-10T17:16:21.739+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "She/her/hers for me",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "775771158460760135",
+      "type": "Default",
+      "timestamp": "2020-11-10T17:17:37.308+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also, leaving Apple and starting at FB (albeit a TVC role), if any of y'all are there as well.\n\nPSIM Application Engineer for the GS Systems & Technology org.",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "775800408567447563",
+      "type": "Default",
+      "timestamp": "2020-11-10T19:13:51.077+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> I dunno what the bot situation on this server is, but we could have a bot to add roles based off that, that way you can always check someone's preferred pronouns\n@m1guelpf \nyeah that would be a great idea",
+      "author": {
+        "id": "528564781217611776",
+        "name": "qualladoom",
+        "discriminator": "9489",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/528564781217611776/e7c61a0d0b24714bf27bed88ae1983a6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "215866112972161036",
+          "name": "m1guelpf",
+          "discriminator": 4217,
+          "nickname": "Miguel Piedrafita (@m1guelpf)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "775873196884885576",
+      "type": "Default",
+      "timestamp": "2020-11-11T00:03:05.164+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "me looking through the list of channels: \uD83D\uDE42\nme finding the pride channel: \uD83E\uDD29\uD83E\uDD73\uD83D\uDE1D",
+      "author": {
+        "id": "355487860910063618",
+        "name": "christophergu",
+        "discriminator": "7889",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/355487860910063618/5618f5022acf4412772323fa658ca871.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "775873716780662784",
+      "type": "Default",
+      "timestamp": "2020-11-11T00:05:09.117+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "saame",
+      "author": {
+        "id": "528564781217611776",
+        "name": "qualladoom",
+        "discriminator": "9489",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/528564781217611776/e7c61a0d0b24714bf27bed88ae1983a6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "776699983742238770",
+      "type": "Default",
+      "timestamp": "2020-11-13T06:48:26.512+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey we should all nickname ourselves with our pronouns",
+      "author": {
+        "id": "520747984380493854",
+        "name": "gallop",
+        "discriminator": "1573",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/520747984380493854/6c598ef5cc831f968586c9d0d7e16665.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "776754812581838869",
+      "type": "Default",
+      "timestamp": "2020-11-13T10:26:18.726+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Or have it in the status",
+      "author": {
+        "id": "528564781217611776",
+        "name": "qualladoom",
+        "discriminator": "9489",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/528564781217611776/e7c61a0d0b24714bf27bed88ae1983a6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "776932458448945153",
+      "type": "Default",
+      "timestamp": "2020-11-13T22:12:12.801+00:00",
+      "timestampEdited": "2020-11-14T01:29:58.502+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "who's your favorite lgbtqi+ youtuber? here is mine. :)\nhttps://youtu.be/8X4FuFkO-ZA",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "He Didn't Know I was Trans",
+          "url": "https://www.youtube.com/watch?v=8X4FuFkO-ZA",
+          "timestamp": null,
+          "description": "MY SOCIALS:\n\nINSTAGRAM: https://instagram.com/mayavhenry\nFACEBOOK: https://facebook.com/mayavhenry\nTWITTER: https://twitter.com/mayavhenry\nYOUNOW: https://younow.com/mayavhenry",
+          "color": "#FF0000",
+          "author": {
+            "name": "Maya Henry",
+            "url": "https://www.youtube.com/channel/UCf0CRezZYOUcvqrdMmozowQ"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/8X4FuFkO-ZA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779477842425413632",
+      "type": "Default",
+      "timestamp": "2020-11-20T22:46:39.632+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey there @qualladoom",
+      "author": {
+        "id": "215882143807569920",
+        "name": "iamcpdev",
+        "discriminator": "4750",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215882143807569920/9a927e56204d5962dcd135df3afc2e8d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "528564781217611776",
+          "name": "qualladoom",
+          "discriminator": 9489,
+          "nickname": "Malte I. Lauterbach(@qualladoom)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "779489968271523851",
+      "type": "Default",
+      "timestamp": "2020-11-20T23:34:50.659+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey!",
+      "author": {
+        "id": "528564781217611776",
+        "name": "qualladoom",
+        "discriminator": "9489",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/528564781217611776/e7c61a0d0b24714bf27bed88ae1983a6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780108345109381150",
+      "type": "Default",
+      "timestamp": "2020-11-22T16:32:03.186+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@mei I think Maya Henry would probably be my fav LGBTQ+ YouTuber as well.\n\nShe does a great job at voicing the fears that I couldn't put words to",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC9B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f49b.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "713464564997685329",
+          "name": "mei",
+          "discriminator": 8977,
+          "nickname": "mei",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "783554446298710016",
+      "type": "Default",
+      "timestamp": "2020-12-02T04:45:37.735+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i wanted to ask this earlier of a trans individual and shied away from it but am now discussing with my gf and want to ask again",
+      "author": {
+        "id": "666012323357523970",
+        "name": "bigfacts",
+        "discriminator": "0661",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/666012323357523970/63db4ef5d504d40d279f95573ad55f24.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783554701407813691",
+      "type": "Default",
+      "timestamp": "2020-12-02T04:46:38.558+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is it a goal or something you personally might feel proud of to be recognized as, for example, \"male\" instead of \"trans\"",
+      "author": {
+        "id": "666012323357523970",
+        "name": "bigfacts",
+        "discriminator": "0661",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/666012323357523970/63db4ef5d504d40d279f95573ad55f24.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783554953989718056",
+      "type": "Default",
+      "timestamp": "2020-12-02T04:47:38.778+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like confronted with the situation of \"he didn't know i was trans\" - does that feel like you have succeeded in representing yourself according to how you identify",
+      "author": {
+        "id": "666012323357523970",
+        "name": "bigfacts",
+        "discriminator": "0661",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/666012323357523970/63db4ef5d504d40d279f95573ad55f24.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783555118905294889",
+      "type": "Default",
+      "timestamp": "2020-12-02T04:48:18.097+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if that makes sense as a question? just asking for personal takes obviously everyone might feel differently",
+      "author": {
+        "id": "666012323357523970",
+        "name": "bigfacts",
+        "discriminator": "0661",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/666012323357523970/63db4ef5d504d40d279f95573ad55f24.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783561848774852638",
+      "type": "Default",
+      "timestamp": "2020-12-02T05:15:02.623+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not trans but i’ve heard trans people say that",
+      "author": {
+        "id": "120860411682750464",
+        "name": "likliklik",
+        "discriminator": "8489",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/120860411682750464/c10f59aee1743742d12e4a33d48386b9.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783561884578218015",
+      "type": "Default",
+      "timestamp": "2020-12-02T05:15:11.159+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "particularly contrapoints",
+      "author": {
+        "id": "120860411682750464",
+        "name": "likliklik",
+        "discriminator": "8489",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/120860411682750464/c10f59aee1743742d12e4a33d48386b9.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783915661784514601",
+      "type": "Default",
+      "timestamp": "2020-12-03T04:40:58.218+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anything makes you you would be it.",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785293460810629150",
+      "type": "Reply",
+      "timestamp": "2020-12-06T23:55:51.104+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is a good question thank u for asking",
+      "author": {
+        "id": "755850845505060976",
+        "name": "ciaralondon",
+        "discriminator": "8706",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755850845505060976/97962aa1c855d146345e078ed780d209.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "666012323357523970",
+          "name": "bigfacts",
+          "discriminator": 661,
+          "nickname": "Noah",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "783554953989718056",
+        "channelId": "734187632686268458",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "785294361075646504",
+      "type": "Default",
+      "timestamp": "2020-12-06T23:59:25.744+00:00",
+      "timestampEdited": "2020-12-06T23:59:59.092+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m also cis but I have heard rhetoric about trans people being worried about passing, like for example Nikita dragun has done a CRAZY amount of invasive procedures to look more feminine (she even got facial reconstruction surgery where they shave off parts of your bones iirc). I’m seeing a gender fluid person and she had an experience with a homophobe with a guy friend where someone called her a faggot in public but it made her happy because she was feeling super masc that day and it meant she passed",
+      "author": {
+        "id": "755850845505060976",
+        "name": "ciaralondon",
+        "discriminator": "8706",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755850845505060976/97962aa1c855d146345e078ed780d209.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785295439959687168",
+      "type": "Default",
+      "timestamp": "2020-12-07T00:03:42.97+00:00",
+      "timestampEdited": "2020-12-07T00:04:56.02+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My understanding is that gender dsyphoria is mostly a personal experience though, meaning that trans people who want to change their bodies do it so they can have the body they feel like they should’ve from the start instead of so people can see them as what they actually are. It’s super interesting I’d love to hear from trans people who can talk about their experiences because I’m not super educated",
+      "author": {
+        "id": "755850845505060976",
+        "name": "ciaralondon",
+        "discriminator": "8706",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755850845505060976/97962aa1c855d146345e078ed780d209.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785404133707481109",
+      "type": "Default",
+      "timestamp": "2020-12-07T07:15:37.579+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks for your reply Ciara, I was concerned I touched a nerve / was insensitive towards what I’m sure is a difficult topic for some.\n\nI’d like to hear more perspectives, as a straight white male in arizona I really only have the privilege of hearing other straight/lgbtq white people and often asking questions isn’t something I’ve felt comfortable doing, whether that’s our culture here or my approach to conversation, I can’t say. Just trying to learn and understand so I can live from a place of empathy \uD83D\uDE0C",
+      "author": {
+        "id": "666012323357523970",
+        "name": "bigfacts",
+        "discriminator": "0661",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/666012323357523970/63db4ef5d504d40d279f95573ad55f24.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785404463707193364",
+      "type": "Default",
+      "timestamp": "2020-12-07T07:16:56.257+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sounds kinda dope if I identified as a woman and then a cute guy hits on me, fat W",
+      "author": {
+        "id": "666012323357523970",
+        "name": "bigfacts",
+        "discriminator": "0661",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/666012323357523970/63db4ef5d504d40d279f95573ad55f24.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785551913965060166",
+      "type": "Default",
+      "timestamp": "2020-12-07T17:02:51.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@bigfacts  I think the conversation about passing is more nuanced too. Like many people talk about violence towards non-passing trans people and it’s at the intersection of a lot of identity points of race, socio-economic status and normalized beauty standards. There is disproportionate amount of violence towards black trans womxn vs any other race within America. On the flip side of trans men, I find that mainstream media does not cover as much or celebrates it differently. I.e. Eliot Page coming out last week as a trans male and all the hype and commotion vs. Laverne Cox being attacked with her friends when out in LA that happened just a few days before Eliot’s announcement. There’s room for both for discussion, but what is talked about more? \uD83E\uDD14\n\nOn a side note, I have seen some tech companies be more progressive on hiring from trans communities as technical employees. Before this past decade, many trans communities either had to be extremely discreet/hidden which is where passing is a touchy subject, but most go tos have been service / hospitality / sex work. My trans roommate a while back was a sex worker / barista until they were able to learn programming and landed a fellowship at IBM to start their career in tech. They’re now about to graduate the fellowship and move on into their first job that isn’t minimum wage being almost 32 after transitioning around 22. Especially when a role becomes merit and knowledge based, in theory this is how tech could be more accessible on paper but culture is also a main driver away for diverse communities to be apart of the picture.",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "666012323357523970",
+          "name": "bigfacts",
+          "discriminator": 661,
+          "nickname": "Noah",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "785557582072381451",
+      "type": "Reply",
+      "timestamp": "2020-12-07T17:25:22.52+00:00",
+      "timestampEdited": "2020-12-07T17:26:13.316+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "part of the problem is being afraid to ask questions \n\nIf people take it offensively and aren’t willing to explain why when you’re coming from a place of empathetic curiosity, that’s their problem not yours \n\nThere’s a difference between asking a question like this and when straight guys ask me “so you like girls? I think that’s hot” that’s predatory and disgusting",
+      "author": {
+        "id": "755850845505060976",
+        "name": "ciaralondon",
+        "discriminator": "8706",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755850845505060976/97962aa1c855d146345e078ed780d209.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "666012323357523970",
+          "name": "bigfacts",
+          "discriminator": 661,
+          "nickname": "Noah",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "785404133707481109",
+        "channelId": "734187632686268458",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "786468081165533184",
+      "type": "Default",
+      "timestamp": "2020-12-10T05:43:22.42+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi friends",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786531153719984148",
+      "type": "Default",
+      "timestamp": "2020-12-10T09:54:00.089+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi!",
+      "author": {
+        "id": "528564781217611776",
+        "name": "qualladoom",
+        "discriminator": "9489",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/528564781217611776/e7c61a0d0b24714bf27bed88ae1983a6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786547319793385493",
+      "type": "Default",
+      "timestamp": "2020-12-10T10:58:14.381+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sup",
+      "author": {
+        "id": "270666670807187467",
+        "name": "Jack O'Regan Kenny",
+        "discriminator": "5064",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270666670807187467/4125c65c87750b4e5d8f38f8c6e4a1d6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786658305035862037",
+      "type": "Default",
+      "timestamp": "2020-12-10T18:19:15.325+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I wonder if the vaccine will distribute fast enough for pride this year",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786789436603891752",
+      "type": "Default",
+      "timestamp": "2020-12-11T03:00:19.527+00:00",
+      "timestampEdited": "2020-12-11T03:00:35.778+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I want to experience pride but I’m afraid someone will take a photo and out me at my university",
+      "author": {
+        "id": "674470033665294366",
+        "name": "Georgie.gif",
+        "discriminator": "6254",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/674470033665294366/1757960f692240170de16ace88dcf043.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786869357421920266",
+      "type": "Default",
+      "timestamp": "2020-12-11T08:17:54.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just because you go to pride doesn’t necessarily mean you’re LGBTQ",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786869412720279575",
+      "type": "Default",
+      "timestamp": "2020-12-11T08:18:07.319+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m sure it’d be fine",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787104790923837440",
+      "type": "Reply",
+      "timestamp": "2020-12-11T23:53:25.856+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "^^^ definitely, but generally the people that'd treat you differently if you got outed are the same people who won't get the difference between being an ally and being LGBTQ",
+      "author": {
+        "id": "215866112972161036",
+        "name": "m1guelpf",
+        "discriminator": "4217",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215866112972161036/3899afcd1ceed90926c7c3ff102d284c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "734461808387162143",
+          "name": "PrimalNick",
+          "discriminator": 5619,
+          "nickname": "PrimalNick",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "786869357421920266",
+        "channelId": "734187632686268458",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "787164099788144690",
+      "type": "Default",
+      "timestamp": "2020-12-12T03:49:06.191+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah - definitely get the fear. Not sure where you all live",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787164212879163392",
+      "type": "Default",
+      "timestamp": "2020-12-12T03:49:33.154+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In Raleigh-Durham NC pride was a popular thing",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787164267673288715",
+      "type": "Default",
+      "timestamp": "2020-12-12T03:49:46.218+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but definitely location specific",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788237277314416660",
+      "type": "Default",
+      "timestamp": "2020-12-15T02:53:31.652+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@bigfacts sorry for the delayed reply. I'm a LinkedIn & Slack aholic, but don't get on Discord as much (gahh if only GZM was on LI or Slack).\n\nA lot of the responses have been great & touched on a ton of really important aspects surrounding being trans in a cis-normative society.\n\nJust throwing in my $0.02, it does feel pretty great to be stealth & not have people know you're trans. I'm now at my first job where only 1 person knows I'm trans & it's only because I felt comfortable enough confiding in her when asking about work travel post-COVID (wanted to avoid AZ & NC even though FAANG has a ton of Datacenters there). She assumed it was because I'm an Asian-American woman when I mentioned parts of the country that aren't that safe for me & related since she's Middle-Eastern. The feeling inside when people see you for who you really are is pretty great.\n\nAnd if nothing else, thank you for caring enough to ask rather than just forming your own opinions and deciding that's how the world is. I can't speak for the whole trans community, but if you have questions, plz feel free to reach out. (CAUTION: you may get a very long-winded answer, but my name is Gabby & I've gotta live up to my name)",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": [
+        {
+          "id": "666012323357523970",
+          "name": "bigfacts",
+          "discriminator": 661,
+          "nickname": "Noah",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "788237973920677918",
+      "type": "Default",
+      "timestamp": "2020-12-15T02:56:17.736+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@PrimalNick is Raleigh-Durham really inclusive?\n\nI had a job offer from out that way but saw North Carolina & ran away from it.\n\nBathroom Bill, too? I mean even California had Prop 8 at one point in history, but it's 2020. Transwomen aren't just dead hookers on Law & Order: SVU.",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "734461808387162143",
+          "name": "PrimalNick",
+          "discriminator": 5619,
+          "nickname": "PrimalNick",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "788239521346486302",
+      "type": "Default",
+      "timestamp": "2020-12-15T03:02:26.671+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can't speak for the entire state only where I'm from",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788239533744848927",
+      "type": "Default",
+      "timestamp": "2020-12-15T03:02:29.627+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Durham",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788239631564537886",
+      "type": "Reply",
+      "timestamp": "2020-12-15T03:02:52.949+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ultimately, no one knows your situation like you do, but pride events often occur around areas that are really popular to begin with. If staying in the closet is the route you go (and don't let anyone kick you down for it \uD83D\uDC9C), you could always go with the \"Oh I wasn't at Pride, I was really craving XYZ place's coffee, sushi,.........\"\n\nI'm part of a volunteer event medic service that does the SF pride parade & etc, so if I wanted to hide my being trans, a hoodie or shirt with the logo of the service could go a long with pretending that I was just a medic \"healing the sick\"(or drunk, more likely).\n\nNot sure where you are or what you're planning on doing after school, but there are tons of groups of peeps that are totally great about helping you protect your privacy while still being who you are. Some companies have great employee groups for it (i.e. Pride@Apple, Pride@Facebook,...)",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "674470033665294366",
+          "name": "Georgie.gif",
+          "discriminator": 6254,
+          "nickname": "Georgie.gif",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "786789436603891752",
+        "channelId": "734187632686268458",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788240125707550751",
+      "type": "Default",
+      "timestamp": "2020-12-15T03:04:50.762+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@PrimalNick , thanks! I was really worried about having to travel to Maiden,NC for Apple & then now FB's bajillion datacenters.\n\nThe bathroom bill got struck down, right?",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "734461808387162143",
+          "name": "PrimalNick",
+          "discriminator": 5619,
+          "nickname": "PrimalNick",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "788240221237542923",
+      "type": "Default",
+      "timestamp": "2020-12-15T03:05:13.538+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "idk",
+      "author": {
+        "id": "734461808387162143",
+        "name": "PrimalNick",
+        "discriminator": "5619",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/734461808387162143/0f72e0067b6be04c0f92e676b1f3b4ba.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788240294604701726",
+      "type": "Default",
+      "timestamp": "2020-12-15T03:05:31.03+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks tho!",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788576665139806218",
+      "type": "Default",
+      "timestamp": "2020-12-16T01:22:08.015+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "omg i went to SF for pride like 2 years ago and it was fucking amazing i need to go again",
+      "author": {
+        "id": "755850845505060976",
+        "name": "ciaralondon",
+        "discriminator": "8706",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755850845505060976/97962aa1c855d146345e078ed780d209.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788576692649328691",
+      "type": "Default",
+      "timestamp": "2020-12-16T01:22:14.574+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so many naked people dancing",
+      "author": {
+        "id": "755850845505060976",
+        "name": "ciaralondon",
+        "discriminator": "8706",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755850845505060976/97962aa1c855d146345e078ed780d209.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788576727973625887",
+      "type": "Default",
+      "timestamp": "2020-12-16T01:22:22.996+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i would simply die if i got to go this year",
+      "author": {
+        "id": "755850845505060976",
+        "name": "ciaralondon",
+        "discriminator": "8706",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755850845505060976/97962aa1c855d146345e078ed780d209.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789275384469782550",
+      "type": "Default",
+      "timestamp": "2020-12-17T23:38:35.685+00:00",
+      "timestampEdited": "2020-12-17T23:40:22.81+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hope pride 2021 will happen in SF",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789316937682255873",
+      "type": "Default",
+      "timestamp": "2020-12-18T02:23:42.743+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "^^!!",
+      "author": {
+        "id": "705839999115067483",
+        "name": "coleman",
+        "discriminator": "2896",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705839999115067483/197cfbb9af7e429f276da7ab51a53bcf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789520191833767946",
+      "type": "Default",
+      "timestamp": "2020-12-18T15:51:22.309+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i really want to experience SF pride \uD83E\uDD7A\uD83E\uDD7A",
+      "author": {
+        "id": "464455332316577804",
+        "name": "lucasjohnston",
+        "discriminator": "4662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/464455332316577804/8dc7b4e432ed2ae3cf01c7522686256b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789520430259372044",
+      "type": "Default",
+      "timestamp": "2020-12-18T15:52:19.154+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i only visited once when i was still in le closet so didn't get to see much of the lgbtq+ scene",
+      "author": {
+        "id": "464455332316577804",
+        "name": "lucasjohnston",
+        "discriminator": "4662",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/464455332316577804/8dc7b4e432ed2ae3cf01c7522686256b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "791928989635313684",
+      "type": "Default",
+      "timestamp": "2020-12-25T07:23:04.458+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If SF Pride 2021 is a go & anyone needs a local for stuff, plz feel free to reach out",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794194507758567435",
+      "type": "Default",
+      "timestamp": "2020-12-31T13:25:26.07+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I went to pride in SF in 2017 and really enjoyed it. Highly recommend!",
+      "author": {
+        "id": "739429338100924516",
+        "name": "haden",
+        "discriminator": "7264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739429338100924516/d070e3f343bad45ea5ffd9b55f65746c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "794194726571343872",
+      "type": "Default",
+      "timestamp": "2020-12-31T13:26:18.239+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "way more toned down than folsom street fair tbh",
+      "author": {
+        "id": "739429338100924516",
+        "name": "haden",
+        "discriminator": "7264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739429338100924516/d070e3f343bad45ea5ffd9b55f65746c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798662258648809532",
+      "type": "Reply",
+      "timestamp": "2021-01-12T21:18:40.889+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I guess Pride 2021 would most likely be virtual maybe in voice chat here?",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "328089210177191936",
+          "name": "AFunkyMonkey",
+          "discriminator": 966,
+          "nickname": "AFunkyMonkey",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "791928989635313684",
+        "channelId": "734187632686268458",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "799059230387601418",
+      "type": "Default",
+      "timestamp": "2021-01-13T23:36:06.327+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That sounds like a good idea",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799756119425024000",
+      "type": "Reply",
+      "timestamp": "2021-01-15T21:45:17.621+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "omg if it's a go i'll hyu! Do you have a twitter",
+      "author": {
+        "id": "755850845505060976",
+        "name": "ciaralondon",
+        "discriminator": "8706",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755850845505060976/97962aa1c855d146345e078ed780d209.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "328089210177191936",
+          "name": "AFunkyMonkey",
+          "discriminator": 966,
+          "nickname": "AFunkyMonkey",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "791928989635313684",
+        "channelId": "734187632686268458",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "800562027276927027",
+      "type": "Default",
+      "timestamp": "2021-01-18T03:07:41.026+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@ciaralondon , I do but I'm also never on it.\n\nI'm usually on FB (only for messenger really) & LinkedIn mostly.",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "755850845505060976",
+          "name": "ciaralondon",
+          "discriminator": 8706,
+          "nickname": "ciaralondon",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "800593829185978368",
+      "type": "Default",
+      "timestamp": "2021-01-18T05:14:03.192+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Since my notifications for the Gen Z Mafia Discord really don't like me and I never know when I'll see a msg:\n\nFacebook.com/unicornhackerprincess & Linkedin.com/in/gabriellahan",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801188277913780234",
+      "type": "Default",
+      "timestamp": "2021-01-19T20:36:10.813+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How many of y'all have bought something just because it comes in rainbow?",
+      "author": {
+        "id": "630880086328868906",
+        "name": "cramos20",
+        "discriminator": "0275",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630880086328868906/9cd80af10c20c4b51724b782cbe3289e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF08",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f308.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "801190038665953411",
+      "type": "Reply",
+      "timestamp": "2021-01-19T20:43:10.609+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "140541286498304000",
+        "name": "celeste",
+        "discriminator": "2692",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/140541286498304000/3d509e7a0a005d260df3b7688b5e5b0f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "630880086328868906",
+          "name": "cramos20",
+          "discriminator": 275,
+          "nickname": "Clarissa (@clarissaramosof)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "801188277913780234",
+        "channelId": "734187632686268458",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "801727548715302943",
+      "type": "Default",
+      "timestamp": "2021-01-21T08:19:02.991+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@cramos20 , rainbowwwwwwwww! Totally ended up in that trap.",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "630880086328868906",
+          "name": "cramos20",
+          "discriminator": 275,
+          "nickname": "Clarissa (@clarissaramosof)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "802020347518910484",
+      "type": "Default",
+      "timestamp": "2021-01-22T03:42:31.666+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yup, can't resist for \uD83C\uDF08",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "803494977330085928",
+      "type": "Default",
+      "timestamp": "2021-01-26T05:22:10.81+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey so I realize this may not be the most appropriare place for this kind of posting, but I figured since people like us are at a much higher risk for it, some of you might be interested.\n\nI recently started as a Director building out a Technology Operations Center (TOC), Security Operations Center (SOC), & running the partnership program for a non-profit that provides technical & cyber-physical support to folks who are escaping or have escaped & need help to stay free from Domestic Violence, Stalking, Harassment, & all the related crimes where your sense of safety & sanctity as a person are being plagued with fear.\n\nIt's all unpaid volunteer work, but it makes for great resume fodder, you get to help real people make huge changes in their lives for the better, free access to a lot of quality training (OSINT/CTI, DFIR, OPSEC,...), & pretty great network of powerful folks in tech. Also super duper flexible, since we all do this in addition to our day jobs & other commitments like side work, school, family,...\n\nWe're currently looking for:\nTOC Software Engineers : yes, you code monkeys! Churning out code to help build out internal tools\nTOC Engineering Manager: person to oversee the above. Great for people who are ICs/TCs in their day job but want to get some program / project management experience while doing something important.\nTOC Support Specialists: Folks who'll roll their sleeves up & see what they can do to fix the tech problems that come their way. Everything from a shelter's staff member saying they can't print to potentially migrating on-prem resources to public / private cloud,.... you never know.\nTOC Operations Manager: Manager for the above. Also great for people who are ICs/TCs in their day job but want to get some program / project management experience while doing something important.",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803494990084833292",
+      "type": "Default",
+      "timestamp": "2021-01-26T05:22:13.851+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "SOC Analyst: Great for both entry-level & experienced security folks. Deal with escalations from the TOC when they come across an indicator of compromise like a shelter staff member calling in a panic because someone's remotely accessing their machines & stealing confidential data for people in the safehouse. Or train non-technical audiences to avoid being socially engineered. Or.... anything else.\n\nIf this sounds interesting to you or if you'd like to learn more, please feel free to DM me.",
+      "author": {
+        "id": "328089210177191936",
+        "name": "AFunkyMonkey",
+        "discriminator": "0966",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/328089210177191936/067e41e8964d70d244c049b897138097.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "757787153764712468",
+            "name": "gzm",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/757787153764712468.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF08",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f308.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC9B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f49b.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 171
+}

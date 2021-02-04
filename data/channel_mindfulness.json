@@ -1,0 +1,5347 @@
+{
+  "guild": {
+    "id": "733975218711953519",
+    "name": "gen z mafia",
+    "iconUrl": "https://cdn.discordapp.com/icons/733975218711953519/1defd2842cd55023e919903effda80b2.png"
+  },
+  "channel": {
+    "id": "774490793036611645",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDCAC | ▬▬▬▬ Topics ▬▬▬▬ | \uD83D\uDCAC",
+    "name": "☮-mindfulness",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "774491777662976023",
+      "type": "Default",
+      "timestamp": "2020-11-07T04:33:49.156+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "vibesssss",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774491901478174760",
+      "type": "Default",
+      "timestamp": "2020-11-07T04:34:18.676+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#selfcare",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD6F️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f56f.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "774508262409502720",
+      "type": "Default",
+      "timestamp": "2020-11-07T05:39:19.426+00:00",
+      "timestampEdited": "2020-11-07T05:39:44.647+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i started to do 60 min power vinyasa yoga almost daily a couple of months ago. keeping motivations to commit leaning yoga flow is like meditation itself and realized that i now have more motivation to do things that matters. \uD83E\uDDD8\uD83C\uDFFB‍♀️",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774509178772914176",
+      "type": "Default",
+      "timestamp": "2020-11-07T05:42:57.904+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anyone has any good resources to get started with meditation? Have been meaning to try it for ages but I can never find the time",
+      "author": {
+        "id": "215866112972161036",
+        "name": "m1guelpf",
+        "discriminator": "4217",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215866112972161036/3899afcd1ceed90926c7c3ff102d284c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774509337535315979",
+      "type": "Default",
+      "timestamp": "2020-11-07T05:43:35.756+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://a.co/7kD6FkF",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Audible, try it free - 30 day audiobooks free trial from Audible | ...",
+          "url": "https://a.co/7kD6FkF",
+          "timestamp": null,
+          "description": "Download Audio Books from Audible. Start your Free Trial. Download digital audiobooks online and listen on your iPhone, Android or mp3 player. 180,000+ downloadable Audible audiobooks by best-selling authors.",
+          "thumbnail": {
+            "url": "https://m.media-amazon.com/images/G/01/Audible/en_US/images/Facebook_Placement_v1_OG_Tag.jpg",
+            "width": 549,
+            "height": 268
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774509563268431892",
+      "type": "Default",
+      "timestamp": "2020-11-07T05:44:29.575+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Does that link to any specific audiobook? Just goes to the homepage for me",
+      "author": {
+        "id": "215866112972161036",
+        "name": "m1guelpf",
+        "discriminator": "4217",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215866112972161036/3899afcd1ceed90926c7c3ff102d284c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774509772601950209",
+      "type": "Default",
+      "timestamp": "2020-11-07T05:45:19.484+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ops I don't like this thumbnail but this is Mindfulness Lecture Introduction to Meditation from great courses. Orz..",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774510153965371453",
+      "type": "Default",
+      "timestamp": "2020-11-07T05:46:50.408+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [
+        {
+          "id": "774510151218233394",
+          "url": "https://cdn.discordapp.com/attachments/774490793036611645/774510151218233394/image0.png",
+          "fileName": "image0.png",
+          "fileSizeBytes": 593837
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774533593170051072",
+      "type": "Default",
+      "timestamp": "2020-11-07T07:19:58.75+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@m1guelpf if you’re looking for lots of content, Insight Timer has had the most free Ive seen \uD83D\uDE0C",
+      "author": {
+        "id": "331959973464506369",
+        "name": "benf",
+        "discriminator": "0368",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/331959973464506369/490363f94712d684ce76a35ab5b099cd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "215866112972161036",
+          "name": "m1guelpf",
+          "discriminator": 4217,
+          "nickname": "Miguel Piedrafita (@m1guelpf)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "774535507869958175",
+      "type": "Default",
+      "timestamp": "2020-11-07T07:27:35.25+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Been reading through https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985 while establishing a meditation practice. Got back into it about a month ago and just broke a streak of sitting daily today \uD83D\uDE2D",
+      "author": {
+        "id": "160771481004015616",
+        "name": "jared",
+        "discriminator": "2709",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/160771481004015616/8eef15917930d5237326802d70c41689.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774699628192727071",
+      "type": "Default",
+      "timestamp": "2020-11-07T18:19:44.584+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Namaste \uD83D\uDE4F",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774828318523654194",
+      "type": "Default",
+      "timestamp": "2020-11-08T02:51:06.75+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> Anyone has any good resources to get started with meditation? Have been meaning to try it for ages but I can never find the time\n@m1guelpf  i’ve been using Headspace for the past 4 years, amazing value, would highly recommend",
+      "author": {
+        "id": "768317609409380383",
+        "name": "liang",
+        "discriminator": "5437",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768317609409380383/77706a5959e7cac95995a4f558cc8ee3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD01",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f501.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "215866112972161036",
+          "name": "m1guelpf",
+          "discriminator": 4217,
+          "nickname": "Miguel Piedrafita (@m1guelpf)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "774828718535344160",
+      "type": "Default",
+      "timestamp": "2020-11-08T02:52:42.12+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it’s usually 5-10 mins, typically does it for me, esp when i feel my mind being cluttered",
+      "author": {
+        "id": "768317609409380383",
+        "name": "liang",
+        "discriminator": "5437",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768317609409380383/77706a5959e7cac95995a4f558cc8ee3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774829096949645392",
+      "type": "Default",
+      "timestamp": "2020-11-08T02:54:12.341+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.headspace.com/headspace-meditation-app",
+      "author": {
+        "id": "768317609409380383",
+        "name": "liang",
+        "discriminator": "5437",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768317609409380383/77706a5959e7cac95995a4f558cc8ee3.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Get the Headspace App",
+          "url": "https://www.headspace.com/headspace-meditation-app",
+          "timestamp": null,
+          "description": "This personal guide to meditation and mindfulness fits right in your pocket!",
+          "thumbnail": {
+            "url": "https://images.ctfassets.net/v3n26e09qg2r/11CfrjeTLEc8iYUoC0eM2U/92d6c74060317d5ab12cc6df7db56dc8/logo.svg",
+            "width": 1920,
+            "height": 424
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "777651470014480404",
+      "type": "Default",
+      "timestamp": "2020-11-15T21:49:18.517+00:00",
+      "timestampEdited": "2020-11-15T21:49:39.423+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Has anyone here tried verbally announcing the thoughts that come into your mind while meditating, almost as a symbolic way of flushing them out so that you can carry on focusing on your breath? I've tried it recently and it's made the meditations much more enjoyable and time flew way faster than usual. Thing is I've heard that the deeper the meditation, the slower time should feel, so I wonder if it's actually beneficial",
+      "author": {
+        "id": "356462824320401408",
+        "name": "thesofakillers",
+        "discriminator": "8353",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/356462824320401408/77fd1b52d38f1a3eefd6fabb471cde07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "777654638719664128",
+      "type": "Default",
+      "timestamp": "2020-11-15T22:01:53.995+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i feel like if i tried that i'd say an idea and just follow that train of thought",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "777654731223859240",
+      "type": "Default",
+      "timestamp": "2020-11-15T22:02:16.05+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "like i would say \"i need to go finish this memo i was working on\" and as i say it, it feels more and more important",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "777656704552534027",
+      "type": "Default",
+      "timestamp": "2020-11-15T22:10:06.528+00:00",
+      "timestampEdited": "2020-11-15T22:13:18.671+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I see, well for something like that i would say \"work\" or \"memo\", acknowledge the thought, and then move back to breath. I guess being able to abandon trails of thought comes with practice.  I try to keep the speaking down to a minimum (to dwell less on the thoughts) by using single words.",
+      "author": {
+        "id": "356462824320401408",
+        "name": "thesofakillers",
+        "discriminator": "8353",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/356462824320401408/77fd1b52d38f1a3eefd6fabb471cde07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "777658117139071038",
+      "type": "Default",
+      "timestamp": "2020-11-15T22:15:43.315+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I personally haven't found that I follow trains of thought more than I usually would with this technique, in fact as I've said I've found that it improves the quality of the meditation. Was wondering if other people had tried it or would wanna try it",
+      "author": {
+        "id": "356462824320401408",
+        "name": "thesofakillers",
+        "discriminator": "8353",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/356462824320401408/77fd1b52d38f1a3eefd6fabb471cde07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "777663693273563166",
+      "type": "Default",
+      "timestamp": "2020-11-15T22:37:52.769+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ahhh okay interesting",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "777663751406878750",
+      "type": "Default",
+      "timestamp": "2020-11-15T22:38:06.629+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "will give it a try",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "777663762118606848",
+      "type": "Default",
+      "timestamp": "2020-11-15T22:38:09.183+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "appreciate it",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64f.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778058466748268585",
+      "type": "Default",
+      "timestamp": "2020-11-17T00:46:34.1+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Actually, when I put on LoFi and freestyle, that's pretty similar to what I'm feeling. The problem with freestyle rapping is your thoughts tend to be pushed by the bpm of the music, which is why I look for low-tempo beats like LoFi. Eventually you should be able to freestyle without a beat, and that's where I feel closest to the meditation technique you mentioned!",
+      "author": {
+        "id": "289995452688891904",
+        "name": "somehippie",
+        "discriminator": "2845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/289995452688891904/f30e1de1eb55a82a5cacb7d3e110849f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f440.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778069118334795777",
+      "type": "Default",
+      "timestamp": "2020-11-17T01:28:53.636+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Who has tried 60 day 1h meditation challenge?",
+      "author": {
+        "id": "567793451458887741",
+        "name": "TommyKantor",
+        "discriminator": "2620",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/567793451458887741/0c4e2749a5696a25287b6698be055796.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f440.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778872707688300556",
+      "type": "Default",
+      "timestamp": "2020-11-19T06:42:04.268+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i did 60 minutes yoga daily for 3 weeks before but why is it 60 days?",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779097328371105854",
+      "type": "Default",
+      "timestamp": "2020-11-19T21:34:38.012+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m not sure if Naval came up with it or just popularized it but there is some thread about it on his Twitter. He explains you need to learn to so nothing and that you only get to the right state after like 15-20-30 or even 40 minutes so he suggests just sit and breathe and your mind is going to surface all the mess and then you can think more clearly etc. 60 days probably to get used to it and also it is known meditation brings results after longer effort",
+      "author": {
+        "id": "567793451458887741",
+        "name": "TommyKantor",
+        "discriminator": "2620",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/567793451458887741/0c4e2749a5696a25287b6698be055796.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44c.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779130024699494440",
+      "type": "Default",
+      "timestamp": "2020-11-19T23:44:33.424+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tbh idk if it’s helpful to let your mind spiral for 60 mins. Much of meditation is letting your mind wonder then refocusing attention.",
+      "author": {
+        "id": "676948411966291971",
+        "name": "ifantum",
+        "discriminator": "4181",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/676948411966291971/99d0750280078fbcb7d120392558b2c2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779131183656206366",
+      "type": "Default",
+      "timestamp": "2020-11-19T23:49:09.741+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah it's a workout. You can't just go to the gym for an hour and get swole lol. Same with your mind, it's important to do the reps (filter the bs).",
+      "author": {
+        "id": "371740818828165132",
+        "name": "jakeslaps",
+        "discriminator": "7236",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/371740818828165132/9abdf62cb36db0d8de08b0d64a1dee02.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779179690548002857",
+      "type": "Default",
+      "timestamp": "2020-11-20T03:01:54.685+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Any interesting mental health / mindfulness startups or products?",
+      "author": {
+        "id": "740057814596190278",
+        "name": "SabbaticalDan",
+        "discriminator": "1700",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740057814596190278/842709ac1efcf207f9c62357165ea656.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "779192331916017714",
+      "type": "Default",
+      "timestamp": "2020-11-20T03:52:08.622+00:00",
+      "timestampEdited": "2020-11-20T03:53:00.884+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mindful article behind the mind of a Designer and Motorcyclist. I'm surprised the writer doesn't mention \"flow state\", but that's how I relate. This article was the first place I saw the Future's Cone and Refinement/Exploration visuals:\nhttps://miro.medium.com/max/585/0*CSKmQmi0l73JkH2b\nhttps://miro.medium.com/max/651/0*o9YrG_Jm3mrkjcxg\nhttps://uxdesign.cc/design-and-the-art-of-motorcycle-maintenance-f04ca48de1ad",
+      "author": {
+        "id": "289995452688891904",
+        "name": "somehippie",
+        "discriminator": "2845",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/289995452688891904/f30e1de1eb55a82a5cacb7d3e110849f.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://miro.medium.com/max/585/0*CSKmQmi0l73JkH2b",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/585/0*CSKmQmi0l73JkH2b",
+            "width": 585,
+            "height": 258
+          },
+          "fields": []
+        },
+        {
+          "title": "",
+          "url": "https://miro.medium.com/max/651/0*o9YrG_Jm3mrkjcxg",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/651/0*o9YrG_Jm3mrkjcxg",
+            "width": 651,
+            "height": 437
+          },
+          "fields": []
+        },
+        {
+          "title": "Design and the art of motorcycle maintenance",
+          "url": "https://uxdesign.cc/design-and-the-art-of-motorcycle-maintenance-f04ca48de1ad",
+          "timestamp": null,
+          "description": "There’s a book I once read: Zen and the Art of Motorcycle Maintenance by Robert Pirsig. And it just so happens that I ride a motorcycle…",
+          "thumbnail": {
+            "url": "https://miro.medium.com/freeze/max/1200/1*P21j7ED4l0xPQEyn5FNj-Q.gif",
+            "width": 1200,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD29",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f929.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC40",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f440.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "779207605343223808",
+      "type": "Default",
+      "timestamp": "2020-11-20T04:52:50.091+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ohh super interesting. i just saw justin tweeting about he joined meditation company building. thought might with one of us? \uD83D\uDC40 https://twitter.com/justinkan/status/1329214493352595457?s=20",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/justinkan/status/1329214493352595457?s=20",
+          "timestamp": "2020-11-19T00:06:45.483+00:00",
+          "description": "I'm involved in a new company building in the meditation space. We are looking for a technical founding team member. This is a unique opportunity to build something with a great team that will improve the lives of many.\n\nHit me if you are interested!",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Justin Kan (@justinkan)",
+            "url": "https://twitter.com/justinkan",
+            "iconUrl": "https://pbs.twimg.com/profile_images/992080380428611586/J28JCtzb_bigger.jpg"
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": [
+            {
+              "name": "Likes",
+              "value": "474",
+              "isInline": true
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780400134964903936",
+      "type": "Reply",
+      "timestamp": "2020-11-23T11:51:31.309+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "started using a strava like app for medication today!!",
+      "author": {
+        "id": "400704162721169429",
+        "name": "sharan",
+        "discriminator": "3823",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/400704162721169429/31e19fedcf4ccef22bba0ede712ba084.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "740057814596190278",
+          "name": "SabbaticalDan",
+          "discriminator": 1700,
+          "nickname": "SabbaticalDan",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "779179690548002857",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "780400158897995817",
+      "type": "Default",
+      "timestamp": "2020-11-23T11:51:37.015+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "really like the premise of it so far",
+      "author": {
+        "id": "400704162721169429",
+        "name": "sharan",
+        "discriminator": "3823",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/400704162721169429/31e19fedcf4ccef22bba0ede712ba084.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780400172458311700",
+      "type": "Default",
+      "timestamp": "2020-11-23T11:51:40.248+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey! let's meditate together \uD83D\uDE42 Check out Mindstreaks - the Strava for meditation. Install the testflight app on iOS https://testflight.apple.com/join/TWraTC9I",
+      "author": {
+        "id": "400704162721169429",
+        "name": "sharan",
+        "discriminator": "3823",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/400704162721169429/31e19fedcf4ccef22bba0ede712ba084.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Join the mindstreaks beta",
+          "url": "https://testflight.apple.com/join/TWraTC9I",
+          "timestamp": null,
+          "description": "Available on iOS",
+          "thumbnail": {
+            "url": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/d2/18/b3/d218b37e-05b1-5b27-7860-4a6b3d376fc1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1920x1080bb-80.png",
+            "width": 1024,
+            "height": 1024
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780400219249836093",
+      "type": "Default",
+      "timestamp": "2020-11-23T11:51:51.404+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "^ here’s an invite to the testflight for those interested",
+      "author": {
+        "id": "400704162721169429",
+        "name": "sharan",
+        "discriminator": "3823",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/400704162721169429/31e19fedcf4ccef22bba0ede712ba084.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780574935789207593",
+      "type": "Default",
+      "timestamp": "2020-11-23T23:26:07.073+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks!",
+      "author": {
+        "id": "740057814596190278",
+        "name": "SabbaticalDan",
+        "discriminator": "1700",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740057814596190278/842709ac1efcf207f9c62357165ea656.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780841635734749194",
+      "type": "Default",
+      "timestamp": "2020-11-24T17:05:53.295+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Man I am tired",
+      "author": {
+        "id": "522420213661302794",
+        "name": "drepram",
+        "discriminator": "3477",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/522420213661302794/3ebf1d23c7955340d037421f98f896d0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780841667397681262",
+      "type": "Default",
+      "timestamp": "2020-11-24T17:06:00.844+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So many time is spent on hazing freshmens",
+      "author": {
+        "id": "522420213661302794",
+        "name": "drepram",
+        "discriminator": "3477",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/522420213661302794/3ebf1d23c7955340d037421f98f896d0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "780958960340697108",
+      "type": "Default",
+      "timestamp": "2020-11-25T00:52:05.661+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LMFAO whaat",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "780993882539425863",
+      "type": "Default",
+      "timestamp": "2020-11-25T03:10:51.762+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey y'all - I launched a newsletter called 'On The Mind' where I'm going to break down the latest in the business of mental health, wellbeing, and psychedelics. If you're interested in the space, check out my first post and subscribe if you'd like! https://onthemind.substack.com/p/-introducing-on-the-mind?r=9km9z&utm_campaign=post&utm_medium=web&utm_source=copy",
+      "author": {
+        "id": "740057814596190278",
+        "name": "SabbaticalDan",
+        "discriminator": "1700",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740057814596190278/842709ac1efcf207f9c62357165ea656.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83E\uDDE0 Introducing 'On The Mind'",
+          "url": "https://onthemind.substack.com/p/-introducing-on-the-mind?r=9km9z&utm_campaign=post&utm_medium=web&utm_source=copy",
+          "timestamp": null,
+          "description": "The latest on the business of mental health and wellness",
+          "thumbnail": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faceda58b-9156-4740-bafb-a6fc0b87883e_1221x1242.jpeg",
+            "width": 590,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "781742452968259594",
+      "type": "Default",
+      "timestamp": "2020-11-27T04:45:24.86+00:00",
+      "timestampEdited": "2020-12-15T19:17:52.097+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi everyone! After a few months of thinking, I decided to release my newsletter FeelGood.\u00A0\u00A0https://feelgoodfriday.substack.com\n\nThe concept is simple. Once a week, I send you something to make you stop for a moment, & feel a bit better afterwards. No big topics, no deep dives, just us - taking a break. Tomorrow (Friday) I will send out the first issue. If this is something that you might be into, make sure to sign up, I will be very excited to have you read my musings. \uD83D\uDE42 Thank you!",
+      "author": {
+        "id": "755408264912699402",
+        "name": "jelena",
+        "discriminator": "1896",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/755408264912699402/d3b6f3794ecd434d1f09cfbd233634e4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "FeelGood Friday",
+          "url": "https://feelgoodfriday.substack.com/",
+          "timestamp": null,
+          "description": "A very simple weekly newsletter, dropping some feel-good vibes to lift up your mood.",
+          "thumbnail": {
+            "url": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fce59ea67-70e6-487b-9c7a-cfb72af9a5fc_1280x1280.png",
+            "width": 256,
+            "height": 256
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF49",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f349.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "782024079598682132",
+      "type": "Reply",
+      "timestamp": "2020-11-27T23:24:29.881+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "whats your name in the app",
+      "author": {
+        "id": "159028037281644544",
+        "name": "kosi",
+        "discriminator": "9118",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159028037281644544/48102a6072513cd302fe15f27074d19d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "400704162721169429",
+          "name": "sharan",
+          "discriminator": 3823,
+          "nickname": "sharan",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "780400172458311700",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "782032828644458516",
+      "type": "Default",
+      "timestamp": "2020-11-27T23:59:15.816+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "me and you- lets use the app and see if its good for us, then we can perhaps get some more genz pp on it @sharan",
+      "author": {
+        "id": "159028037281644544",
+        "name": "kosi",
+        "discriminator": "9118",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159028037281644544/48102a6072513cd302fe15f27074d19d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "400704162721169429",
+          "name": "sharan",
+          "discriminator": 3823,
+          "nickname": "sharan",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "782035363043737680",
+      "type": "Reply",
+      "timestamp": "2020-11-28T00:09:20.064+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think it should just be Sharan Jhangiani",
+      "author": {
+        "id": "400704162721169429",
+        "name": "sharan",
+        "discriminator": "3823",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/400704162721169429/31e19fedcf4ccef22bba0ede712ba084.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "159028037281644544",
+          "name": "kosi",
+          "discriminator": 9118,
+          "nickname": "kosi \uD83D\uDCC0",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "782024079598682132",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "782035506980192288",
+      "type": "Reply",
+      "timestamp": "2020-11-28T00:09:54.381+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i’m down!! I usually need guided meditations so i use it in tangent with Balance (medication guidance app)",
+      "author": {
+        "id": "400704162721169429",
+        "name": "sharan",
+        "discriminator": "3823",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/400704162721169429/31e19fedcf4ccef22bba0ede712ba084.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "159028037281644544",
+          "name": "kosi",
+          "discriminator": 9118,
+          "nickname": "kosi \uD83D\uDCC0",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "782032828644458516",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "782035777587642408",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:10:58.899+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cant seem to find you. try 'kosi'",
+      "author": {
+        "id": "159028037281644544",
+        "name": "kosi",
+        "discriminator": "9118",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159028037281644544/48102a6072513cd302fe15f27074d19d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782036059160182804",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:12:06.031+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i found u! its just sharan",
+      "author": {
+        "id": "159028037281644544",
+        "name": "kosi",
+        "discriminator": "9118",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159028037281644544/48102a6072513cd302fe15f27074d19d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782044821435056158",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:46:55.12+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ahh oops i couldn’t figure out how to check username on there",
+      "author": {
+        "id": "400704162721169429",
+        "name": "sharan",
+        "discriminator": "3823",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/400704162721169429/31e19fedcf4ccef22bba0ede712ba084.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782044835145580554",
+      "type": "Default",
+      "timestamp": "2020-11-28T00:46:58.389+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "glad u found me tho haha",
+      "author": {
+        "id": "400704162721169429",
+        "name": "sharan",
+        "discriminator": "3823",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/400704162721169429/31e19fedcf4ccef22bba0ede712ba084.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782045333785542657",
+      "type": "Reply",
+      "timestamp": "2020-11-28T00:48:57.274+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just signed up! \uD83D\uDE4B\uD83C\uDFFB‍♀️",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "755408264912699402",
+          "name": "jelena",
+          "discriminator": 1896,
+          "nickname": "jelena",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "781742452968259594",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "783501877928787969",
+      "type": "Default",
+      "timestamp": "2020-12-02T01:16:44.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey everyone \uD83D\uDC4B\uD83C\uDFFC after ~1 year of work, wellnest is finally on the app store \uD83C\uDF89 it's a journaling game that helps you talk about your mental health and discuss topics like imposter syndrome, self-confidence, and more. use your voice and it transcribes everything for you, and you can use the coins you earn from journaling to get cool avatars. I would love any feedback or thoughts or just dm me if you wanna hang. i'm usually around. anyways here it is: https://apps.apple.com/us/app/wellnest-self-care-journal/id1492773698 thanks so much \uD83D\uDE0A",
+      "author": {
+        "id": "735600203121426512",
+        "name": "tommysearle",
+        "discriminator": "0884",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735600203121426512/381bb32cedd252b78a1527b4fe0ac58b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "‎Wellnest: Self-Care Journal",
+          "url": "https://apps.apple.com/us/app/wellnest-self-care-journal/id1492773698",
+          "timestamp": null,
+          "description": "‎Self-care that’s fun!\n\nDiscover a journaling experience that’s joyful, rewarding, and private. In Wellnest, you can explore diverse and engaging guided questions, mood check-ins, and voice journaling. Earn Wellnest Gold for journaling and personalize your journal in the shop.\n\nFEATURES:\n\nDaily & Eve…",
+          "thumbnail": {
+            "url": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/38/10/09/381009dd-6a89-303e-1b43-b11b46e998ad/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 7
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783520415351701515",
+      "type": "Reply",
+      "timestamp": "2020-12-02T02:30:24.125+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just signed up! I'll check it out and DM you some feedback \uD83D\uDCAF",
+      "author": {
+        "id": "558501528047058945",
+        "name": "fumi",
+        "discriminator": "5475",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558501528047058945/5f24575df1421b1e494f28cbe548a410.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF89",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f389.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "735600203121426512",
+          "name": "tommysearle",
+          "discriminator": 884,
+          "nickname": "tommysearle",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "783501877928787969",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "783528177397530625",
+      "type": "Reply",
+      "timestamp": "2020-12-02T03:01:14.741+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thank you so much!!",
+      "author": {
+        "id": "735600203121426512",
+        "name": "tommysearle",
+        "discriminator": "0884",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735600203121426512/381bb32cedd252b78a1527b4fe0ac58b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF49",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f349.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "558501528047058945",
+          "name": "fumi",
+          "discriminator": 5475,
+          "nickname": "fumi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "783520415351701515",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "783530339108519937",
+      "type": "Default",
+      "timestamp": "2020-12-02T03:09:50.133+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nice this looks great",
+      "author": {
+        "id": "188786211844784128",
+        "name": "mopsy",
+        "discriminator": "2790",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/188786211844784128/e2215da93409534d23d200fd74b2ac2f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE07",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f607.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "783532858437271562",
+      "type": "Default",
+      "timestamp": "2020-12-02T03:19:50.788+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "loving the little prompts \uD83D\uDE42",
+      "author": {
+        "id": "558501528047058945",
+        "name": "fumi",
+        "discriminator": "5475",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/558501528047058945/5f24575df1421b1e494f28cbe548a410.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "783537196920471552",
+      "type": "Reply",
+      "timestamp": "2020-12-02T03:37:05.163+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "try the mood check it's my fav",
+      "author": {
+        "id": "735600203121426512",
+        "name": "tommysearle",
+        "discriminator": "0884",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735600203121426512/381bb32cedd252b78a1527b4fe0ac58b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "558501528047058945",
+          "name": "fumi",
+          "discriminator": 5475,
+          "nickname": "fumi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "783532858437271562",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "783541045958410260",
+      "type": "Reply",
+      "timestamp": "2020-12-02T03:52:22.845+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "About to check it out! Looks really cool at first glance",
+      "author": {
+        "id": "552571221019983874",
+        "name": "luke_kasunic",
+        "discriminator": "4238",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/552571221019983874/56dbf39d379f2a4e3fe049565c48990f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE0A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f60a.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "735600203121426512",
+          "name": "tommysearle",
+          "discriminator": 884,
+          "nickname": "tommysearle",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "783501877928787969",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "783777553965383730",
+      "type": "Reply",
+      "timestamp": "2020-12-02T19:32:10.748+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "love it!! thanks so much luke",
+      "author": {
+        "id": "735600203121426512",
+        "name": "tommysearle",
+        "discriminator": "0884",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735600203121426512/381bb32cedd252b78a1527b4fe0ac58b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "552571221019983874",
+          "name": "luke_kasunic",
+          "discriminator": 4238,
+          "nickname": "Luke",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "783541045958410260",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "784482094599503894",
+      "type": "Default",
+      "timestamp": "2020-12-04T18:11:46.325+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://mehdighariani.medium.com/why-you-need-to-stop-listening-to-your-parents-education-career-advice-b8176482d930 this is a really good short piece about the path we are on. if you are like me and struggling to get out of your parents' influence (they keep pushing you back onto the \"rat race\" path) then i encourage a quick read",
+      "author": {
+        "id": "428585060304814080",
+        "name": "wilson",
+        "discriminator": "2038",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/428585060304814080/6e66fa5b235b82a9ece19bd379b37253.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Why you need to stop listening to your parents’ advice",
+          "url": "https://mehdighariani.medium.com/why-you-need-to-stop-listening-to-your-parents-education-career-advice-b8176482d930",
+          "timestamp": null,
+          "description": "If you are reading this, chances are, you’ve been more or less influenced by your elders when it comes to your educational and professional…",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/400/1*h9indZEZkiDZrCk8QrcrWg.jpeg",
+            "width": 400,
+            "height": 400
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE06",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f606.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "772521912558419968",
+            "name": "genz",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/772521912558419968.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784573621607596102",
+      "type": "Reply",
+      "timestamp": "2020-12-05T00:15:28.064+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "man. this is really good. just upgraded my journaling to another lvl",
+      "author": {
+        "id": "159028037281644544",
+        "name": "kosi",
+        "discriminator": "9118",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159028037281644544/48102a6072513cd302fe15f27074d19d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "735600203121426512",
+          "name": "tommysearle",
+          "discriminator": 884,
+          "nickname": "tommysearle",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "783501877928787969",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "784573844220411965",
+      "type": "Default",
+      "timestamp": "2020-12-05T00:16:21.139+00:00",
+      "timestampEdited": "2020-12-05T00:16:34.605+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I just spent 30 minutes inside the app. Had a good 1AM talk about life with it \uD83D\uDE33. Hope it stays private.",
+      "author": {
+        "id": "159028037281644544",
+        "name": "kosi",
+        "discriminator": "9118",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159028037281644544/48102a6072513cd302fe15f27074d19d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785328936678719518",
+      "type": "Reply",
+      "timestamp": "2020-12-07T02:16:49.21+00:00",
+      "timestampEdited": "2020-12-07T02:16:53.952+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD7A this is the feedback i live for",
+      "author": {
+        "id": "735600203121426512",
+        "name": "tommysearle",
+        "discriminator": "0884",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735600203121426512/381bb32cedd252b78a1527b4fe0ac58b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "159028037281644544",
+          "name": "kosi",
+          "discriminator": 9118,
+          "nickname": "kosi \uD83D\uDCC0",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "784573621607596102",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "785329041585602560",
+      "type": "Reply",
+      "timestamp": "2020-12-07T02:17:14.222+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "all entries are stored on your phone and synced w/ your icloud \uD83D\uDE42",
+      "author": {
+        "id": "735600203121426512",
+        "name": "tommysearle",
+        "discriminator": "0884",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735600203121426512/381bb32cedd252b78a1527b4fe0ac58b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE46\uD83C\uDFFC‍♂️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f646-1f3fc-200d-2642.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "159028037281644544",
+          "name": "kosi",
+          "discriminator": 9118,
+          "nickname": "kosi \uD83D\uDCC0",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "784573844220411965",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "785361579800657940",
+      "type": "Default",
+      "timestamp": "2020-12-07T04:26:31.937+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anyone on here doing @meditationstuff (Twitter)’s protocol?",
+      "author": {
+        "id": "696895228522659894",
+        "name": "Dreams",
+        "discriminator": "0398",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/696895228522659894/c036b6cb152de19e69c3fcd2fff9c7d3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785516079496560651",
+      "type": "Default",
+      "timestamp": "2020-12-07T14:40:27.535+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Love for InsightTimer?",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDDE0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f9e0.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC93",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f493.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785596583143276616",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:00:21.1+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.usv.com/writing/2020/09/mental-healthcare-3-0/",
+      "author": {
+        "id": "137231983876112384",
+        "name": "Kai L",
+        "discriminator": "3672",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137231983876112384/4a494849dc82d400379b7b8ef7c56d99.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Mental Healthcare 3.0 | Union Square Ventures",
+          "url": "https://www.usv.com/writing/2020/09/mental-healthcare-3-0/",
+          "timestamp": null,
+          "description": "Part 1: The 2.0-> 3.0 Transition If mental health technology was like language-learning solutions, we have been in the language CD and tapes phase for",
+          "color": "#FFFFFF",
+          "author": {
+            "name": "Hanel Baveja",
+            "url": "https://www.usv.com/people/hanel-baveja/"
+          },
+          "thumbnail": {
+            "url": "https://www.usv.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-01-at-5.35.00-PM-1024x552.png",
+            "width": 1024,
+            "height": 552
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785596627775258644",
+      "type": "Default",
+      "timestamp": "2020-12-07T20:00:31.741+00:00",
+      "timestampEdited": "2020-12-07T20:00:47.858+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "do you know about any mental health 3.0 companies?",
+      "author": {
+        "id": "137231983876112384",
+        "name": "Kai L",
+        "discriminator": "3672",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/137231983876112384/4a494849dc82d400379b7b8ef7c56d99.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785635837999579177",
+      "type": "Default",
+      "timestamp": "2020-12-07T22:36:20.187+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Kai L Woebot is one I’ve heard of, but I haven’t used it\n\nhttps://woebothealth.com\n\nI’ve used apps like Replika and it’s nice, but the lack of human connection makes it less effective for me personally. However it is a good step for making mental health care more accessible",
+      "author": {
+        "id": "652462482421448704",
+        "name": "liora",
+        "discriminator": "5023",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/652462482421448704/fe01504947b8055ceed08d57013c110d.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Mental Health Chatbot | Woebot",
+          "url": "https://woebothealth.com/",
+          "timestamp": null,
+          "description": "Meet Woebot, our AI-powered CBT chatbot that delivers a suite of clinically-validated therapy programs to address mental health challenges.",
+          "author": {
+            "name": "frankwoebot",
+            "url": "https://woebothealth.com/author/frankwoebot/"
+          },
+          "thumbnail": {
+            "url": "https://i0.wp.com/woebothealth.com/wp-content/uploads/2020/09/woebot_featured_092220.jpg?fit=1200%2C630&ssl=1",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "137231983876112384",
+          "name": "Kai L",
+          "discriminator": 3672,
+          "nickname": "Kai",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "785681754676789269",
+      "type": "Default",
+      "timestamp": "2020-12-08T01:38:47.576+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey everyone - I just published the latest post for my newsletter On The Mind, which covers the business of mental health and wellness. Check it out here and subscribe if you'd like: https://onthemind.substack.com/p/-the-quantified-mind?r=9km9z&utm_campaign=post&utm_medium=web&utm_source=copy",
+      "author": {
+        "id": "740057814596190278",
+        "name": "SabbaticalDan",
+        "discriminator": "1700",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740057814596190278/842709ac1efcf207f9c62357165ea656.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83E\uDDE0 The Quantified Mind",
+          "url": "https://onthemind.substack.com/p/-the-quantified-mind?r=9km9z&utm_campaign=post&utm_medium=web&utm_source=copy",
+          "timestamp": null,
+          "description": "The latest on the business of mental health and wellness",
+          "thumbnail": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0596121a-15e3-4e07-bbd1-8be3fe07e13c_2400x1260.png",
+            "width": 1143,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786696268650250290",
+      "type": "Default",
+      "timestamp": "2020-12-10T20:50:06.556+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png"
+      },
+      "attachments": [
+        {
+          "id": "786696268394921994",
+          "url": "https://cdn.discordapp.com/attachments/774490793036611645/786696268394921994/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 68488
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786696408802918431",
+      "type": "Reply",
+      "timestamp": "2020-12-10T20:50:39.971+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is really cool. Where did you discover this?",
+      "author": {
+        "id": "710222933901049977",
+        "name": "lytton7",
+        "discriminator": "0435",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/710222933901049977/28f599e2c75736fd2968e3c8065d1bc5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "740057814596190278",
+          "name": "SabbaticalDan",
+          "discriminator": 1700,
+          "nickname": "SabbaticalDan",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "785681754676789269",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "786724769046593577",
+      "type": "Reply",
+      "timestamp": "2020-12-10T22:43:21.58+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The company? I met Razi from mettleAI through a mental health startups slack group",
+      "author": {
+        "id": "740057814596190278",
+        "name": "SabbaticalDan",
+        "discriminator": "1700",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740057814596190278/842709ac1efcf207f9c62357165ea656.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "710222933901049977",
+          "name": "lytton7",
+          "discriminator": 435,
+          "nickname": "lytton7",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "786696408802918431",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "787215738619822090",
+      "type": "Reply",
+      "timestamp": "2020-12-12T07:14:17.848+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey- thanks for sharing! I’m really interested in the mental health space + digital health so this was great to read, I subbed \uD83D\uDE42",
+      "author": {
+        "id": "622627442435031050",
+        "name": "mel",
+        "discriminator": "2737",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622627442435031050/57a7a91fcaa6f6fb84908c808c782018.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "740057814596190278",
+          "name": "SabbaticalDan",
+          "discriminator": 1700,
+          "nickname": "SabbaticalDan",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "785681754676789269",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "787402264188157974",
+      "type": "Reply",
+      "timestamp": "2020-12-12T19:35:29.009+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks Mel!",
+      "author": {
+        "id": "740057814596190278",
+        "name": "SabbaticalDan",
+        "discriminator": "1700",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740057814596190278/842709ac1efcf207f9c62357165ea656.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "622627442435031050",
+          "name": "mel",
+          "discriminator": 2737,
+          "nickname": "mel",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "787215738619822090",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788437543514538014",
+      "type": "Default",
+      "timestamp": "2020-12-15T16:09:18.835+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@SabbaticalDan hey, I'm currently working with a friend on mental health app / startup, would it be possible to invite me into the Slack?",
+      "author": {
+        "id": "699355146462691418",
+        "name": "bolek",
+        "discriminator": "8194",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699355146462691418/54b04721d1c76724fc9c286f5ad0da36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "740057814596190278",
+          "name": "SabbaticalDan",
+          "discriminator": 1700,
+          "nickname": "SabbaticalDan",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "788473103063842868",
+      "type": "Reply",
+      "timestamp": "2020-12-15T18:30:36.892+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dm me your email",
+      "author": {
+        "id": "740057814596190278",
+        "name": "SabbaticalDan",
+        "discriminator": "1700",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740057814596190278/842709ac1efcf207f9c62357165ea656.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "699355146462691418",
+          "name": "bolek",
+          "discriminator": 8194,
+          "nickname": "bolek",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788437543514538014",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789243745559248946",
+      "type": "Reply",
+      "timestamp": "2020-12-17T21:32:52.381+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'd also be interested",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "740057814596190278",
+          "name": "SabbaticalDan",
+          "discriminator": 1700,
+          "nickname": "SabbaticalDan",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "786724769046593577",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789243962237648916",
+      "type": "Reply",
+      "timestamp": "2020-12-17T21:33:44.041+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mettleAI looks interesting, but also doesn't seem much different from the competing apps",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "740057814596190278",
+          "name": "SabbaticalDan",
+          "discriminator": 1700,
+          "nickname": "SabbaticalDan",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "785681754676789269",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789244149882552327",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:34:28.779+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I doubt that they AI aspect would lead anywhere, since it's difficult enough for doctors to make proper recommendations",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789244515859824661",
+      "type": "Reply",
+      "timestamp": "2020-12-17T21:35:56.035+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah, also the copy they use in this picture is kinda non-actionable",
+      "author": {
+        "id": "431395469772455938",
+        "name": "olzhas",
+        "discriminator": "9141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/431395469772455938/6af2eefc7bfd835a0db8c803750d2da8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "541227740729180162",
+          "name": "stancl",
+          "discriminator": 4783,
+          "nickname": "@samuelstancl",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789243962237648916",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789244640276643881",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:36:25.698+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "they mention that self-reported data is an issue, and in the next paragraph the first sentence says that they ask the user questions",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789244707679109151",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:36:41.768+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I bought Bearable 2 days ago and it's really good",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789244747247910913",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:36:51.202+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I really can't see how AI could be useful here at all",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789244774447579196",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:36:57.687+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "predicting mental health deterioration, in my opinion, isn't a problem\n\npeople only start caring about mental health when it, well, deteriorates",
+      "author": {
+        "id": "431395469772455938",
+        "name": "olzhas",
+        "discriminator": "9141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/431395469772455938/6af2eefc7bfd835a0db8c803750d2da8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789244867930619985",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:37:19.975+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "mental health deterioration also sounds strangely niche",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245019163852830",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:37:56.032+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I guess if you wanted to *predict* it, you'd look at ancestors, do a DNA test, a blood test, and review lifestyle",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245094816514049",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:38:14.069+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I like Bearable because it's in a useful market",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245107449757696",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:38:17.081+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah",
+      "author": {
+        "id": "431395469772455938",
+        "name": "olzhas",
+        "discriminator": "9141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/431395469772455938/6af2eefc7bfd835a0db8c803750d2da8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245141256241184",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:38:25.141+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "shows you what supplements/medications correlate with mood",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245185925447682",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:38:35.791+00:00",
+      "timestampEdited": "2020-12-17T21:38:51.611+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how much sleep/diet/exercise/social activity affects your performance, mood, and everything else",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245266460934207",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:38:54.992+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think it should be approached in either DNA test way or the more classical therapy",
+      "author": {
+        "id": "431395469772455938",
+        "name": "olzhas",
+        "discriminator": "9141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/431395469772455938/6af2eefc7bfd835a0db8c803750d2da8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245321057796136",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:39:08.009+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DNA tests are really interesting but also overrated",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245378498134027",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:39:21.704+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just tracking something isn't much of a value-add",
+      "author": {
+        "id": "431395469772455938",
+        "name": "olzhas",
+        "discriminator": "9141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/431395469772455938/6af2eefc7bfd835a0db8c803750d2da8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245401013551106",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:39:27.072+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "needs action",
+      "author": {
+        "id": "431395469772455938",
+        "name": "olzhas",
+        "discriminator": "9141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/431395469772455938/6af2eefc7bfd835a0db8c803750d2da8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245407469240340",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:39:28.611+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I got my DNA data like a week ago, I used all the paid services and there's not much actionable data",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245574188498976",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:40:08.36+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the issue with DNA testing is that a certain trait is affected by e.g. 50 genes, we know 10 of those, and the presence of genes in your DNA doesn't have to say anything conclusive",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245796730011708",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:41:01.418+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "maybe mental health needs a hardware startup, like Levels for overall fitness or 8 Sleep for sleep",
+      "author": {
+        "id": "431395469772455938",
+        "name": "olzhas",
+        "discriminator": "9141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/431395469772455938/6af2eefc7bfd835a0db8c803750d2da8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245813070757938",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:41:05.314+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "genes can \"turn on\" (express) and off, so your SNPs aren't that useful",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245828182048829",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:41:08.917+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "idk tho haven't tried",
+      "author": {
+        "id": "431395469772455938",
+        "name": "olzhas",
+        "discriminator": "9141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/431395469772455938/6af2eefc7bfd835a0db8c803750d2da8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245849955205178",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:41:14.108+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'd like to get Levels eventually",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789245939101466636",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:41:35.362+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hardware measurements are good, and all data is useful when you use it in an actionable way",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789246048194265119",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:42:01.372+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm strangely oversensitive to insulin sometimes",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789246061167771648",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:42:04.465+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so Levels could be useful",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789246103043440650",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:42:14.449+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah, the idea of sensors seems way more reliable than ai calculating something incalculable",
+      "author": {
+        "id": "431395469772455938",
+        "name": "olzhas",
+        "discriminator": "9141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/431395469772455938/6af2eefc7bfd835a0db8c803750d2da8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789246223718154240",
+      "type": "Reply",
+      "timestamp": "2020-12-17T21:42:43.22+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "much more prone to carb coma. and funnily it gets even worse when I take something that suppresses appetite",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "789246048194265119",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789246312323088394",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:43:04.345+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "then a bit of food gives me very intense brain fog",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789246441024520192",
+      "type": "Reply",
+      "timestamp": "2020-12-17T21:43:35.03+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "AI can be good, but it's important to realize that you can't just throw ML at a problem",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "431395469772455938",
+          "name": "olzhas",
+          "discriminator": 9141,
+          "nickname": "olzhas (@ooolzhas on \uD83D\uDC26)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789246103043440650",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789246546914705449",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:44:00.276+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "finding correlations doesn't require AI, and it's the 90/10 solution",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789246808282234890",
+      "type": "Reply",
+      "timestamp": "2020-12-17T21:45:02.591+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah that's what i mean",
+      "author": {
+        "id": "431395469772455938",
+        "name": "olzhas",
+        "discriminator": "9141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/431395469772455938/6af2eefc7bfd835a0db8c803750d2da8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "541227740729180162",
+          "name": "stancl",
+          "discriminator": 4783,
+          "nickname": "@samuelstancl",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789246441024520192",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789246875550220308",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:45:18.629+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think Oura uses some ML",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789246926377451550",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:45:30.747+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "their algo adjusts to your data",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789246977677590558",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:45:42.978+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "right now it measures my REM incredibly inaccurately",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789247016274362369",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:45:52.18+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but it should eventually become more accurate",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789247081238888478",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:46:07.669+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ML is good only if the inputs are high-quality\n\npure-software AI has very limited potential when it comes to health",
+      "author": {
+        "id": "431395469772455938",
+        "name": "olzhas",
+        "discriminator": "9141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/431395469772455938/6af2eefc7bfd835a0db8c803750d2da8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789247237523898419",
+      "type": "Reply",
+      "timestamp": "2020-12-17T21:46:44.93+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "haven't tried but want to get one someday",
+      "author": {
+        "id": "431395469772455938",
+        "name": "olzhas",
+        "discriminator": "9141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/431395469772455938/6af2eefc7bfd835a0db8c803750d2da8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "541227740729180162",
+          "name": "stancl",
+          "discriminator": 4783,
+          "nickname": "@samuelstancl",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789246875550220308",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789247376652107776",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:47:18.101+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's pretty nice",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789247416661966869",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:47:27.64+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "especially if you're overall a consoomer",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789247473372626995",
+      "type": "Default",
+      "timestamp": "2020-12-17T21:47:41.161+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I open Bearable and I see my data from Apple Health which imports Oura data",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789297106837831711",
+      "type": "Reply",
+      "timestamp": "2020-12-18T01:04:54.701+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DM me your email and I’ll add you",
+      "author": {
+        "id": "740057814596190278",
+        "name": "SabbaticalDan",
+        "discriminator": "1700",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740057814596190278/842709ac1efcf207f9c62357165ea656.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "541227740729180162",
+          "name": "stancl",
+          "discriminator": 4783,
+          "nickname": "@samuelstancl",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789243745559248946",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789300343599136798",
+      "type": "Reply",
+      "timestamp": "2020-12-18T01:17:46.405+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Don’t disagree with that. I think the mettleAI approach is interesting bc of where they’re focusing (direct with clinicians, used in practice, rather than primarily focusing as a consumer app giving you insights - though they do that too). Enjoyed reading the back and forth with @olzhas though! On the hardware front there are some companies (probably muse is the best known)...but nothing yet that people wear all the time, that I’ve seen. When we have more (and better) data, from a variety of sources, we can treat mental health preventatively, not just when it deteriorates. And that also comes with a shifting culture where people care about their mental health and see value in “optimizing” it, especially those who traditionally haven’t given it a second thought (primarily men who might still think of caring for your mental health as a weakness, or something only other people have to do, but not them, because they’re mentally fine and it’s not necessary).",
+      "author": {
+        "id": "740057814596190278",
+        "name": "SabbaticalDan",
+        "discriminator": "1700",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740057814596190278/842709ac1efcf207f9c62357165ea656.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "541227740729180162",
+          "name": "stancl",
+          "discriminator": 4783,
+          "nickname": "@samuelstancl",
+          "isBot": false
+        },
+        {
+          "id": "431395469772455938",
+          "name": "olzhas",
+          "discriminator": 9141,
+          "nickname": "olzhas (@ooolzhas on \uD83D\uDC26)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789243962237648916",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789304271027175445",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:33:22.777+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> primarily men who might still think of caring for your mental health as a weakness\nthose who've yet to experience the high of having everything right in your body",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789304275443515392",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:33:23.83+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I agree",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789304314283163648",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:33:33.09+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You have two main groups of people resisting these things",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789304370306220042",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:33:46.447+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The anti-health conscious people, those who view it as a weakness",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789304431040659497",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:34:00.927+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And then people who are against anything that seems extreme by their subjective judgement",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789304529128652821",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:34:24.313+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i.e. walmart random multivitamin good, genuinely tracking your body bad",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789304736138526760",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:35:13.668+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> direct with clinicians",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789304743319044114",
+      "type": "Default",
+      "timestamp": "2020-12-18T01:35:15.38+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://bearable.app/professional/ FWIW",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Professional | Bearable",
+          "url": "https://bearable.app/professional/",
+          "timestamp": null,
+          "description": "The most user-friendly and engaging ePRO Tailored to your research needs. Backed by scientific review. Make an Enquiry We can shape our mobile health",
+          "author": {
+            "name": "James",
+            "url": "https://bearable.app/author/user/"
+          },
+          "thumbnail": {
+            "url": "https://bearable.app/wp-content/uploads/2020/05/Group-2331-511x1024.png",
+            "width": 511,
+            "height": 1024
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789875103843876905",
+      "type": "Default",
+      "timestamp": "2020-12-19T15:21:39.926+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have an Oura, its not that great",
+      "author": {
+        "id": "480827799746379776",
+        "name": "disguisedope",
+        "discriminator": "6656",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/480827799746379776/61ed7b9442b0552af5b2704f98457d08.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789941943231709205",
+      "type": "Default",
+      "timestamp": "2020-12-19T19:47:15.678+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just got these recently! https://www.werenotreallystrangers.com/collections/shop-all/products/self-reflection-edition-pack",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Self-Reflection Edition Pack",
+          "url": "https://www.werenotreallystrangers.com/collections/shop-all/products/self-reflection-edition-pack",
+          "timestamp": null,
+          "description": "We’re Not Really Strangers encourages you to make meaningful connections with others.\u00A0The Self-Reflection Edition is a tool to make that connection with yourself.\u00A0By learning more about ourselves, we can show up better for others. 1\u00A0player 52 cards and wildcards Warning: Feelings may arise",
+          "color": "#C10016",
+          "thumbnail": {
+            "url": "https://cdn.shopify.com/s/files/1/1448/3500/products/CopyofWNRS_22870A_grande.jpg?v=1605288500",
+            "width": 480,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789941961649291275",
+      "type": "Default",
+      "timestamp": "2020-12-19T19:47:20.069+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "interesting to reflect",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789947431751516220",
+      "type": "Default",
+      "timestamp": "2020-12-19T20:09:04.243+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "looks very interesting",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789948090098384897",
+      "type": "Default",
+      "timestamp": "2020-12-19T20:11:41.205+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [
+        {
+          "id": "789948086113271818",
+          "url": "https://cdn.discordapp.com/attachments/774490793036611645/789948086113271818/Screen_Shot_2020-12-19_at_21.11.34.png",
+          "fileName": "Screen_Shot_2020-12-19_at_21.11.34.png",
+          "fileSizeBytes": 64817
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789948108246745120",
+      "type": "Default",
+      "timestamp": "2020-12-19T20:11:45.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I will reflect on the shipping cost",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789953566408310804",
+      "type": "Reply",
+      "timestamp": "2020-12-19T20:33:26.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "um excuse me WHERE DO YOU LIVE",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "541227740729180162",
+          "name": "stancl",
+          "discriminator": 4783,
+          "nickname": "@samuelstancl",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789948090098384897",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789960499612876840",
+      "type": "Reply",
+      "timestamp": "2020-12-19T21:00:59.864+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Central europe",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "168396939862343680",
+          "name": "yashgodiwala",
+          "discriminator": 6508,
+          "nickname": "¿yash",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789953566408310804",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789960600905711666",
+      "type": "Default",
+      "timestamp": "2020-12-19T21:01:24.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ups international costs a lot of dough",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789960699597553685",
+      "type": "Default",
+      "timestamp": "2020-12-19T21:01:47.544+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ahhh somewhat understandable @stancl",
+      "author": {
+        "id": "168396939862343680",
+        "name": "yashgodiwala",
+        "discriminator": "6508",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/168396939862343680/dacb00b047f520c20e565d53687029fd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "541227740729180162",
+          "name": "stancl",
+          "discriminator": 4783,
+          "nickname": "@samuelstancl",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "789960739947413534",
+      "type": "Default",
+      "timestamp": "2020-12-19T21:01:57.164+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Indeed",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789960806820216872",
+      "type": "Default",
+      "timestamp": "2020-12-19T21:02:13.108+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tho the older I get the more I understand it.......",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789960823169613864",
+      "type": "Default",
+      "timestamp": "2020-12-19T21:02:17.006+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Think about it..",
+      "author": {
+        "id": "541227740729180162",
+        "name": "stancl",
+        "discriminator": "4783",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/541227740729180162/c6e6872efe81f8bf944794d1f82bb29c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791039160185389096",
+      "type": "Default",
+      "timestamp": "2020-12-22T20:27:12.585+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wrote about Osmind, an EHR software company serving clinicians using ketamine to work with the treatment-resistant population in this week’s issue of my newsletter On The Mind.\n\nCheck it out below and subscribe if you’d like. Appreciate any thoughts or feedback.\n\nOsmind is also hiring for Account Executive and Senior Software Engineer positions. If you’re interested or know a good fit and want to connect with Lucia, let me know.\n\nhttps://onthemind.substack.com/p/-treatment-resistant-care?utm_campaign=post&utm_medium=web&utm_source=copy",
+      "author": {
+        "id": "740057814596190278",
+        "name": "SabbaticalDan",
+        "discriminator": "1700",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740057814596190278/842709ac1efcf207f9c62357165ea656.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83E\uDDE0 Treatment-Resistant Mental Healthcare",
+          "url": "https://onthemind.substack.com/p/-treatment-resistant-care?utm_campaign=post&utm_medium=web&utm_source=copy",
+          "timestamp": null,
+          "description": "The latest on the business of mental health and wellness",
+          "thumbnail": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8e308c96-7221-45e6-9593-98ff2e812939_852x541.jpeg",
+            "width": 852,
+            "height": 541
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791324052769472563",
+      "type": "Default",
+      "timestamp": "2020-12-23T15:19:16.27+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We are wrapping up 2020 \uD83C\uDF89. And let’s not stress ourselves out in 2021! Time to take a break \uD83C\uDFD6️and be lazyyyyyyyyyyy https://jack-chong.medium.com/2021-is-the-time-to-be-lazy-and-productive-from-a-college-student-entrepreneur-18ede8a0ff8b?sk=7e3594ee7e4be203d42c46e145db8658",
+      "author": {
+        "id": "574176384872742923",
+        "name": "kcaj_gnohc",
+        "discriminator": "6141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574176384872742923/78954f5cb1d9c8adfbcfccb4dfac061c.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to be lazy AND productive in 2021",
+          "url": "https://jack-chong.medium.com/2021-is-the-time-to-be-lazy-and-productive-from-a-college-student-entrepreneur-18ede8a0ff8b?sk=7e3594ee7e4be203d42c46e145db8658",
+          "timestamp": null,
+          "description": "From a college student-entrepreneur, the most important tip is #2: Do nothing at all",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/628/1*BKx4IzEBIjeWAfENIQfEpg.jpeg",
+            "width": 628,
+            "height": 314
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794773960675033098",
+      "type": "Default",
+      "timestamp": "2021-01-02T03:47:58.411+00:00",
+      "timestampEdited": "2021-01-02T03:51:03.665+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Namaste! I’ve been yoging n meditating like a hipster for 2+ hours almost daily this holiday and it's really helping me to organize my thoughts during this 2nd wave of COVID outbreak.\n\nFor those  also want to meditate like a hipster, here are my gears and resources I use. :)\n\n\uD83E\uDDD8\uD83C\uDFFB‍♀️ Comfortable Clothing\n\uD83C\uDFB4 Yoga Matt\n\uD83D\uDFE3 Meditation Cushion (Sedona)\n\uD83D\uDD6F️ Aroma Candle\n\uD83E\uDDC9 Water or Tea\n\uD83C\uDFA7 Headphone or Earbuds\n\uD83C\uDFB5 Spotify for BGM (Carnatic music, Singing bowl, or Mozart sometimes)\n\uD83D\uDCFA YouTube for Yoga Instructions\n\nHope this helps you stay strong at home. I was also thinking of live streaming yoga n meditation on voice channel if there are a lot of folks interested to join so lmk with emoji reaction if you are interested!!",
+      "author": {
+        "id": "713464564997685329",
+        "name": "mei",
+        "discriminator": "8977",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713464564997685329/e92fd9fb2459324b0347b972a66b2dd0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "794835111349583872",
+      "type": "Default",
+      "timestamp": "2021-01-02T07:50:57.868+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gevsvsv",
+      "author": {
+        "id": "647986170050904074",
+        "name": "erin",
+        "discriminator": "1111",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/647986170050904074/863b8613c8df4dfd465ffa72802efb18.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795071732884832267",
+      "type": "Default",
+      "timestamp": "2021-01-02T23:31:12.838+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "as a Headspace user, was wondering if there's any good apps i'm not using and should to have a zen 2021",
+      "author": {
+        "id": "753302498554544330",
+        "name": "MacBrennan",
+        "discriminator": "5865",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/753302498554544330/284754182f12754496246637305257af.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795168029814030336",
+      "type": "Default",
+      "timestamp": "2021-01-03T05:53:51.815+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How is headspace? I tried it a little and didn't get much more than chilling on my own.",
+      "author": {
+        "id": "739429338100924516",
+        "name": "haden",
+        "discriminator": "7264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739429338100924516/d070e3f343bad45ea5ffd9b55f65746c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795313315110715392",
+      "type": "Default",
+      "timestamp": "2021-01-03T15:31:10.529+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A good app which I use for meditation is Medito. It's free and is actually good. You can try it out.",
+      "author": {
+        "id": "787194536358445112",
+        "name": "Prajwxl",
+        "discriminator": "0951",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/787194536358445112/606d22ac710a0e20bca20d8b62712340.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795442692174774292",
+      "type": "Reply",
+      "timestamp": "2021-01-04T00:05:16.425+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’ve enjoyed it a lot",
+      "author": {
+        "id": "753302498554544330",
+        "name": "MacBrennan",
+        "discriminator": "5865",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/753302498554544330/284754182f12754496246637305257af.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "739429338100924516",
+          "name": "haden",
+          "discriminator": 7264,
+          "nickname": "Haden",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "795168029814030336",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "795442778238615554",
+      "type": "Default",
+      "timestamp": "2021-01-04T00:05:36.944+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Checking out now \uD83D\uDC40",
+      "author": {
+        "id": "753302498554544330",
+        "name": "MacBrennan",
+        "discriminator": "5865",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/753302498554544330/284754182f12754496246637305257af.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795520628211318864",
+      "type": "Reply",
+      "timestamp": "2021-01-04T05:14:57.824+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "been using headspace for 5 years - how did you like the Move + Focus features?",
+      "author": {
+        "id": "768317609409380383",
+        "name": "liang",
+        "discriminator": "5437",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768317609409380383/77706a5959e7cac95995a4f558cc8ee3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "753302498554544330",
+          "name": "MacBrennan",
+          "discriminator": 5865,
+          "nickname": "@MacBrennan",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "795442692174774292",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "795520699266629663",
+      "type": "Default",
+      "timestamp": "2021-01-04T05:15:14.765+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i dont think i've ever used those",
+      "author": {
+        "id": "768317609409380383",
+        "name": "liang",
+        "discriminator": "5437",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768317609409380383/77706a5959e7cac95995a4f558cc8ee3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795521281402732544",
+      "type": "Reply",
+      "timestamp": "2021-01-04T05:17:33.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "same experience, but I started to enjoy ~ 3 months in, 5-10 mins daily - having the prompts helped a lot, and when you graduate to Pro Level 1 even tho its complete silence, it feels very structured which I found hard to do when chilling on my own",
+      "author": {
+        "id": "768317609409380383",
+        "name": "liang",
+        "discriminator": "5437",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/768317609409380383/77706a5959e7cac95995a4f558cc8ee3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "739429338100924516",
+          "name": "haden",
+          "discriminator": 7264,
+          "nickname": "Haden",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "795168029814030336",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "795537044306526219",
+      "type": "Default",
+      "timestamp": "2021-01-04T06:20:11.726+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hmmmm interesting",
+      "author": {
+        "id": "739429338100924516",
+        "name": "haden",
+        "discriminator": "7264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739429338100924516/d070e3f343bad45ea5ffd9b55f65746c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795698798319632394",
+      "type": "Reply",
+      "timestamp": "2021-01-04T17:02:56.888+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Honestly don’t use the move stuff as much - more focused on the meditation part",
+      "author": {
+        "id": "753302498554544330",
+        "name": "MacBrennan",
+        "discriminator": "5865",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/753302498554544330/284754182f12754496246637305257af.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "768317609409380383",
+          "name": "liang",
+          "discriminator": 5437,
+          "nickname": "liang",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "795520628211318864",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "795698939125825536",
+      "type": "Default",
+      "timestamp": "2021-01-04T17:03:30.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I tried it once and thought it was chill but I think YouTube is better for that stuff",
+      "author": {
+        "id": "753302498554544330",
+        "name": "MacBrennan",
+        "discriminator": "5865",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/753302498554544330/284754182f12754496246637305257af.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796143775444500490",
+      "type": "Default",
+      "timestamp": "2021-01-05T22:31:07.702+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oak is a great app if you’re looking for simplicity. Totally free, and no having to scroll through tons of meditations to find the one you want.",
+      "author": {
+        "id": "749331388372877375",
+        "name": "vadz",
+        "discriminator": "5302",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/749331388372877375/3b77007152d5b6813e09da92c20639b8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "796298801052385290",
+      "type": "Default",
+      "timestamp": "2021-01-06T08:47:08.687+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "any good book recommendations on mental health?",
+      "author": {
+        "id": "793246108935520276",
+        "name": "enrico12",
+        "discriminator": "7723",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793246108935520276/b022ea7291df045fddd5b893a254a7bc.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796356302498037770",
+      "type": "Default",
+      "timestamp": "2021-01-06T12:35:38.1+00:00",
+      "timestampEdited": "2021-01-06T12:58:40.316+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Suggesting listening to this podcast: https://www.humanetech.com/podcast/26-are-the-kids-alright\n\n\"... Since 2011, the rate of U.S. hospitalizations for preteen girls who have self-harmed is up 189 percent, and with older teen girls, it’s up 62 percent. Tragically, the numbers on suicides are similar — 151 percent higher for preteen girls, and 70 percent higher for older teen girls. NYU social psychologist Jonathan Haidt has spent the last few years trying to figure out why, working with fellow psychologist Jean Twenge, and he believes social media is to blame. ...\"\n\nNot liking the tone of Tristan Harris in many aspects. I'd suggest focusing on the statistics mentioned. It is insane.",
+      "author": {
+        "id": "490151430733168671",
+        "name": "imrich",
+        "discriminator": "2958",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/490151430733168671/fb1eaa7eed258cf1f27d0e9301c4e969.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE22",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f622.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "796666157981368361",
+      "type": "Reply",
+      "timestamp": "2021-01-07T09:06:53.404+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Crazy, just listened to it !",
+      "author": {
+        "id": "793246108935520276",
+        "name": "enrico12",
+        "discriminator": "7723",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793246108935520276/b022ea7291df045fddd5b893a254a7bc.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "490151430733168671",
+          "name": "imrich",
+          "discriminator": 2958,
+          "nickname": "imrich",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "796356302498037770",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "797061354808672266",
+      "type": "Default",
+      "timestamp": "2021-01-08T11:17:15.67+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As of today how do you become aware of your mental health?",
+      "author": {
+        "id": "793246108935520276",
+        "name": "enrico12",
+        "discriminator": "7723",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/793246108935520276/b022ea7291df045fddd5b893a254a7bc.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "797077438705303552",
+      "type": "Default",
+      "timestamp": "2021-01-08T12:21:10.37+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@enrico12 How I interact with people and situations is generally how I gauge my mental health",
+      "author": {
+        "id": "249855872514129923",
+        "name": "Bogs Binny",
+        "discriminator": "9150",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249855872514129923/bea9b240e21ab827eedb6e73a6950b2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "793246108935520276",
+          "name": "enrico12",
+          "discriminator": 7723,
+          "nickname": "enrico12",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "797170413331415090",
+      "type": "Default",
+      "timestamp": "2021-01-08T18:30:37.248+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@enrico12 I use wellnest a lot and it helps me unpack what's goin on in my head (https://www.wellnest.co/)",
+      "author": {
+        "id": "735600203121426512",
+        "name": "tommysearle",
+        "discriminator": "0884",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735600203121426512/381bb32cedd252b78a1527b4fe0ac58b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "793246108935520276",
+          "name": "enrico12",
+          "discriminator": 7723,
+          "nickname": "enrico12",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "797338378851975170",
+      "type": "Reply",
+      "timestamp": "2021-01-09T05:38:03.349+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think being aware of big problems are hard ... personally i didn't realize that panic attacks and thinking that everyone is laughing at me or trying to hurt me weren't normal ... probably sounds like im totally unaware but i thought that was normal shyness until my doctor said i had a problem\n\nthat said for the day to day just sitting to ruminate some thoughts for the day and reflecting over the day at the end has helped immensely in whatever normal issues i've had and made me feel more confident in tackling daily experience",
+      "author": {
+        "id": "177909406594236417",
+        "name": "javbit",
+        "discriminator": "1401",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/177909406594236417/7cd00477c971e84a7477da528b568ffe.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "793246108935520276",
+          "name": "enrico12",
+          "discriminator": 7723,
+          "nickname": "enrico12",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "797061354808672266",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "798941469728571432",
+      "type": "Default",
+      "timestamp": "2021-01-13T15:48:09.998+00:00",
+      "timestampEdited": "2021-01-13T15:48:16.74+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wrote a journal/article on meaninglessness of life:\n\nhttps://theux.dev/journal/redirection-of-meaning\n\nWould love to hear your takes on life.",
+      "author": {
+        "id": "423401538195685376",
+        "name": "Nitesh",
+        "discriminator": "4735",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/423401538195685376/7a9233c371251935d6dc2f16a3b9b9d1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "♥️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2665.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "800450583063822426",
+      "type": "Default",
+      "timestamp": "2021-01-17T19:44:50.655+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How would you guys define mindfulness compared to visualizations, and what do you prefer?",
+      "author": {
+        "id": "699654641557831690",
+        "name": "Lukas Schmidt",
+        "discriminator": "7717",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699654641557831690/ff4ef573d84401887ff331d73bc43a12.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800499076533452880",
+      "type": "Reply",
+      "timestamp": "2021-01-17T22:57:32.399+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Loved the article! Your website also looks super professional :)",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "423401538195685376",
+          "name": "Nitesh",
+          "discriminator": 4735,
+          "nickname": "Nitesh(@niranjannitesh)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "798941469728571432",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "800499367152451594",
+      "type": "Reply",
+      "timestamp": "2021-01-17T22:58:41.688+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I would compare the two to be really different- for me, mindfulness is understanding where you are, what you're doing, and your intent in action at that exact moment. visualization on the other hand is more like a pondering on the future or an ideal moment, and finding out how i can get there.",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "699654641557831690",
+          "name": "Lukas Schmidt",
+          "discriminator": 7717,
+          "nickname": "Lukas Schmidt",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "800450583063822426",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "800500843908169728",
+      "type": "Reply",
+      "timestamp": "2021-01-17T23:04:33.774+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks and thanks!",
+      "author": {
+        "id": "423401538195685376",
+        "name": "Nitesh",
+        "discriminator": "4735",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/423401538195685376/7a9233c371251935d6dc2f16a3b9b9d1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "622655894093692968",
+          "name": "michikimmi",
+          "discriminator": 136,
+          "nickname": "michikimmi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "800499076533452880",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "800543453255696406",
+      "type": "Reply",
+      "timestamp": "2021-01-18T01:53:52.634+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I wanted to be super hero when I was kid \uD83D\uDE05\nAnd I still do, tech is just a part of it.",
+      "author": {
+        "id": "423401538195685376",
+        "name": "Nitesh",
+        "discriminator": "4735",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/423401538195685376/7a9233c371251935d6dc2f16a3b9b9d1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": 0,
+          "nickname": "Deleted User",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "800541408863846420",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "800543663129886720",
+      "type": "Reply",
+      "timestamp": "2021-01-18T01:54:42.672+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No.\n\nbut I have this analogy\nThe only thing more terrifying than not existing or not knowing why I exist, is existing and having no one around.",
+      "author": {
+        "id": "423401538195685376",
+        "name": "Nitesh",
+        "discriminator": "4735",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/423401538195685376/7a9233c371251935d6dc2f16a3b9b9d1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": 0,
+          "nickname": "Deleted User",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "800541519866101820",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "800544153544687637",
+      "type": "Default",
+      "timestamp": "2021-01-18T01:56:39.596+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Personally I think all life and time are one entity - and that we’re all just blips of it",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800544388669112390",
+      "type": "Default",
+      "timestamp": "2021-01-18T01:57:35.654+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if there was nobody else in the world, the idea of “who i am”- my identity as an individual- would be essentially being every single entity that had lived",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800544401159487498",
+      "type": "Default",
+      "timestamp": "2021-01-18T01:57:38.632+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and will live",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800544410046562314",
+      "type": "Default",
+      "timestamp": "2021-01-18T01:57:40.751+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and is living",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800544561436819456",
+      "type": "Default",
+      "timestamp": "2021-01-18T01:58:16.845+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that’s why i find it funny when people forget to realize that other people perceive them",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800544621989855242",
+      "type": "Default",
+      "timestamp": "2021-01-18T01:58:31.282+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "because in my mind it’s just seeing another version of the same entity anyways",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800544632399593512",
+      "type": "Reply",
+      "timestamp": "2021-01-18T01:58:33.764+00:00",
+      "timestampEdited": "2021-01-18T02:03:47.562+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't know.\n\nIt's just, they seems smart and have the power to use it for their own benefits but yet they choose to use it for others.",
+      "author": {
+        "id": "423401538195685376",
+        "name": "Nitesh",
+        "discriminator": "4735",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/423401538195685376/7a9233c371251935d6dc2f16a3b9b9d1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": 0,
+          "nickname": "Deleted User",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "800543845154553857",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "800544924311355412",
+      "type": "Default",
+      "timestamp": "2021-01-18T01:59:43.361+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@michikimmi have you seen/read \"The Egg\" by Andy Weir?",
+      "author": {
+        "id": "423401538195685376",
+        "name": "Nitesh",
+        "discriminator": "4735",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/423401538195685376/7a9233c371251935d6dc2f16a3b9b9d1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "622655894093692968",
+          "name": "michikimmi",
+          "discriminator": 136,
+          "nickname": "michikimmi",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "800545076877983764",
+      "type": "Default",
+      "timestamp": "2021-01-18T02:00:19.736+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no but since it’s a short story, i’ll read it tonight :)",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800545104242147409",
+      "type": "Default",
+      "timestamp": "2021-01-18T02:00:26.26+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what is it about? @Nitesh",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "423401538195685376",
+          "name": "Nitesh",
+          "discriminator": 4735,
+          "nickname": "Nitesh(@niranjannitesh)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "800545274514374676",
+      "type": "Reply",
+      "timestamp": "2021-01-18T02:01:06.856+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'd recommend watching this video: https://www.youtube.com/watch?v=h6fcK_fRYaI",
+      "author": {
+        "id": "423401538195685376",
+        "name": "Nitesh",
+        "discriminator": "4735",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/423401538195685376/7a9233c371251935d6dc2f16a3b9b9d1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Egg - A Short Story",
+          "url": "https://www.youtube.com/watch?v=h6fcK_fRYaI",
+          "timestamp": null,
+          "description": "The Egg\n\nStory by Andy Weir\nAnimated by Kurzgesagt\n\nA Big Thanks to Andy Weir for allowing us to use his story.\nThe original was released here: http://www.galactanet.com/oneoff/theegg_mod.html\nVisit his website here: http://www.andyweirauthor.com/\n\nIf you want to support us, please check out those beautiful Egg posters we made:\nhttps://shop.kurz...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Kurzgesagt – In a Nutshell",
+            "url": "https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q"
+          },
+          "thumbnail": {
+            "url": "https://i.ytimg.com/vi/h6fcK_fRYaI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "622655894093692968",
+          "name": "michikimmi",
+          "discriminator": 136,
+          "nickname": "michikimmi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "800545076877983764",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "800545413966462996",
+      "type": "Reply",
+      "timestamp": "2021-01-18T02:01:40.104+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's on a similar note to what you said about \n> being every single entity that had lived\n> and will live\n> and is living",
+      "author": {
+        "id": "423401538195685376",
+        "name": "Nitesh",
+        "discriminator": "4735",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/423401538195685376/7a9233c371251935d6dc2f16a3b9b9d1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "622655894093692968",
+          "name": "michikimmi",
+          "discriminator": 136,
+          "nickname": "michikimmi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "800545104242147409",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "800545880968134697",
+      "type": "Default",
+      "timestamp": "2021-01-18T02:03:31.446+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Haven't seen it yet!",
+      "author": {
+        "id": "423401538195685376",
+        "name": "Nitesh",
+        "discriminator": "4735",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/423401538195685376/7a9233c371251935d6dc2f16a3b9b9d1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800546209642971138",
+      "type": "Default",
+      "timestamp": "2021-01-18T02:04:49.808+00:00",
+      "timestampEdited": "2021-01-18T02:04:56.11+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i’ll take a look at it nitesh! i like reading more than watching a video, but i assume the video is also a summary",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800546603580260354",
+      "type": "Default",
+      "timestamp": "2021-01-18T02:06:23.73+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think there was a medium article that someone posted in this discord that linked the computational intelligence theory to what we were just talking about",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800546625897627688",
+      "type": "Default",
+      "timestamp": "2021-01-18T02:06:29.051+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and i thought it was so interesting",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800547140828266566",
+      "type": "Default",
+      "timestamp": "2021-01-18T02:08:31.82+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sadly! I didn't encounter it.",
+      "author": {
+        "id": "423401538195685376",
+        "name": "Nitesh",
+        "discriminator": "4735",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/423401538195685376/7a9233c371251935d6dc2f16a3b9b9d1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800547275130142730",
+      "type": "Default",
+      "timestamp": "2021-01-18T02:09:03.84+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it was this one, i forgot who posted it",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800547284092846141",
+      "type": "Default",
+      "timestamp": "2021-01-18T02:09:05.977+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/predict/can-life-survive-till-the-end-of-universe-e20c3664f993",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Can life survive till the end of universe?",
+          "url": "https://medium.com/predict/can-life-survive-till-the-end-of-universe-e20c3664f993",
+          "timestamp": null,
+          "description": "How life can “cheat” its way out of the heat death of the universe",
+          "thumbnail": {
+            "url": "https://miro.medium.com/max/757/1*F3ZX1xomxK9GXxEKE43FfA.jpeg",
+            "width": 757,
+            "height": 473
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800547354297368626",
+      "type": "Default",
+      "timestamp": "2021-01-18T02:09:22.715+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it doesn’t directly verbatim link thr two ideas",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800547460623499277",
+      "type": "Default",
+      "timestamp": "2021-01-18T02:09:48.065+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but i think if you think about the infinity of knowledge as a concept you can connect it to existence as a whole",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800547642828128317",
+      "type": "Default",
+      "timestamp": "2021-01-18T02:10:31.506+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my opinion of which would be that all existence is, has been, will be the same singular gigantic and tiny entity",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800962526405591081",
+      "type": "Default",
+      "timestamp": "2021-01-19T05:39:07.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Covered men's mental health startup tethr, along with the latest in the business of mental health and wellness in my newsletter, On The Mind. Subscribe if you’d like, and please let me know if you have any thoughts or feedback. If you’re building something unique in mental health, or an investor in the space, I’d love to connect - shoot me a DM. https://onthemind.substack.com/p/-men-tal-health?r=9km9z&utm_campaign=post&utm_medium=web&utm_source=copy",
+      "author": {
+        "id": "740057814596190278",
+        "name": "SabbaticalDan",
+        "discriminator": "1700",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/740057814596190278/842709ac1efcf207f9c62357165ea656.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83E\uDDE0 Men-tal Health",
+          "url": "https://onthemind.substack.com/p/-men-tal-health?r=9km9z&utm_campaign=post&utm_medium=web&utm_source=copy",
+          "timestamp": null,
+          "description": "The latest on the business of mental health and wellness",
+          "thumbnail": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F02199d56-8bab-4050-a6f8-af40b755d0d5_1552x873.webp",
+            "width": 1067,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800994054316884068",
+      "type": "Default",
+      "timestamp": "2021-01-19T07:44:24.299+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thought this was a crypto",
+      "author": {
+        "id": "739429338100924516",
+        "name": "haden",
+        "discriminator": "7264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739429338100924516/d070e3f343bad45ea5ffd9b55f65746c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE05",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f605.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "801867208325464074",
+      "type": "Reply",
+      "timestamp": "2021-01-21T17:34:00.437+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Loved this. Very inspirational!",
+      "author": {
+        "id": "699654641557831690",
+        "name": "Lukas Schmidt",
+        "discriminator": "7717",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699654641557831690/ff4ef573d84401887ff331d73bc43a12.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "423401538195685376",
+          "name": "Nitesh",
+          "discriminator": 4735,
+          "nickname": "Nitesh(@niranjannitesh)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "800545274514374676",
+        "channelId": "774490793036611645",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "803076798837424158",
+      "type": "Default",
+      "timestamp": "2021-01-25T01:40:29.288+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "619693668542054401",
+        "name": "amritshenava98",
+        "discriminator": "2203",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/619693668542054401/f6839ae8ae2c65916d40c17720fcd838.png"
+      },
+      "attachments": [
+        {
+          "id": "803076796915384360",
+          "url": "https://cdn.discordapp.com/attachments/774490793036611645/803076796915384360/image0.png",
+          "fileName": "image0.png",
+          "fileSizeBytes": 396331
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803379944263516220",
+      "type": "Default",
+      "timestamp": "2021-01-25T21:45:04.79+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also is a physical/psychological response",
+      "author": {
+        "id": "622655894093692968",
+        "name": "michikimmi",
+        "discriminator": "0136",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/622655894093692968/d3c7582a6b7f1a9ffdb5cc103099f050.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDEC0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1fac0.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "803708605215801364",
+      "type": "Default",
+      "timestamp": "2021-01-26T19:31:03.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When it is an illogical fear(stage fright) I am re-framing it as excitement since it is basically the same response. Elevated hear rate, sweaty palms, etc.",
+      "author": {
+        "id": "699654641557831690",
+        "name": "Lukas Schmidt",
+        "discriminator": "7717",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699654641557831690/ff4ef573d84401887ff331d73bc43a12.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805089790990090281",
+      "type": "Default",
+      "timestamp": "2021-01-30T14:59:24.017+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Something I wrote about happiness.\nhttps://theux.dev/journal/happiness-1",
+      "author": {
+        "id": "423401538195685376",
+        "name": "Nitesh",
+        "discriminator": "4735",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/423401538195685376/7a9233c371251935d6dc2f16a3b9b9d1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Happiness - 1",
+          "url": "https://theux.dev/journal/happiness-1",
+          "timestamp": null,
+          "description": "Our lives are not perfect",
+          "color": "#121212",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 200
+}

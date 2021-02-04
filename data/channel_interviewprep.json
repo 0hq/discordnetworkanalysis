@@ -1,0 +1,1954 @@
+{
+  "guild": {
+    "id": "733975218711953519",
+    "name": "gen z mafia",
+    "iconUrl": "https://cdn.discordapp.com/icons/733975218711953519/1defd2842cd55023e919903effda80b2.png"
+  },
+  "channel": {
+    "id": "785975003615068190",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDCAC | ▬▬▬▬ Topics ▬▬▬▬ | \uD83D\uDCAC",
+    "name": "\uD83D\uDCBB-interview-prep",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "785975411967393803",
+      "type": "Default",
+      "timestamp": "2020-12-08T21:05:40.93+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "first",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785975518854905857",
+      "type": "Default",
+      "timestamp": "2020-12-08T21:06:06.414+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://binarysearch.com/",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "binarysearch | Master Algorithms Together",
+          "url": "https://binarysearch.com/",
+          "timestamp": null,
+          "description": "Master algorithms with others on binarysearch. Create a room, invite your friends, and race to finish the problem.",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785975519446302750",
+      "type": "Default",
+      "timestamp": "2020-12-08T21:06:06.555+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":LETS_FUCKING_GOOOOOOO1:",
+      "author": {
+        "id": "249248917529690112",
+        "name": "TaylorSwift",
+        "discriminator": "5112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249248917529690112/d80ef016547fca89e77b75d9e8fb4f48.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785975563683889222",
+      "type": "Default",
+      "timestamp": "2020-12-08T21:06:17.102+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we can do some binarysearch stuff together",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785975580235399168",
+      "type": "Default",
+      "timestamp": "2020-12-08T21:06:21.048+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "this site is awesome",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785975607238459413",
+      "type": "Default",
+      "timestamp": "2020-12-08T21:06:27.486+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "co-op leetcode",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785975639354114078",
+      "type": "Default",
+      "timestamp": "2020-12-08T21:06:35.143+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Currently on the clock but available after 5:30 EST",
+      "author": {
+        "id": "249248917529690112",
+        "name": "TaylorSwift",
+        "discriminator": "5112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249248917529690112/d80ef016547fca89e77b75d9e8fb4f48.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785975666046009424",
+      "type": "Default",
+      "timestamp": "2020-12-08T21:06:41.507+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yea no worries",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785975700062076968",
+      "type": "Default",
+      "timestamp": "2020-12-08T21:06:49.617+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Have you also tried repl.it?",
+      "author": {
+        "id": "249248917529690112",
+        "name": "TaylorSwift",
+        "discriminator": "5112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249248917529690112/d80ef016547fca89e77b75d9e8fb4f48.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785975787891064903",
+      "type": "Default",
+      "timestamp": "2020-12-08T21:07:10.557+00:00",
+      "timestampEdited": "2020-12-08T21:07:19.389+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not focused on algo’s tho",
+      "author": {
+        "id": "249248917529690112",
+        "name": "TaylorSwift",
+        "discriminator": "5112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249248917529690112/d80ef016547fca89e77b75d9e8fb4f48.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785975866772947024",
+      "type": "Default",
+      "timestamp": "2020-12-08T21:07:29.364+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I haven't",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785975934623678514",
+      "type": "Default",
+      "timestamp": "2020-12-08T21:07:45.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh nvm  I have",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786104478608523284",
+      "type": "Reply",
+      "timestamp": "2020-12-09T05:38:32.815+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "advent of code?",
+      "author": {
+        "id": "397269876345012245",
+        "name": "fredrickdouglass",
+        "discriminator": "8531",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397269876345012245/a_e3b5578f043ff406665d60b5dd489d78.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "381924211553468416",
+          "name": "Calamari",
+          "discriminator": 8800,
+          "nickname": "Zavien (desperate undergrad)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "785975411967393803",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "786105292923338802",
+      "type": "Default",
+      "timestamp": "2020-12-09T05:41:46.963+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786242218205773844",
+      "type": "Default",
+      "timestamp": "2020-12-09T14:45:52.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m free to work on Algo related questions around 6 EST. I’ve been looking at LC that focused on sorting",
+      "author": {
+        "id": "249248917529690112",
+        "name": "TaylorSwift",
+        "discriminator": "5112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249248917529690112/d80ef016547fca89e77b75d9e8fb4f48.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786242884754997248",
+      "type": "Default",
+      "timestamp": "2020-12-09T14:48:31.412+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@TaylorSwift Are you reading anything",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "249248917529690112",
+          "name": "TaylorSwift",
+          "discriminator": 5112,
+          "nickname": "TaylorSwift - @gingerKwesi",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "786242916732895242",
+      "type": "Default",
+      "timestamp": "2020-12-09T14:48:39.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "CTCI or CLRS etc",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786243531970445352",
+      "type": "Default",
+      "timestamp": "2020-12-09T14:51:05.72+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Generally bouncing in between those and Algorithm Design Manual. Leaning more on CLRS and if I feel like it’s too dense I check out the ADM section related to that",
+      "author": {
+        "id": "249248917529690112",
+        "name": "TaylorSwift",
+        "discriminator": "5112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249248917529690112/d80ef016547fca89e77b75d9e8fb4f48.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786243695489843261",
+      "type": "Default",
+      "timestamp": "2020-12-09T14:51:44.706+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nice",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786368596933607426",
+      "type": "Default",
+      "timestamp": "2020-12-09T23:08:03.531+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://leetcode.com/problems/high-five/ -- currently starting on this.",
+      "author": {
+        "id": "249248917529690112",
+        "name": "TaylorSwift",
+        "discriminator": "5112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249248917529690112/d80ef016547fca89e77b75d9e8fb4f48.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://leetcode.com/problems/high-five/",
+          "timestamp": null,
+          "description": "Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.",
+          "thumbnail": {
+            "url": "https://leetcode.com/static/images/LeetCode_Sharing.png",
+            "width": 500,
+            "height": 260
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786406347200921620",
+      "type": "Default",
+      "timestamp": "2020-12-10T01:38:03.896+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is a good topic channel",
+      "author": {
+        "id": "128659723183587329",
+        "name": "erictrimbs",
+        "discriminator": "6511",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/128659723183587329/b734e370bde6aa64d39fbad8814a3832.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786406656849870859",
+      "type": "Default",
+      "timestamp": "2020-12-10T01:39:17.722+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If anyone's looking for material, this guy is super helpful. I did a mock interview with him before my last on-site. https://linktr.ee/justinwlin",
+      "author": {
+        "id": "128659723183587329",
+        "name": "erictrimbs",
+        "discriminator": "6511",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/128659723183587329/b734e370bde6aa64d39fbad8814a3832.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "@justinwlin",
+          "url": "https://linktr.ee/justinwlin",
+          "timestamp": null,
+          "description": "Linktree. Make your link do more.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://d1fdloi71mui9q.cloudfront.net/sNonlhGQkOirqpdXPFt9_4Ep60wbN86enU1U2",
+            "width": 600,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786574398672470076",
+      "type": "Default",
+      "timestamp": "2020-12-10T12:45:50.489+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was told about a good course (not promo) for data structures and algos called interview espresso - https://learn.interviewespresso.com/ its marketed for people with less of a math-basis apparently \uD83D\uDE42",
+      "author": {
+        "id": "460560861455450112",
+        "name": "hwbuk",
+        "discriminator": "1620",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/460560861455450112/22386fa1eb2c944047829a5b1a3f4847.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Interview Espresso",
+          "url": "https://learn.interviewespresso.com/",
+          "timestamp": null,
+          "description": "",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786574582084796446",
+      "type": "Reply",
+      "timestamp": "2020-12-10T12:46:34.218+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've been told you can find it on the interwebs if you look deep enough",
+      "author": {
+        "id": "460560861455450112",
+        "name": "hwbuk",
+        "discriminator": "1620",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/460560861455450112/22386fa1eb2c944047829a5b1a3f4847.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "786574398672470076",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "786653424007643156",
+      "type": "Default",
+      "timestamp": "2020-12-10T17:59:51.597+00:00",
+      "timestampEdited": "2020-12-10T17:59:55.192+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can anyone look at my google swe intern host matching essays?",
+      "author": {
+        "id": "273100933464981504",
+        "name": "GabrielT",
+        "discriminator": "9748",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/273100933464981504/5e198b839b66639b53fde22295248cef.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786716858589904916",
+      "type": "Default",
+      "timestamp": "2020-12-10T22:11:55.58+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@GabrielT sure!",
+      "author": {
+        "id": "128659723183587329",
+        "name": "erictrimbs",
+        "discriminator": "6511",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/128659723183587329/b734e370bde6aa64d39fbad8814a3832.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "273100933464981504",
+          "name": "GabrielT",
+          "discriminator": 9748,
+          "nickname": "Gabriel (\uD83D\uDC26gtomitsu)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "789148266553016351",
+      "type": "Default",
+      "timestamp": "2020-12-17T15:13:28.412+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I really need to spend more time reading CLRS",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789162468953948181",
+      "type": "Default",
+      "timestamp": "2020-12-17T16:09:54.528+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It’s a great book for the nuances. Maybe like a tip or two",
+      "author": {
+        "id": "249248917529690112",
+        "name": "TaylorSwift",
+        "discriminator": "5112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249248917529690112/d80ef016547fca89e77b75d9e8fb4f48.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789163642516013087",
+      "type": "Default",
+      "timestamp": "2020-12-17T16:14:34.327+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "why is CS so complicated jesus",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789163755417370644",
+      "type": "Default",
+      "timestamp": "2020-12-17T16:15:01.245+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":WAAAH:",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789164488619327518",
+      "type": "Default",
+      "timestamp": "2020-12-17T16:17:56.054+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Something something “every worthwhile journey begins with a single step”",
+      "author": {
+        "id": "249248917529690112",
+        "name": "TaylorSwift",
+        "discriminator": "5112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249248917529690112/d80ef016547fca89e77b75d9e8fb4f48.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789166246980485151",
+      "type": "Default",
+      "timestamp": "2020-12-17T16:24:55.28+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but god damn I love math",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789284500098121771",
+      "type": "Default",
+      "timestamp": "2020-12-18T00:14:49.02+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Anyone want to schedule a practice interview anytime soon?",
+      "author": {
+        "id": "249248917529690112",
+        "name": "TaylorSwift",
+        "discriminator": "5112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249248917529690112/d80ef016547fca89e77b75d9e8fb4f48.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793990153373745172",
+      "type": "Default",
+      "timestamp": "2020-12-30T23:53:24.188+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@TaylorSwift late response but down",
+      "author": {
+        "id": "128659723183587329",
+        "name": "erictrimbs",
+        "discriminator": "6511",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/128659723183587329/b734e370bde6aa64d39fbad8814a3832.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "249248917529690112",
+          "name": "TaylorSwift",
+          "discriminator": 5112,
+          "nickname": "TaylorSwift - @gingerKwesi",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "794442112779026453",
+      "type": "Default",
+      "timestamp": "2021-01-01T05:49:19.707+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello all \uD83D\uDC4B \nCrio Winter of Doing is here, and India’s top startups are lining up their tech challenges for you. Join India’s largest tech externship program for developers. \n> Work on challenging tech projects (externships) from exciting startups\n> Interact with the biggest names in India’s tech industry\n> Participate in engaging Masterclass sessions from top engineers in the country\n> Get discovered by Crio’s hiring partners\n\nApply now - https://bit.ly/crio-wod\n \nLimited slots are available !!\n#criodo #GetInspiredByDoing #criowinterofdoing #startups #projects",
+      "author": {
+        "id": "667970159377514502",
+        "name": "Kevin Paulose",
+        "discriminator": "0809",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/667970159377514502/c15d5408660b24698b51c92faa1e006b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Crio Winter of Doing",
+          "url": "https://bit.ly/crio-wod",
+          "timestamp": null,
+          "description": "Work on challenging projects for the most exciting startups in the country. Join India's largest tech externship program for developers.",
+          "color": "#7BBA8C",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794442188351864862",
+      "type": "Default",
+      "timestamp": "2021-01-01T05:49:37.725+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "667970159377514502",
+        "name": "Kevin Paulose",
+        "discriminator": "0809",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/667970159377514502/c15d5408660b24698b51c92faa1e006b.png"
+      },
+      "attachments": [
+        {
+          "id": "794442188146475058",
+          "url": "https://cdn.discordapp.com/attachments/785975003615068190/794442188146475058/Crio_Winter_of_Doing-3.pdf",
+          "fileName": "Crio_Winter_of_Doing-3.pdf",
+          "fileSizeBytes": 530801
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "797268384693092382",
+      "type": "Default",
+      "timestamp": "2021-01-09T00:59:55.441+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "had my FB interview earlier this week",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "797268405006762034",
+      "type": "Default",
+      "timestamp": "2021-01-09T01:00:00.284+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "final round before offers come out",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "797632056896258088",
+      "type": "Default",
+      "timestamp": "2021-01-10T01:05:01.651+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Got a Roblox PM interview, but im non-technical, so about to absolutely bomb this hackerrank test. If anyone has  experience taking those, lmk. Assuming its like leetcode, but idk, never done those either.",
+      "author": {
+        "id": "728072904142487584",
+        "name": "Naren Gaurav",
+        "discriminator": "6481",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/728072904142487584/a7512e64b2a5732d8b3d76fae4927e68.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799214084989648896",
+      "type": "Default",
+      "timestamp": "2021-01-14T09:51:26.541+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://binarysearch.com/ is a good platform for doing interview prep with other people (not affiliated but have used heavily in past)",
+      "author": {
+        "id": "367380663852204032",
+        "name": "yojlow",
+        "discriminator": "2393",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/367380663852204032/6828a4eed5f1c1833fbb1449bb16e6d4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "binarysearch | Learn Algorithms Together",
+          "url": "https://binarysearch.com/",
+          "timestamp": null,
+          "description": "Learn algorithms together on binarysearch. Create a room, invite your friends, and race to finish the problem.",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800419578974568509",
+      "type": "Default",
+      "timestamp": "2021-01-17T17:41:38.704+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no nothing specific",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "800419609429409872",
+      "type": "Default",
+      "timestamp": "2021-01-17T17:41:45.965+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I just find solving complex problems to be satisfying",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800419674239008818",
+      "type": "Default",
+      "timestamp": "2021-01-17T17:42:01.417+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "especially leetcode problems that involve using some calculus",
+      "author": {
+        "id": "381924211553468416",
+        "name": "Calamari",
+        "discriminator": "8800",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/381924211553468416/9007c5dfd36c5b6c3e2e485f8da38f82.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801891427587588116",
+      "type": "Default",
+      "timestamp": "2021-01-21T19:10:14.759+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Do you guys use referrals to get interviews? @Naren Gaurav @Calamari",
+      "author": {
+        "id": "128659723183587329",
+        "name": "erictrimbs",
+        "discriminator": "6511",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/128659723183587329/b734e370bde6aa64d39fbad8814a3832.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "381924211553468416",
+          "name": "Calamari",
+          "discriminator": 8800,
+          "nickname": "Zavien (desperate undergrad)",
+          "isBot": false
+        },
+        {
+          "id": "728072904142487584",
+          "name": "Naren Gaurav",
+          "discriminator": 6481,
+          "nickname": "Naren Gaurav",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "801910732844826635",
+      "type": "Default",
+      "timestamp": "2021-01-21T20:26:57.491+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Occasionally I’ve gotten them cause people are generous, but no. Not usually, probably should be asking more for them though @erictrimbs",
+      "author": {
+        "id": "728072904142487584",
+        "name": "Naren Gaurav",
+        "discriminator": "6481",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/728072904142487584/a7512e64b2a5732d8b3d76fae4927e68.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "128659723183587329",
+          "name": "erictrimbs",
+          "discriminator": 6511,
+          "nickname": "erictrimbs",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "801911828300038237",
+      "type": "Default",
+      "timestamp": "2021-01-21T20:31:18.668+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Same. GG",
+      "author": {
+        "id": "128659723183587329",
+        "name": "erictrimbs",
+        "discriminator": "6511",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/128659723183587329/b734e370bde6aa64d39fbad8814a3832.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801924128348438568",
+      "type": "Reply",
+      "timestamp": "2021-01-21T21:20:11.228+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ive been referred once, and it was by mistake... (they didnt notice until the second round of interviews... it didnt work out)",
+      "author": {
+        "id": "288020504210571264",
+        "name": "pyro_hedgehog",
+        "discriminator": "7253",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/288020504210571264/6b3ad620fedcc8c5cf81a3513b933a1c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "128659723183587329",
+          "name": "erictrimbs",
+          "discriminator": 6511,
+          "nickname": "erictrimbs",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "801891427587588116",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "801985558356295680",
+      "type": "Default",
+      "timestamp": "2021-01-22T01:24:17.283+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "any guidance on prep for Coinbase interviews? Going to have one soon",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801997692782903307",
+      "type": "Default",
+      "timestamp": "2021-01-22T02:12:30.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "don’t talk about politics",
+      "author": {
+        "id": "492016284285009922",
+        "name": "dh",
+        "discriminator": "7147",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492016284285009922/8be36664750162915d2735aa927527e8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "802046797543374870",
+      "type": "Default",
+      "timestamp": "2021-01-22T05:27:37.843+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nice interview",
+      "author": {
+        "id": "128659723183587329",
+        "name": "erictrimbs",
+        "discriminator": "6511",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/128659723183587329/b734e370bde6aa64d39fbad8814a3832.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802046979931897897",
+      "type": "Default",
+      "timestamp": "2021-01-22T05:28:21.328+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "IDK nothing beyond the standard advice of leetcode problems tagged 'coinbase' and glassdoor previous questions",
+      "author": {
+        "id": "128659723183587329",
+        "name": "erictrimbs",
+        "discriminator": "6511",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/128659723183587329/b734e370bde6aa64d39fbad8814a3832.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802047096487804969",
+      "type": "Reply",
+      "timestamp": "2021-01-22T05:28:49.117+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you could try asking people in cscareers.dev",
+      "author": {
+        "id": "128659723183587329",
+        "name": "erictrimbs",
+        "discriminator": "6511",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/128659723183587329/b734e370bde6aa64d39fbad8814a3832.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "783724226619768912",
+          "name": "platocrat",
+          "discriminator": 4224,
+          "nickname": "platocrat",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "801985558356295680",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "802155554046607381",
+      "type": "Reply",
+      "timestamp": "2021-01-22T12:39:47.414+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ye, I know Brian is not a fan",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "492016284285009922",
+          "name": "dh",
+          "discriminator": 7147,
+          "nickname": "@notdavidhuang",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "801997692782903307",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "802155801233063936",
+      "type": "Reply",
+      "timestamp": "2021-01-22T12:40:46.348+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Will try that, thanks!",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "128659723183587329",
+          "name": "erictrimbs",
+          "discriminator": 6511,
+          "nickname": "erictrimbs",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "802047096487804969",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "802495938194046976",
+      "type": "Default",
+      "timestamp": "2021-01-23T11:12:21.319+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hi guys! I'll have three virtual on-sites (all technical) for a FANG gig next week. The recruiter attached some google docs to the invitations.. It's my first time doing proper coding interviews and they have attached google doc links to each interview - which makes me assume that I'll code in google docs - does anyone know how the code would be tested or whether they expect me to write my own tests in the google doc? & is it generally allowed to use a search engine for looking something up (for example what base36 is etc.)? not sure whether I can just look things up during the interview or if it's known to be counted as cheating  \uD83E\uDDD0  Grateful for any advice \uD83D\uDC40 \uD83D\uDE0A",
+      "author": {
+        "id": "392291545270714389",
+        "name": "creapuretivity",
+        "discriminator": "1059",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392291545270714389/9af1059ac53e96616dd7b55ed826965d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803575307982471228",
+      "type": "Default",
+      "timestamp": "2021-01-26T10:41:23.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Got an Apple OA this week - but its in Python or Java I think, and I been mainly focusing on JS for the past ages \uD83D\uDE22",
+      "author": {
+        "id": "460560861455450112",
+        "name": "hwbuk",
+        "discriminator": "1620",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/460560861455450112/22386fa1eb2c944047829a5b1a3f4847.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803715397740134421",
+      "type": "Default",
+      "timestamp": "2021-01-26T19:58:03.131+00:00",
+      "timestampEdited": "2021-01-27T00:29:13.118+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wtf does a \"virtual onsite\" even mean lmao",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "803741885277274202",
+      "type": "Reply",
+      "timestamp": "2021-01-26T21:43:18.252+00:00",
+      "timestampEdited": "2021-01-26T21:46:09.395+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My guess is that it'll be a casual coding interview with whiteboard problems being discussed in a text editor :D I guess I will see",
+      "author": {
+        "id": "392291545270714389",
+        "name": "creapuretivity",
+        "discriminator": "1059",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392291545270714389/9af1059ac53e96616dd7b55ed826965d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783724226619768912",
+          "name": "platocrat",
+          "discriminator": 4224,
+          "nickname": "platocrat",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "803715397740134421",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "803785369291194408",
+      "type": "Reply",
+      "timestamp": "2021-01-27T00:36:05.649+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tbh, I didn't even read your previous msg and was referring to my own potential virtual onsite. I understand the intent of the term, but still think there could be a better alternative way to describe it. Maybe \"final round\"? Although, it's easy to see how ppl can prefer the familiarity of the term \"onsite\"",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "392291545270714389",
+          "name": "creapuretivity",
+          "discriminator": 1059,
+          "nickname": "toni",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "803741885277274202",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "803804441974407199",
+      "type": "Reply",
+      "timestamp": "2021-01-27T01:51:52.931+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Lol that that was random then  \uD83D\uDE04 I think it's okay to call it virtual on-site. Good luck with your Interview!",
+      "author": {
+        "id": "392291545270714389",
+        "name": "creapuretivity",
+        "discriminator": "1059",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392291545270714389/9af1059ac53e96616dd7b55ed826965d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783724226619768912",
+          "name": "platocrat",
+          "discriminator": 4224,
+          "nickname": "platocrat",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "803785369291194408",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "803804877313802240",
+      "type": "Reply",
+      "timestamp": "2021-01-27T01:53:36.724+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "haha yeah. Good luck with yours as well! This is my first time as well, but i'm confident we'll do well \uD83D\uDE09",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "392291545270714389",
+          "name": "creapuretivity",
+          "discriminator": 1059,
+          "nickname": "toni",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "803804441974407199",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "803825034211885056",
+      "type": "Default",
+      "timestamp": "2021-01-27T03:13:42.503+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i had an interview yesterday that i thought went well and while i didn't get the role due to timezone conflicts, i had hope for the future, but then i got banned from the website i applied for the role on due to the fact that i'm a minor.",
+      "author": {
+        "id": "630880086328868906",
+        "name": "cramos20",
+        "discriminator": "0275",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630880086328868906/9cd80af10c20c4b51724b782cbe3289e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD23",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f923.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "803885280565526549",
+      "type": "Reply",
+      "timestamp": "2021-01-27T07:13:06.353+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Wait what?? Is this Website that you applied on hosted by that same company?",
+      "author": {
+        "id": "392291545270714389",
+        "name": "creapuretivity",
+        "discriminator": "1059",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/392291545270714389/9af1059ac53e96616dd7b55ed826965d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "630880086328868906",
+          "name": "cramos20",
+          "discriminator": 275,
+          "nickname": "Clarissa (@clarissaramosof)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "803825034211885056",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "804027123605962813",
+      "type": "Default",
+      "timestamp": "2021-01-27T16:36:44.369+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m basically using a trello board to take topics on week by week.",
+      "author": {
+        "id": "249248917529690112",
+        "name": "TaylorSwift",
+        "discriminator": "5112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249248917529690112/d80ef016547fca89e77b75d9e8fb4f48.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804027160301404171",
+      "type": "Default",
+      "timestamp": "2021-01-27T16:36:53.118+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sorta still feel out of my depth tho",
+      "author": {
+        "id": "249248917529690112",
+        "name": "TaylorSwift",
+        "discriminator": "5112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/249248917529690112/d80ef016547fca89e77b75d9e8fb4f48.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804031084818989106",
+      "type": "Reply",
+      "timestamp": "2021-01-27T16:52:28.796+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no, companies hire and pay their interns through the site and the site gets a cut",
+      "author": {
+        "id": "630880086328868906",
+        "name": "cramos20",
+        "discriminator": "0275",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/630880086328868906/9cd80af10c20c4b51724b782cbe3289e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "392291545270714389",
+          "name": "creapuretivity",
+          "discriminator": 1059,
+          "nickname": "toni",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "803885280565526549",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "804140656645111808",
+      "type": "Default",
+      "timestamp": "2021-01-28T00:07:52.755+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyone ever used algoexpert \uD83D\uDE44",
+      "author": {
+        "id": "460560861455450112",
+        "name": "hwbuk",
+        "discriminator": "1620",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/460560861455450112/22386fa1eb2c944047829a5b1a3f4847.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804141816991449108",
+      "type": "Reply",
+      "timestamp": "2021-01-28T00:12:29.403+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no, but I know of several people who have. It's meant for people who have a harder time with grasping the intuition behind the most common ds/algos. It's great if you think you need a bit more explaining than something like LeetCode's, InterviewCake's, or Code Signal's answers to problems. If you can already handle explanations to these problems, then the course will feel slow to you, and I wouldn't recommend to purchase it",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "460560861455450112",
+          "name": "hwbuk",
+          "discriminator": 1620,
+          "nickname": "hwbuk",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "804140656645111808",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "804142310774013994",
+      "type": "Reply",
+      "timestamp": "2021-01-28T00:14:27.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ah thank you v much!! - ive been applying to a mix of SWE roles and front end roles, where ive mainly focused on front end stuff for the past year, so feel behind on all ds/algos because i just havent put enough time into it, but now ive had two scheduled assessments online with some dream companies so i feel like i should get up to scratch just incase",
+      "author": {
+        "id": "460560861455450112",
+        "name": "hwbuk",
+        "discriminator": "1620",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/460560861455450112/22386fa1eb2c944047829a5b1a3f4847.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783724226619768912",
+          "name": "platocrat",
+          "discriminator": 4224,
+          "nickname": "platocrat",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "804141816991449108",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "804142757055692801",
+      "type": "Reply",
+      "timestamp": "2021-01-28T00:16:13.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "np. happy to answer more q's",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/2764.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "460560861455450112",
+          "name": "hwbuk",
+          "discriminator": 1620,
+          "nickname": "hwbuk",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "804142310774013994",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "804262893561839637",
+      "type": "Reply",
+      "timestamp": "2021-01-28T08:13:36.307+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "haha isn't this for like every interview though",
+      "author": {
+        "id": "739429338100924516",
+        "name": "haden",
+        "discriminator": "7264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739429338100924516/d070e3f343bad45ea5ffd9b55f65746c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "492016284285009922",
+          "name": "dh",
+          "discriminator": 7147,
+          "nickname": "@notdavidhuang",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "801997692782903307",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "804346541506166815",
+      "type": "Reply",
+      "timestamp": "2021-01-28T13:45:59.531+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "coinbase is a mission-focused company",
+      "author": {
+        "id": "492016284285009922",
+        "name": "dh",
+        "discriminator": "7147",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/492016284285009922/8be36664750162915d2735aa927527e8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f602.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "739429338100924516",
+          "name": "haden",
+          "discriminator": 7264,
+          "nickname": "Haden",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "804262893561839637",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "804414465071906877",
+      "type": "Reply",
+      "timestamp": "2021-01-28T18:15:53.771+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Haha isn't that like every company",
+      "author": {
+        "id": "739429338100924516",
+        "name": "haden",
+        "discriminator": "7264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739429338100924516/d070e3f343bad45ea5ffd9b55f65746c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "492016284285009922",
+          "name": "dh",
+          "discriminator": 7147,
+          "nickname": "@notdavidhuang",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "804346541506166815",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "804839222803431465",
+      "type": "Default",
+      "timestamp": "2021-01-29T22:23:43.906+00:00",
+      "timestampEdited": "2021-01-29T22:23:55.144+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Absolutely threw an Apple Hackerrank earlier - 1 LC easy, and 1 LC medium - only started LC last week \uD83D\uDE44",
+      "author": {
+        "id": "460560861455450112",
+        "name": "hwbuk",
+        "discriminator": "1620",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/460560861455450112/22386fa1eb2c944047829a5b1a3f4847.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806323193777487932",
+      "type": "Default",
+      "timestamp": "2021-02-03T00:40:30.157+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "just finished my frontend interview w/Coinbase. Apparently Coinbase is hiring \"like crazy\"",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806408465098080256",
+      "type": "Reply",
+      "timestamp": "2021-02-03T06:19:20.424+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that would make sense, they had a huge exodus last year from the culture clash",
+      "author": {
+        "id": "396135883687985153",
+        "name": "abalaji",
+        "discriminator": "0828",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396135883687985153/53fc57b0e3c7cb2c523d270917718fbc.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783724226619768912",
+          "name": "platocrat",
+          "discriminator": 4224,
+          "nickname": "platocrat",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "806323193777487932",
+        "channelId": "785975003615068190",
+        "guildId": "733975218711953519"
+      }
+    }
+  ],
+  "messageCount": 76
+}

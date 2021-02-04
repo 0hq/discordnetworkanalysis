@@ -1,0 +1,3703 @@
+{
+  "guild": {
+    "id": "733975218711953519",
+    "name": "gen z mafia",
+    "iconUrl": "https://cdn.discordapp.com/icons/733975218711953519/1defd2842cd55023e919903effda80b2.png"
+  },
+  "channel": {
+    "id": "747597666656976957",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDC65 | ▬▬▬▬ Public ▬▬▬▬ | \uD83D\uDC65",
+    "name": "prog-update-chat",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "747604594380767323",
+      "type": "Default",
+      "timestamp": "2020-08-24T23:53:45.122+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I haven't read much about Benjamin Franklin, but he looks like a good man :)) do you recommend any book on him?",
+      "author": {
+        "id": "665242300305244182",
+        "name": "flores",
+        "discriminator": "4162",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665242300305244182/fc82289474f9acef41cb8a83eb7c30a2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747606123808555102",
+      "type": "Default",
+      "timestamp": "2020-08-24T23:59:49.766+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi guys\n> This kind of remind's me of Ben Fanklin's Juntu club https://en.wikipedia.org/wiki/Junto_(club)\n@finn \n\" Among the original members were printers, surveyors, a cabinetmaker, a clerk, and a bartender. \" That's diverse! Nooo, they have all the questions asked in the club on wikipedia",
+      "author": {
+        "id": "665242300305244182",
+        "name": "flores",
+        "discriminator": "4162",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665242300305244182/fc82289474f9acef41cb8a83eb7c30a2.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Junto (club)",
+          "url": "https://en.wikipedia.org/wiki/Junto_(club)",
+          "timestamp": null,
+          "description": "The Junto, also known as the Leather Apron Club, was a club for mutual improvement established in 1727 by Benjamin Franklin in Philadelphia.  The Leather Apron Club's purpose was to debate questions of morals, politics, and natural philosophy, and to exchange knowledge of busi...",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "148188798499422209",
+          "name": "finn",
+          "discriminator": 1327,
+          "nickname": "finn",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "747606266624344155",
+      "type": "Default",
+      "timestamp": "2020-08-25T00:00:23.816+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Or 24 of them",
+      "author": {
+        "id": "665242300305244182",
+        "name": "flores",
+        "discriminator": "4162",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665242300305244182/fc82289474f9acef41cb8a83eb7c30a2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747606386548015195",
+      "type": "Default",
+      "timestamp": "2020-08-25T00:00:52.408+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'll take the autobiography, thanks!",
+      "author": {
+        "id": "665242300305244182",
+        "name": "flores",
+        "discriminator": "4162",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665242300305244182/fc82289474f9acef41cb8a83eb7c30a2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747606448980361247",
+      "type": "Default",
+      "timestamp": "2020-08-25T00:01:07.293+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Are you enrolled in Pioneer?",
+      "author": {
+        "id": "665242300305244182",
+        "name": "flores",
+        "discriminator": "4162",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665242300305244182/fc82289474f9acef41cb8a83eb7c30a2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747606572506677329",
+      "type": "Default",
+      "timestamp": "2020-08-25T00:01:36.744+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Or anything else that would require you to recap your week?",
+      "author": {
+        "id": "665242300305244182",
+        "name": "flores",
+        "discriminator": "4162",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665242300305244182/fc82289474f9acef41cb8a83eb7c30a2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747608369208098928",
+      "type": "Default",
+      "timestamp": "2020-08-25T00:08:45.111+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "interesting, haven't listened to any podcast in a while",
+      "author": {
+        "id": "665242300305244182",
+        "name": "flores",
+        "discriminator": "4162",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665242300305244182/fc82289474f9acef41cb8a83eb7c30a2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747608579367895200",
+      "type": "Default",
+      "timestamp": "2020-08-25T00:09:35.217+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm going to sleep, nice meeting you @finn",
+      "author": {
+        "id": "665242300305244182",
+        "name": "flores",
+        "discriminator": "4162",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665242300305244182/fc82289474f9acef41cb8a83eb7c30a2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "148188798499422209",
+          "name": "finn",
+          "discriminator": 1327,
+          "nickname": "finn",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "747684197128208405",
+      "type": "Default",
+      "timestamp": "2020-08-25T05:10:03.896+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Digital Junto Club is one of those ideas simmering in the back of my mind for a while",
+      "author": {
+        "id": "405441120844251137",
+        "name": "tasty.jose",
+        "discriminator": "6640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405441120844251137/d8da0c5be252a8fca811f15aedc9df9b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f525.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "747780240398483566",
+      "type": "Default",
+      "timestamp": "2020-08-25T11:31:42.396+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@tasty.jose @finn what conditions would need to be met in order to establish a digital junto club lol",
+      "author": {
+        "id": "172861243579826176",
+        "name": "suds",
+        "discriminator": "4763",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172861243579826176/d4ea981e210d64567f3a8e644c015c2f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "148188798499422209",
+          "name": "finn",
+          "discriminator": 1327,
+          "nickname": "finn",
+          "isBot": false
+        },
+        {
+          "id": "405441120844251137",
+          "name": "tasty.jose",
+          "discriminator": 6640,
+          "nickname": "phatho",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "747798291709689938",
+      "type": "Default",
+      "timestamp": "2020-08-25T12:43:26.164+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fuck that's a good question, the tag line answer is \"a group of individuals from different backgrounds in pursuit of truth and self improvement\"",
+      "author": {
+        "id": "405441120844251137",
+        "name": "tasty.jose",
+        "discriminator": "6640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405441120844251137/d8da0c5be252a8fca811f15aedc9df9b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747799854163689482",
+      "type": "Default",
+      "timestamp": "2020-08-25T12:49:38.682+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think a book club or some platform to debate topics is a critical component but the server's maybe too big for that now.",
+      "author": {
+        "id": "405441120844251137",
+        "name": "tasty.jose",
+        "discriminator": "6640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405441120844251137/d8da0c5be252a8fca811f15aedc9df9b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747800817746313259",
+      "type": "Default",
+      "timestamp": "2020-08-25T12:53:28.418+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A tangential idea is cocktails and science (i dont know if its a thing around the world) but basically get together over drinks and someone presents their research/thing their working.",
+      "author": {
+        "id": "405441120844251137",
+        "name": "tasty.jose",
+        "discriminator": "6640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405441120844251137/d8da0c5be252a8fca811f15aedc9df9b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747803872113721425",
+      "type": "Default",
+      "timestamp": "2020-08-25T13:05:36.636+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Co-learning is another aspect \"Me and X are gonna learn about WebRTC this month\" you share resources and keep each other accountable",
+      "author": {
+        "id": "405441120844251137",
+        "name": "tasty.jose",
+        "discriminator": "6640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405441120844251137/d8da0c5be252a8fca811f15aedc9df9b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747806778934165504",
+      "type": "Default",
+      "timestamp": "2020-08-25T13:17:09.676+00:00",
+      "timestampEdited": "2020-08-25T13:17:22.112+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@tasty.jose i really like that \n\n@\uD83D\uDE42\uD83D\uDE42 *surprise* an exclusive, invite only community. we could never.",
+      "author": {
+        "id": "172861243579826176",
+        "name": "suds",
+        "discriminator": "4763",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172861243579826176/d4ea981e210d64567f3a8e644c015c2f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "405441120844251137",
+          "name": "tasty.jose",
+          "discriminator": 6640,
+          "nickname": "phatho",
+          "isBot": false
+        },
+        {
+          "id": "698123297468055557",
+          "name": "\uD83D\uDE42\uD83D\uDE42",
+          "discriminator": 2867,
+          "nickname": "\uD83D\uDE42\uD83D\uDE42",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "747808656493641840",
+      "type": "Default",
+      "timestamp": "2020-08-25T13:24:37.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@\uD83D\uDE42\uD83D\uDE42 i just don't wanna get dunked on by that part of the twitter-verse again ngl \uD83D\uDE22",
+      "author": {
+        "id": "172861243579826176",
+        "name": "suds",
+        "discriminator": "4763",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172861243579826176/d4ea981e210d64567f3a8e644c015c2f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "698123297468055557",
+          "name": "\uD83D\uDE42\uD83D\uDE42",
+          "discriminator": 2867,
+          "nickname": "\uD83D\uDE42\uD83D\uDE42",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "747815733077213236",
+      "type": "Default",
+      "timestamp": "2020-08-25T13:52:44.51+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think you could form that within this larger group (or even several within the larger group, each with different ends). Create a survey and gather interests, organize a group, and then set a regular meeting times. Would be a great forum for healthy debate/conversation outside of the larger twittersphere",
+      "author": {
+        "id": "700357980943548518",
+        "name": "benjlaufer",
+        "discriminator": "3889",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/700357980943548518/ec1cc09f07e3200e8e0bd80112cd3fd9.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDD25",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f525.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "747826444536774686",
+      "type": "Default",
+      "timestamp": "2020-08-25T14:35:18.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A digital junto club has a lot of benefits too. For one, you can have a more interesting and diverse group, but it’s difficult to ensure quality of members - maybe solved by having a lowish bar for entry but a high bar for staying",
+      "author": {
+        "id": "747270107021180968",
+        "name": "abhishek",
+        "discriminator": "5833",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/747270107021180968/9517d22a0373c2694d94cfb3fd31f558.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747827196449521745",
+      "type": "Default",
+      "timestamp": "2020-08-25T14:38:17.591+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The other big benefit is being able to do things asynchronously. Instead of Benjamin Franklin and crew working through hard problems of philosophy and business in 2 hours chunks every week, they could’ve talked through things more continuously as ideas came up",
+      "author": {
+        "id": "747270107021180968",
+        "name": "abhishek",
+        "discriminator": "5833",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/747270107021180968/9517d22a0373c2694d94cfb3fd31f558.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747828217209028630",
+      "type": "Default",
+      "timestamp": "2020-08-25T14:42:20.959+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Inspired by this https://en.wikipedia.org/wiki/Polymath_Project",
+      "author": {
+        "id": "747270107021180968",
+        "name": "abhishek",
+        "discriminator": "5833",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/747270107021180968/9517d22a0373c2694d94cfb3fd31f558.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Polymath Project",
+          "url": "https://en.wikipedia.org/wiki/Polymath_Project",
+          "timestamp": null,
+          "description": "The Polymath Project is a collaboration among mathematicians to solve important and difficult mathematical problems by coordinating many mathematicians to communicate with each other on finding the best route to the solution. The project began in January 2009 on Timothy Gowers...",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747846516022050958",
+      "type": "Default",
+      "timestamp": "2020-08-25T15:55:03.736+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ive become pretty close w/ everyone that ive drank with and was a degenerate with",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "734410089368387594",
+            "name": "emoji_6",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/734410089368387594.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "747846518773514341",
+      "type": "Default",
+      "timestamp": "2020-08-25T15:55:04.392+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747846562746466304",
+      "type": "Default",
+      "timestamp": "2020-08-25T15:55:14.876+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we should do that",
+      "author": {
+        "id": "124016824202297344",
+        "name": "jzlegion",
+        "discriminator": "4444",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/124016824202297344/a_0b9751c77d9ba0d46354062327d5e4f5.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747850364081930240",
+      "type": "Default",
+      "timestamp": "2020-08-25T16:10:21.185+00:00",
+      "timestampEdited": "2020-08-25T16:10:42.471+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think the \"Lex + AI Podcast Discord Server\" was able to get a variant of this working. Ppl just hop on VC at scheduled time and talk about life/debate.",
+      "author": {
+        "id": "676948411966291971",
+        "name": "ifantum",
+        "discriminator": "4181",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/676948411966291971/99d0750280078fbcb7d120392558b2c2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747852445761273948",
+      "type": "Default",
+      "timestamp": "2020-08-25T16:18:37.496+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gzm \"debates\" devolve into yev steam rolling everyone",
+      "author": {
+        "id": "172861243579826176",
+        "name": "suds",
+        "discriminator": "4763",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172861243579826176/d4ea981e210d64567f3a8e644c015c2f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD23",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f923.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "747918586554613830",
+      "type": "Default",
+      "timestamp": "2020-08-25T20:41:26.69+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I have thought about a digital junto club for a long time. In my mind, the execution always came down to two elements:\n1) high quality people - fundamentally a junto club is just a group of people who you want to talk to, who you respect, and can trust. \n2) a shared experience, purpose, or mission - this is pretty trite group dynamics stuff, but I always felt bringing together 8 strangers over zoom could get very awkward without some agenda or structure ahead of time.\n\nI think we would need to decide is it more of a mastermind group, a group for accountability, or more philosophical / pursuit of truth oriented. It could potentially be both, but they have different requirements and design considerations",
+      "author": {
+        "id": "738584307425214464",
+        "name": "benschecter",
+        "discriminator": "7542",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "747920154947616788",
+      "type": "Default",
+      "timestamp": "2020-08-25T20:47:40.624+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Run into somewhat similar lines of thought patterns, but I don't think \"we would need to decide...\" is the most conducive framework. \nimo It would look more like you and a few people you get on with having a private vc over shared interests than the mods creating a #junto channel with a mission statement",
+      "author": {
+        "id": "405441120844251137",
+        "name": "tasty.jose",
+        "discriminator": "6640",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/405441120844251137/d8da0c5be252a8fca811f15aedc9df9b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "748010671500820540",
+      "type": "Default",
+      "timestamp": "2020-08-26T02:47:21.452+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@benjlaufer @Jack Gecawich thoughts?",
+      "author": {
+        "id": "172861243579826176",
+        "name": "suds",
+        "discriminator": "4763",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172861243579826176/d4ea981e210d64567f3a8e644c015c2f.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "345012991043043329",
+          "name": "Jack Gecawich",
+          "discriminator": 1920,
+          "nickname": "Jack Gecawich",
+          "isBot": false
+        },
+        {
+          "id": "700357980943548518",
+          "name": "benjlaufer",
+          "discriminator": 3889,
+          "nickname": "benjlaufer",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "748182168542380163",
+      "type": "Default",
+      "timestamp": "2020-08-26T14:08:49.533+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think it can function similarly to how GZM discord was established, which was that it was organic and adaptable, but also deliberate. There should be some filter (defined by the early members) and a set of abstract goals, but the end doesn’t need to be clear, as the group’s members will overtime define that. \n\nI do think that having a person or two acting as the guide/curator is good. In the same way that @suds 1. serves to provide some sense of structure (ie. fireside chats) to an otherwise relatively unstructured community and 2. Thinks about the upkeep, maintenance, and values of the group as things evolve, I think that a junto club would benefit from someone having a similar role.",
+      "author": {
+        "id": "700357980943548518",
+        "name": "benjlaufer",
+        "discriminator": "3889",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/700357980943548518/ec1cc09f07e3200e8e0bd80112cd3fd9.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "740700998053396491",
+            "name": "simp",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/740700998053396491.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4F\uD83C\uDFFC",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44f-1f3fc.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "172861243579826176",
+          "name": "suds",
+          "discriminator": 4763,
+          "nickname": "#suds",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "748300133501763644",
+      "type": "Default",
+      "timestamp": "2020-08-26T21:57:34.571+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi @garrettscott that's such a well-written update! Are you a Pioneer? With respect to the question, I'd ask if you can build a miniature version of the mule before building the actual mule. I'd want to say that I don't know anything about mechanical engineering and building hardware components so sorry if that's an ignorant question.",
+      "author": {
+        "id": "665242300305244182",
+        "name": "flores",
+        "discriminator": "4162",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665242300305244182/fc82289474f9acef41cb8a83eb7c30a2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "297505829265997825",
+          "name": "garrettscott",
+          "discriminator": 5690,
+          "nickname": "garrettscott",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "748360901048008734",
+      "type": "Default",
+      "timestamp": "2020-08-27T01:59:02.683+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks @flores! Ya! We’re #8 on the leaderboard, but haven’t won yet. Great question! We are actually producing the full scale model and will start testing it on a test track in two weeks!",
+      "author": {
+        "id": "297505829265997825",
+        "name": "garrettscott",
+        "discriminator": "5690",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/297505829265997825/8d5b2075f2814d218026a63d6ea91e86.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD29",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f929.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "665242300305244182",
+          "name": "flores",
+          "discriminator": 4162,
+          "nickname": "flores",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "748644103700611193",
+      "type": "Default",
+      "timestamp": "2020-08-27T20:44:23.457+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> @suds \n> idea is that you use the power of opportunity/access to deliberately form a high-trust & mutually beneficial society that persists long after ppl no longer need the access, this discord might converge on that anyway\n@\uD83D\uDE42\uD83D\uDE42  @tasty.jose @finn just saw this! i’ve attempted to make something like (not digital) this at least two times now, and would have attempted again had the quarantine season not started",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "172861243579826176",
+          "name": "suds",
+          "discriminator": 4763,
+          "nickname": "#suds",
+          "isBot": false
+        },
+        {
+          "id": "405441120844251137",
+          "name": "tasty.jose",
+          "discriminator": 6640,
+          "nickname": "phatho",
+          "isBot": false
+        },
+        {
+          "id": "698123297468055557",
+          "name": "\uD83D\uDE42\uD83D\uDE42",
+          "discriminator": 2867,
+          "nickname": "\uD83D\uDE42\uD83D\uDE42",
+          "isBot": false
+        },
+        {
+          "id": "148188798499422209",
+          "name": "finn",
+          "discriminator": 1327,
+          "nickname": "finn",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "748644156158640248",
+      "type": "Default",
+      "timestamp": "2020-08-27T20:44:35.964+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think there’s loads of value in focused communities",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748644387260596334",
+      "type": "Default",
+      "timestamp": "2020-08-27T20:45:31.063+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and furthermore, in-person groups are just much easier to establish and have people care about than digital ones",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748645353485762568",
+      "type": "Default",
+      "timestamp": "2020-08-27T20:49:21.429+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my first such attempt was a LessWrong/SlateStarCodex reading club",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748645390525530224",
+      "type": "Default",
+      "timestamp": "2020-08-27T20:49:30.26+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that was nice",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748645696919306310",
+      "type": "Default",
+      "timestamp": "2020-08-27T20:50:43.31+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we hung out in a bunch of day care-looking offices and just talked like we haven’t been able to (not a lot of similar people here)",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748645920211730483",
+      "type": "Default",
+      "timestamp": "2020-08-27T20:51:36.547+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the group got dissolved when people’s commitments brought us too far from one another, but I was able to salvage some of our momentum to help our local Effective Altruism chapter get a foothold",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748646269366567042",
+      "type": "Default",
+      "timestamp": "2020-08-27T20:52:59.792+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my second group (which we semi-ironically call The Vienna Circle) is connected to my university, because we have a very colorful club culture there",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748647090292523019",
+      "type": "Default",
+      "timestamp": "2020-08-27T20:56:15.516+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we talk about the limits of scientific knowledge, the implications of information theory & thermodynamics being described by the same equations, foundations of math, diagrammatic reasoning, etc",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748648750964015115",
+      "type": "Default",
+      "timestamp": "2020-08-27T21:02:51.451+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but yeah, honestly the pace of digital groups can be *really* slow at times especially if you aren’t able to meet regularly due to wildly varying schedules",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748767602687606795",
+      "type": "Default",
+      "timestamp": "2020-08-28T04:55:07.91+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so here's a pilot idea: what if we schedule like weekly VC here and each day 1 person gets to \"host\" a discussion they like on a common interest. \n\nsay like a small 4 people group. \n\nthese can expand in # of groups over time but same ish size, and people can move around b/w groups",
+      "author": {
+        "id": "556686510687256576",
+        "name": "defaultkid",
+        "discriminator": "9112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/556686510687256576/177064054eacce779694e7549ef35024.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748810818136571915",
+      "type": "Default",
+      "timestamp": "2020-08-28T07:46:51.276+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i like what ii has accomplished though",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748810904031854654",
+      "type": "Default",
+      "timestamp": "2020-08-28T07:47:11.755+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "honestly i have no idea how anna was able to get so many people together",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748811359957024790",
+      "type": "Default",
+      "timestamp": "2020-08-28T07:49:00.456+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i remember reading her manifesto and it not resonating with me, but clearly that wasn’t the case for a lot of other people",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748811666887802960",
+      "type": "Default",
+      "timestamp": "2020-08-28T07:50:13.634+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@defaultkid i’d like to hear how you’ll flesh this out",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "556686510687256576",
+          "name": "defaultkid",
+          "discriminator": 9112,
+          "nickname": "anushk",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "748826760073969744",
+      "type": "Default",
+      "timestamp": "2020-08-28T08:50:12.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so i guess i’m coming from my experience doing couple of grad classes and at research labs\n\nthey try emulate socio intellectual community by letting people get in groups of shared interest and either individuals or groups (depending on class size) host deep dive discussions (~45 mins) on papers of interest\n\nthey share a theme but otherwise open.\n\npeople can read ahead on the topic and submit questions to address, like an agenda for the host, and that can semi structurally guide discussions and keep everyone involved.\n\nsmall groups so that everyone gets a chance.",
+      "author": {
+        "id": "556686510687256576",
+        "name": "defaultkid",
+        "discriminator": "9112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/556686510687256576/177064054eacce779694e7549ef35024.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "748826996322074676",
+      "type": "Default",
+      "timestamp": "2020-08-28T08:51:08.456+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "we can do something similar but it doesn’t have to academic papers. it could be more Junto, world is huge, there’s knowledge in everything",
+      "author": {
+        "id": "556686510687256576",
+        "name": "defaultkid",
+        "discriminator": "9112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/556686510687256576/177064054eacce779694e7549ef35024.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "749576123158888458",
+      "type": "Default",
+      "timestamp": "2020-08-30T10:27:54.212+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@ferruccio yup yup happy to see you here as well",
+      "author": {
+        "id": "665242300305244182",
+        "name": "flores",
+        "discriminator": "4162",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/665242300305244182/fc82289474f9acef41cb8a83eb7c30a2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF49",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f349.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "449225970310971392",
+          "name": "ferruccio",
+          "discriminator": 9831,
+          "nickname": "ferruccio",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "751387639206248570",
+      "type": "Default",
+      "timestamp": "2020-09-04T10:26:13.294+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@defaultkid slr my isp sucks",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "556686510687256576",
+          "name": "defaultkid",
+          "discriminator": 9112,
+          "nickname": "anushk",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "751387994887421972",
+      "type": "Default",
+      "timestamp": "2020-09-04T10:27:38.095+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh we also have that in our lab back in uni",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "751388236252708915",
+      "type": "Default",
+      "timestamp": "2020-09-04T10:28:35.641+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "trouble was, no one did the reading beforehand, so we had to reserve 15 mins of every meeting as a reading period",
+      "author": {
+        "id": "384857897126985729",
+        "name": "hxcloud99",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384857897126985729/91c2edcec27504a69feded7734378e14.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "751431601761812550",
+      "type": "Default",
+      "timestamp": "2020-09-04T13:20:54.784+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hahaha well that’s the cool thing you dont have to have to read i guess if you can consume good YT vids or just talk about topic of interests like a 21st century kid till neuralink makes that obsolete too",
+      "author": {
+        "id": "556686510687256576",
+        "name": "defaultkid",
+        "discriminator": "9112",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/556686510687256576/177064054eacce779694e7549ef35024.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "752414648040423427",
+      "type": "Default",
+      "timestamp": "2020-09-07T06:27:11.281+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2 deals subscribed. 1 to go tomorrow. Good week everything running smoothly. Hopefully this deal doesn’t oversubscribed too much \uD83E\uDD70. Save some firepower for tomorrow.",
+      "author": {
+        "id": "121959716736860160",
+        "name": "PressTwice",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/121959716736860160/313d77b6c91dc07179d8d938929f83ff.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD75",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f975.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDF74",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f374.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "758437864563277904",
+      "type": "Default",
+      "timestamp": "2020-09-23T21:21:18.006+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@jazilzaim Half of our investments are US based. We invest currently in Aus, NZ, UK and US. \n\nMost of our deals tie back to Australia someway if not from founders the people that intro us to them or coinvestors",
+      "author": {
+        "id": "121959716736860160",
+        "name": "PressTwice",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/121959716736860160/313d77b6c91dc07179d8d938929f83ff.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "607109448518991922",
+          "name": "jazilzaim",
+          "discriminator": 3976,
+          "nickname": "jazilzaim",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "758443379389759508",
+      "type": "Default",
+      "timestamp": "2020-09-23T21:43:12.843+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yo @PressTwice , I see TEN13 invested in Workplace Arcade, that's awesome, I know Dave, we've been in the same 500 Startups batch a few years back",
+      "author": {
+        "id": "699355146462691418",
+        "name": "bolek",
+        "discriminator": "8194",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699355146462691418/54b04721d1c76724fc9c286f5ad0da36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "121959716736860160",
+          "name": "PressTwice",
+          "discriminator": 1,
+          "nickname": "Doug - DougAtLast on Twitter",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "758444283002486784",
+      "type": "Default",
+      "timestamp": "2020-09-23T21:46:48.281+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Haha very cool! @bolek. I’m not even sure we have meant Dave in person yet, thanks COVID. The investment happened like a couple weeks before I joined.",
+      "author": {
+        "id": "121959716736860160",
+        "name": "PressTwice",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/121959716736860160/313d77b6c91dc07179d8d938929f83ff.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "699355146462691418",
+          "name": "bolek",
+          "discriminator": 8194,
+          "nickname": "bolek",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "758444342603677696",
+      "type": "Default",
+      "timestamp": "2020-09-23T21:47:02.491+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We’ve had some solid 500 investments chipper cash as well",
+      "author": {
+        "id": "121959716736860160",
+        "name": "PressTwice",
+        "discriminator": "0001",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/121959716736860160/313d77b6c91dc07179d8d938929f83ff.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "758445289316286494",
+      "type": "Default",
+      "timestamp": "2020-09-23T21:50:48.205+00:00",
+      "timestampEdited": "2020-09-23T21:50:56.172+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nice, looks good! Yeah same, we haven't met in person most of the founders which we invested in due to covid as well... What a world we live in \uD83D\uDC81‍♂️",
+      "author": {
+        "id": "699355146462691418",
+        "name": "bolek",
+        "discriminator": "8194",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699355146462691418/54b04721d1c76724fc9c286f5ad0da36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE06",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f606.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "781922443613831208",
+      "type": "Default",
+      "timestamp": "2020-11-27T16:40:37.974+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@acid_kid I'm just doing it to see how effective I can get it working. It's for my final project in my deep learning class, but I could see myself trying to use it for device control or something like a hand prosthesis",
+      "author": {
+        "id": "134419906614657024",
+        "name": "Vortex",
+        "discriminator": "8913",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/134419906614657024/78631d6c5119933e6284ad6763163b06.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "780390887971880961",
+          "name": "acid_kid",
+          "discriminator": 8399,
+          "nickname": "acid_kid",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "781923126987718686",
+      "type": "Reply",
+      "timestamp": "2020-11-27T16:43:20.903+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "got any progres published yet? would love to see",
+      "author": {
+        "id": "780390887971880961",
+        "name": "acid_kid",
+        "discriminator": "8399",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/780390887971880961/37d205a407222779da19d11e6246fadd.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "134419906614657024",
+          "name": "Vortex",
+          "discriminator": 8913,
+          "nickname": "Harris",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "781922443613831208",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "781923513791021059",
+      "type": "Default",
+      "timestamp": "2020-11-27T16:44:53.124+00:00",
+      "timestampEdited": "2020-11-27T16:47:52.21+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not yet. Still working on establishing the dataset right now, but I'll definitely post more once I get further. Planning on making a video about it as well. \uD83D\uDE03",
+      "author": {
+        "id": "134419906614657024",
+        "name": "Vortex",
+        "discriminator": "8913",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/134419906614657024/78631d6c5119933e6284ad6763163b06.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782211306924671036",
+      "type": "Default",
+      "timestamp": "2020-11-28T11:48:28.354+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Cherry Red Mustang this is smart",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "141799453916004353",
+          "name": "Cherry Red Mustang",
+          "discriminator": 3829,
+          "nickname": "Fritz",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "782211442505154560",
+      "type": "Default",
+      "timestamp": "2020-11-28T11:49:00.679+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i'd say put a mvp pic on the landing",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782211514026950676",
+      "type": "Default",
+      "timestamp": "2020-11-28T11:49:17.731+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also what sub niche do you target in the discord bot maker segment?",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782315314108825641",
+      "type": "Default",
+      "timestamp": "2020-11-28T18:41:45.599+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@cor Good feedback - already got that planned. Gonna replace the \"code\" picture. MVP isn't ready for screenshots yet.\nI don't plan on targeting a sub-niche at all. There aren't many discord bot makers out there, and none of the ones I've seen are marketed well enough for me to need to niche down.",
+      "author": {
+        "id": "141799453916004353",
+        "name": "Cherry Red Mustang",
+        "discriminator": "3829",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141799453916004353/27c20f7a7a9951b31016dcfdfd4f9540.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "781113808638050304",
+          "name": "cor",
+          "discriminator": 7039,
+          "nickname": "cor",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "782318089621864468",
+      "type": "Default",
+      "timestamp": "2020-11-28T18:52:47.333+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Cherry Red Mustang do a 2m figma mvp thn",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "141799453916004353",
+          "name": "Cherry Red Mustang",
+          "discriminator": 3829,
+          "nickname": "Fritz",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "782318277178687548",
+      "type": "Default",
+      "timestamp": "2020-11-28T18:53:32.05+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you mean it's for bots makers or server owners?",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782320878053490738",
+      "type": "Default",
+      "timestamp": "2020-11-28T19:03:52.147+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes",
+      "author": {
+        "id": "141799453916004353",
+        "name": "Cherry Red Mustang",
+        "discriminator": "3829",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141799453916004353/27c20f7a7a9951b31016dcfdfd4f9540.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782320981409923092",
+      "type": "Default",
+      "timestamp": "2020-11-28T19:04:16.789+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not gonna bother with Figma - I'd have to learn a new tool and I'm not far from a complete frontend",
+      "author": {
+        "id": "141799453916004353",
+        "name": "Cherry Red Mustang",
+        "discriminator": "3829",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/141799453916004353/27c20f7a7a9951b31016dcfdfd4f9540.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782324378658144286",
+      "type": "Default",
+      "timestamp": "2020-11-28T19:17:46.756+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "paintNET",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782711303322992671",
+      "type": "Default",
+      "timestamp": "2020-11-29T20:55:16.785+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "New website and we’ve opened up a waitlist! neurophate.com",
+      "author": {
+        "id": "664560292000170015",
+        "name": "Ishaan",
+        "discriminator": "2108",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664560292000170015/c8e49e8fd6804bbfa4f73289989ae8f6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782715637158903869",
+      "type": "Default",
+      "timestamp": "2020-11-29T21:12:30.052+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i adore this",
+      "author": {
+        "id": "159028037281644544",
+        "name": "kosi",
+        "discriminator": "9118",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159028037281644544/48102a6072513cd302fe15f27074d19d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782715659448221707",
+      "type": "Default",
+      "timestamp": "2020-11-29T21:12:35.366+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159028037281644544",
+        "name": "kosi",
+        "discriminator": "9118",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159028037281644544/48102a6072513cd302fe15f27074d19d.png"
+      },
+      "attachments": [
+        {
+          "id": "782715654562119690",
+          "url": "https://cdn.discordapp.com/attachments/747597666656976957/782715654562119690/Screen_Recording_2020-11-29_at_22.11.19.mov",
+          "fileName": "Screen_Recording_2020-11-29_at_22.11.19.mov",
+          "fileSizeBytes": 15715575
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782716116648722502",
+      "type": "Default",
+      "timestamp": "2020-11-29T21:14:24.371+00:00",
+      "timestampEdited": "2020-11-29T21:16:29.869+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "did a similar product for a summer bootcamp, where we had access to all inbound/outbound mail of a certain email client",
+      "author": {
+        "id": "159028037281644544",
+        "name": "kosi",
+        "discriminator": "9118",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159028037281644544/48102a6072513cd302fe15f27074d19d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782716590739292191",
+      "type": "Default",
+      "timestamp": "2020-11-29T21:16:17.403+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "imagine yours, but all of the charts were for different analysis of the communication. semantics, frequency, avg response time, etc. Then you had different scopes. Company2Company, TeamMember2TeamMember. Ended up winning the competition, was really cool",
+      "author": {
+        "id": "159028037281644544",
+        "name": "kosi",
+        "discriminator": "9118",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159028037281644544/48102a6072513cd302fe15f27074d19d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782721253257117696",
+      "type": "Reply",
+      "timestamp": "2020-11-29T21:34:49.034+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thank you! literally had to write 0 code. All done in webflow \uD83D\uDE42",
+      "author": {
+        "id": "664560292000170015",
+        "name": "Ishaan",
+        "discriminator": "2108",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664560292000170015/c8e49e8fd6804bbfa4f73289989ae8f6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "159028037281644544",
+          "name": "kosi",
+          "discriminator": 9118,
+          "nickname": "kosi \uD83D\uDCC0",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "782715659448221707",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "782721495532175361",
+      "type": "Default",
+      "timestamp": "2020-11-29T21:35:46.797+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Super cool, yeah right now we offer super broad analytics but we also offer automated data science dashboards where you can dig deeper into specific tools such as Mailchimp or Sendinblue.",
+      "author": {
+        "id": "664560292000170015",
+        "name": "Ishaan",
+        "discriminator": "2108",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664560292000170015/c8e49e8fd6804bbfa4f73289989ae8f6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782722730167631882",
+      "type": "Reply",
+      "timestamp": "2020-11-29T21:40:41.157+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how many hours of work?",
+      "author": {
+        "id": "159028037281644544",
+        "name": "kosi",
+        "discriminator": "9118",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159028037281644544/48102a6072513cd302fe15f27074d19d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "664560292000170015",
+          "name": "Ishaan",
+          "discriminator": 2108,
+          "nickname": "Ishaan",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "782721253257117696",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "782724706376744960",
+      "type": "Reply",
+      "timestamp": "2020-11-29T21:48:32.322+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not bad - maybe 5 or 6. Responsiveness on webflow is super annoying so it took like an extra 2 hours to arrange it on mobile.",
+      "author": {
+        "id": "664560292000170015",
+        "name": "Ishaan",
+        "discriminator": "2108",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664560292000170015/c8e49e8fd6804bbfa4f73289989ae8f6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "159028037281644544",
+          "name": "kosi",
+          "discriminator": 9118,
+          "nickname": "kosi \uD83D\uDCC0",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "782722730167631882",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "782724935243661335",
+      "type": "Default",
+      "timestamp": "2020-11-29T21:49:26.888+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i need to get into webflow \uD83D\uDC40 thats dope man",
+      "author": {
+        "id": "159028037281644544",
+        "name": "kosi",
+        "discriminator": "9118",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159028037281644544/48102a6072513cd302fe15f27074d19d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782728285519609886",
+      "type": "Reply",
+      "timestamp": "2020-11-29T22:02:45.656+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeahhh, little bit of a learning curve but it’s so much better than writing code. animations and all that without code.",
+      "author": {
+        "id": "664560292000170015",
+        "name": "Ishaan",
+        "discriminator": "2108",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664560292000170015/c8e49e8fd6804bbfa4f73289989ae8f6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "159028037281644544",
+          "name": "kosi",
+          "discriminator": 9118,
+          "nickname": "kosi \uD83D\uDCC0",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "782724935243661335",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "782728379953971200",
+      "type": "Default",
+      "timestamp": "2020-11-29T22:03:08.171+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "webflow is sick",
+      "author": {
+        "id": "262043288628887553",
+        "name": "CRAAAaaaiiggg",
+        "discriminator": "9120",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/262043288628887553/ea8dda7f88d10710d2102367afc1241e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782728413517316136",
+      "type": "Default",
+      "timestamp": "2020-11-29T22:03:16.173+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "made my portfolio website with it in a weekend]",
+      "author": {
+        "id": "262043288628887553",
+        "name": "CRAAAaaaiiggg",
+        "discriminator": "9120",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/262043288628887553/ea8dda7f88d10710d2102367afc1241e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782728539552088064",
+      "type": "Default",
+      "timestamp": "2020-11-29T22:03:46.222+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can i get s link to the porfolio pg",
+      "author": {
+        "id": "159028037281644544",
+        "name": "kosi",
+        "discriminator": "9118",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159028037281644544/48102a6072513cd302fe15f27074d19d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782729393189027881",
+      "type": "Default",
+      "timestamp": "2020-11-29T22:07:09.745+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it’s pretty expensive tho, only downside",
+      "author": {
+        "id": "664560292000170015",
+        "name": "Ishaan",
+        "discriminator": "2108",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664560292000170015/c8e49e8fd6804bbfa4f73289989ae8f6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782729636806656092",
+      "type": "Default",
+      "timestamp": "2020-11-29T22:08:07.828+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so its like time saved vs money spent",
+      "author": {
+        "id": "159028037281644544",
+        "name": "kosi",
+        "discriminator": "9118",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159028037281644544/48102a6072513cd302fe15f27074d19d.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782729714523176980",
+      "type": "Default",
+      "timestamp": "2020-11-29T22:08:26.357+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pretty much but like hella time",
+      "author": {
+        "id": "664560292000170015",
+        "name": "Ishaan",
+        "discriminator": "2108",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664560292000170015/c8e49e8fd6804bbfa4f73289989ae8f6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782729730792095764",
+      "type": "Default",
+      "timestamp": "2020-11-29T22:08:30.236+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it’s definitely worth it",
+      "author": {
+        "id": "664560292000170015",
+        "name": "Ishaan",
+        "discriminator": "2108",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664560292000170015/c8e49e8fd6804bbfa4f73289989ae8f6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782739621112053800",
+      "type": "Default",
+      "timestamp": "2020-11-29T22:47:48.272+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I definitely gotta learn webflow, heard it's the best from a design perspective as well",
+      "author": {
+        "id": "728072904142487584",
+        "name": "Naren Gaurav",
+        "discriminator": "6481",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/728072904142487584/a7512e64b2a5732d8b3d76fae4927e68.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782739721617014834",
+      "type": "Default",
+      "timestamp": "2020-11-29T22:48:12.234+00:00",
+      "timestampEdited": "2020-11-29T22:48:21.808+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "got so excited by the figma bubble collab only for me to try it and realize its absolute trash",
+      "author": {
+        "id": "728072904142487584",
+        "name": "Naren Gaurav",
+        "discriminator": "6481",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/728072904142487584/a7512e64b2a5732d8b3d76fae4927e68.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782747016753184768",
+      "type": "Default",
+      "timestamp": "2020-11-29T23:17:11.53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "don’t hate but i’m not a bubble fan",
+      "author": {
+        "id": "664560292000170015",
+        "name": "Ishaan",
+        "discriminator": "2108",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/664560292000170015/c8e49e8fd6804bbfa4f73289989ae8f6.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782906292288487484",
+      "type": "Default",
+      "timestamp": "2020-11-30T09:50:05.777+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Same animation on scale.ai",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782906351387017227",
+      "type": "Default",
+      "timestamp": "2020-11-30T09:50:19.867+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Check the data sets section",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "782906400749256746",
+      "type": "Default",
+      "timestamp": "2020-11-30T09:50:31.636+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@kosi",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE46\uD83C\uDFFC‍♂️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f646-1f3fc-200d-2642.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "159028037281644544",
+          "name": "kosi",
+          "discriminator": 9118,
+          "nickname": "kosi \uD83D\uDCC0",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "785535730314772521",
+      "type": "Default",
+      "timestamp": "2020-12-07T15:58:32.655+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Dreams Hey man, congrats on your sale in #progress-updates. Out of curiosity, what are you selling?",
+      "author": {
+        "id": "539581928387510273",
+        "name": "Influxes",
+        "discriminator": "0603",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539581928387510273/60ff5f472584761ac30de113352df522.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "696895228522659894",
+          "name": "Dreams",
+          "discriminator": 398,
+          "nickname": "Dreams",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "785561090263351357",
+      "type": "Reply",
+      "timestamp": "2020-12-07T17:39:18.938+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Online Math tutoring! We offer “primary source” tutoring, directing the students curriculum (rather than just helping them with a specific class)",
+      "author": {
+        "id": "696895228522659894",
+        "name": "Dreams",
+        "discriminator": "0398",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/696895228522659894/c036b6cb152de19e69c3fcd2fff9c7d3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "539581928387510273",
+          "name": "Influxes",
+          "discriminator": 603,
+          "nickname": "Influxes",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "785535730314772521",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "785562391051632723",
+      "type": "Reply",
+      "timestamp": "2020-12-07T17:44:29.07+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What do you mean by “primary source” tutoring?",
+      "author": {
+        "id": "539581928387510273",
+        "name": "Influxes",
+        "discriminator": "0603",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539581928387510273/60ff5f472584761ac30de113352df522.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "696895228522659894",
+          "name": "Dreams",
+          "discriminator": 398,
+          "nickname": "Dreams",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "785561090263351357",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "785616756223508500",
+      "type": "Default",
+      "timestamp": "2020-12-07T21:20:30.737+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Influxes What's your discord bot?",
+      "author": {
+        "id": "134419906614657024",
+        "name": "Vortex",
+        "discriminator": "8913",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/134419906614657024/78631d6c5119933e6284ad6763163b06.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "539581928387510273",
+          "name": "Influxes",
+          "discriminator": 603,
+          "nickname": "Influxes",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "785617038453243914",
+      "type": "Reply",
+      "timestamp": "2020-12-07T21:21:38.026+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's a Discord bot that helps eBay sellers sell their items. It is basically ebay seller optimization.",
+      "author": {
+        "id": "539581928387510273",
+        "name": "Influxes",
+        "discriminator": "0603",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539581928387510273/60ff5f472584761ac30de113352df522.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "134419906614657024",
+          "name": "Vortex",
+          "discriminator": 8913,
+          "nickname": "Harris",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "785616756223508500",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "785650452356005890",
+      "type": "Reply",
+      "timestamp": "2020-12-07T23:34:24.521+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Some people use tutoring to help them with the curriculum of their “primary source” for education, which is generally their class. Basically, we serve gifted kids and give them deeper lessons/enrichment around whatever they are doing in school (which is a joke for a lot of students doing online school rn)",
+      "author": {
+        "id": "696895228522659894",
+        "name": "Dreams",
+        "discriminator": "0398",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/696895228522659894/c036b6cb152de19e69c3fcd2fff9c7d3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "539581928387510273",
+          "name": "Influxes",
+          "discriminator": 603,
+          "nickname": "Influxes",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "785562391051632723",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "785650498526380032",
+      "type": "Reply",
+      "timestamp": "2020-12-07T23:34:35.529+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Does that make sense?",
+      "author": {
+        "id": "696895228522659894",
+        "name": "Dreams",
+        "discriminator": "0398",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/696895228522659894/c036b6cb152de19e69c3fcd2fff9c7d3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "785650452356005890",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "785651726543618088",
+      "type": "Default",
+      "timestamp": "2020-12-07T23:39:28.311+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah, that makes sense",
+      "author": {
+        "id": "539581928387510273",
+        "name": "Influxes",
+        "discriminator": "0603",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539581928387510273/60ff5f472584761ac30de113352df522.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785950902741631028",
+      "type": "Reply",
+      "timestamp": "2020-12-08T19:28:17.475+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Influxes what goes into ebay seller optimization, like what does the ebay algorithm look for?",
+      "author": {
+        "id": "485264097131102223",
+        "name": "alexa",
+        "discriminator": "4762",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/485264097131102223/87170360412fe78ddfb59ce2ca1cd2ed.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "539581928387510273",
+          "name": "Influxes",
+          "discriminator": 603,
+          "nickname": "Influxes",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "785617038453243914",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "785955034516029441",
+      "type": "Reply",
+      "timestamp": "2020-12-08T19:44:42.567+00:00",
+      "timestampEdited": "2020-12-08T19:50:48.579+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There is no way to know specifically what the ebay algo looks for. But if I was to guess, it would be summed up to (assuming you have good rep and good sales history) watcher, views, consistency of sales, and maybe views to sales conversion.",
+      "author": {
+        "id": "539581928387510273",
+        "name": "Influxes",
+        "discriminator": "0603",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539581928387510273/60ff5f472584761ac30de113352df522.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "485264097131102223",
+          "name": "alexa",
+          "discriminator": 4762,
+          "nickname": "Marko",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "785950902741631028",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "785955401622880277",
+      "type": "Default",
+      "timestamp": "2020-12-08T19:46:10.092+00:00",
+      "timestampEdited": "2020-12-08T19:46:25.218+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My tools basically give sellers the best chance to get some sales. It is helpful for the little guys, who would never be able to get on the first page of the search results. Because big sellers sponsor their listings, or have extreme price undercuts.",
+      "author": {
+        "id": "539581928387510273",
+        "name": "Influxes",
+        "discriminator": "0603",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539581928387510273/60ff5f472584761ac30de113352df522.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785961436055863316",
+      "type": "Default",
+      "timestamp": "2020-12-08T20:10:08.813+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That's really cool!",
+      "author": {
+        "id": "485264097131102223",
+        "name": "alexa",
+        "discriminator": "4762",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/485264097131102223/87170360412fe78ddfb59ce2ca1cd2ed.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786266501094572062",
+      "type": "Default",
+      "timestamp": "2020-12-09T16:22:21.986+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks \uD83D\uDE04",
+      "author": {
+        "id": "539581928387510273",
+        "name": "Influxes",
+        "discriminator": "0603",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/539581928387510273/60ff5f472584761ac30de113352df522.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789132619761188894",
+      "type": "Default",
+      "timestamp": "2020-12-17T14:11:17.926+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png"
+      },
+      "attachments": [
+        {
+          "id": "789132619585290260",
+          "url": "https://cdn.discordapp.com/attachments/747597666656976957/789132619585290260/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 38312
+        }
+      ],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789732449847738418",
+      "type": "Default",
+      "timestamp": "2020-12-19T05:54:48.563+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/733975218711953519/747596374090186832/789726234778140723",
+      "author": {
+        "id": "296966492933718018",
+        "name": "Vedant Karia",
+        "discriminator": "8686",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296966492933718018/d916598015b06a9d1d46a97fec28c693.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789732496971268116",
+      "type": "Default",
+      "timestamp": "2020-12-19T05:54:59.798+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@andyga0  damn\uD83D\uDC40\nWould love to try it out",
+      "author": {
+        "id": "296966492933718018",
+        "name": "Vedant Karia",
+        "discriminator": "8686",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296966492933718018/d916598015b06a9d1d46a97fec28c693.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "716387471394471937",
+          "name": "andyga0",
+          "discriminator": 3167,
+          "nickname": "andyga0",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "789732606119641138",
+      "type": "Default",
+      "timestamp": "2020-12-19T05:55:25.821+00:00",
+      "timestampEdited": "2020-12-19T05:55:42.157+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pls drop a message after it's approved & live",
+      "author": {
+        "id": "296966492933718018",
+        "name": "Vedant Karia",
+        "discriminator": "8686",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296966492933718018/d916598015b06a9d1d46a97fec28c693.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789834898457755699",
+      "type": "Default",
+      "timestamp": "2020-12-19T12:41:54.215+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Vedant Karia Yep for sure!",
+      "author": {
+        "id": "716387471394471937",
+        "name": "andyga0",
+        "discriminator": "3167",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716387471394471937/163acff9613ef71fb085a0948bcfe8e9.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "743441268499283999",
+            "name": "ppjedi",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/743441268499283999.gif"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "296966492933718018",
+          "name": "Vedant Karia",
+          "discriminator": 8686,
+          "nickname": "@veekay_21",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "790879279368896562",
+      "type": "Default",
+      "timestamp": "2020-12-22T09:51:54.028+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/733975218711953519/747596374090186832/789758265474154496\n\nLiked the idea @Hojung and the website is really neat.",
+      "author": {
+        "id": "717955628915621920",
+        "name": "aqua (he/him)",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/717955628915621920/1bf444782a25083603ceb833077c61ea.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "667824501353873416",
+          "name": "Hojung",
+          "discriminator": 1492,
+          "nickname": "Hojung",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "790879887812460564",
+      "type": "Reply",
+      "timestamp": "2020-12-22T09:54:19.092+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks mate! Appreciate it",
+      "author": {
+        "id": "667824501353873416",
+        "name": "Hojung",
+        "discriminator": "1492",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/667824501353873416/c8b3344260facde366a4377a3ae4e5d3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "717955628915621920",
+          "name": "aqua (he/him)",
+          "discriminator": 5670,
+          "nickname": "aqua (he/him)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "790879279368896562",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "791535802919157801",
+      "type": "Default",
+      "timestamp": "2020-12-24T05:20:41.44+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/733975218711953519/747596374090186832/791532928067960832 @digvijay That's super cool. How much are the grants if you don't mind if I ask? Does it vary?",
+      "author": {
+        "id": "713836971713101879",
+        "name": "Aventura",
+        "discriminator": "5016",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713836971713101879/9d965b236837de8dab26524c540a4166.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "691933164909756466",
+          "name": "digvijay",
+          "discriminator": 8139,
+          "nickname": "digvijay",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "791538347657920522",
+      "type": "Reply",
+      "timestamp": "2020-12-24T05:30:48.153+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "context: https://troynikov.io/buidl-grants/",
+      "author": {
+        "id": "717955628915621920",
+        "name": "aqua (he/him)",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/717955628915621920/1bf444782a25083603ceb833077c61ea.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BUIDL Grants",
+          "url": "https://troynikov.io/buidl-grants/",
+          "timestamp": null,
+          "description": "We pay zoomers to stop tweeting and BUIDL.",
+          "thumbnail": {
+            "url": "https://troynikov.io/content/images/2020/12/9F7A5357-3D14-4B06-8E18-FE2BB0FBD0CD.jpeg",
+            "width": 1400,
+            "height": 788
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "713836971713101879",
+          "name": "Aventura",
+          "discriminator": 5016,
+          "nickname": "Aventura (@LifeOfAventura)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "791535802919157801",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "791538584330698793",
+      "type": "Default",
+      "timestamp": "2020-12-24T05:31:44.58+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i'm also seeing this today, but @digvijay really does some dope stuff \uD83E\uDD73",
+      "author": {
+        "id": "717955628915621920",
+        "name": "aqua (he/him)",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/717955628915621920/1bf444782a25083603ceb833077c61ea.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "691933164909756466",
+          "name": "digvijay",
+          "discriminator": 8139,
+          "nickname": "digvijay",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "791563536681402409",
+      "type": "Reply",
+      "timestamp": "2020-12-24T07:10:53.684+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "grant is fairly small as mentioned in the post above but I had a great time talking to Nick Arner and anton, they connected me to really experienced folks!",
+      "author": {
+        "id": "691933164909756466",
+        "name": "digvijay",
+        "discriminator": "8139",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/691933164909756466/6568eab667ac2046ce96a97cfd1984b3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "713836971713101879",
+          "name": "Aventura",
+          "discriminator": 5016,
+          "nickname": "Aventura (@LifeOfAventura)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "791535802919157801",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "791563595146067978",
+      "type": "Reply",
+      "timestamp": "2020-12-24T07:11:07.623+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks buddy! \uD83D\uDE0A",
+      "author": {
+        "id": "691933164909756466",
+        "name": "digvijay",
+        "discriminator": "8139",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/691933164909756466/6568eab667ac2046ce96a97cfd1984b3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "717955628915621920",
+          "name": "aqua (he/him)",
+          "discriminator": 5670,
+          "nickname": "aqua (he/him)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "791538584330698793",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "791581030087786496",
+      "type": "Reply",
+      "timestamp": "2020-12-24T08:20:24.437+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Do you really have to build something within a week or can be more?",
+      "author": {
+        "id": "717955628915621920",
+        "name": "aqua (he/him)",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/717955628915621920/1bf444782a25083603ceb833077c61ea.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "691933164909756466",
+          "name": "digvijay",
+          "discriminator": 8139,
+          "nickname": "digvijay",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "791563536681402409",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "791581527712333875",
+      "type": "Default",
+      "timestamp": "2020-12-24T08:22:23.08+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think it's a little short if you already working 40-45 hrs a week",
+      "author": {
+        "id": "717955628915621920",
+        "name": "aqua (he/him)",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/717955628915621920/1bf444782a25083603ceb833077c61ea.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791584158430003250",
+      "type": "Reply",
+      "timestamp": "2020-12-24T08:32:50.292+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a little more than 1 week is acceptable.",
+      "author": {
+        "id": "691933164909756466",
+        "name": "digvijay",
+        "discriminator": "8139",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/691933164909756466/6568eab667ac2046ce96a97cfd1984b3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "717955628915621920",
+          "name": "aqua (he/him)",
+          "discriminator": 5670,
+          "nickname": "aqua (he/him)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "791581030087786496",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "791584244471300136",
+      "type": "Reply",
+      "timestamp": "2020-12-24T08:33:10.806+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you have to consider it as a hackathon, make the minimalist software and show",
+      "author": {
+        "id": "691933164909756466",
+        "name": "digvijay",
+        "discriminator": "8139",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/691933164909756466/6568eab667ac2046ce96a97cfd1984b3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "717955628915621920",
+          "name": "aqua (he/him)",
+          "discriminator": 5670,
+          "nickname": "aqua (he/him)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "791581527712333875",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "791585195177803827",
+      "type": "Default",
+      "timestamp": "2020-12-24T08:36:57.472+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hackathons here are key to become sleep deprived hehe... but well getting the mvp ready soon is damn necessary",
+      "author": {
+        "id": "717955628915621920",
+        "name": "aqua (he/him)",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/717955628915621920/1bf444782a25083603ceb833077c61ea.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791588040769798214",
+      "type": "Reply",
+      "timestamp": "2020-12-24T08:48:15.914+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's a less stressful hackathon hehe",
+      "author": {
+        "id": "691933164909756466",
+        "name": "digvijay",
+        "discriminator": "8139",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/691933164909756466/6568eab667ac2046ce96a97cfd1984b3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83C\uDFC3\uD83C\uDFFB‍♂️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f3c3-1f3fb-200d-2642.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "717955628915621920",
+          "name": "aqua (he/him)",
+          "discriminator": 5670,
+          "nickname": "aqua (he/him)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "791585195177803827",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "791912897009418252",
+      "type": "Default",
+      "timestamp": "2020-12-25T06:19:07.677+00:00",
+      "timestampEdited": "2020-12-25T06:19:26.725+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Vedant Karia chrome extension to send tweets/threads from your Roam DB: https://chrome.google.com/webstore/detail/mercury/fjclkljmpggljoimiocgcjhjgkcbknfm",
+      "author": {
+        "id": "716387471394471937",
+        "name": "andyga0",
+        "discriminator": "3167",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/716387471394471937/163acff9613ef71fb085a0948bcfe8e9.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Mercury",
+          "url": "https://chrome.google.com/webstore/detail/mercury/fjclkljmpggljoimiocgcjhjgkcbknfm",
+          "timestamp": null,
+          "description": "Send Tweets from Roam",
+          "thumbnail": {
+            "url": "https://lh3.googleusercontent.com/H1ggi5fYFuMgkOLnou-yYW4JDVvPU8trsou9ZmIShYMSzu5K6nf4l_XbnA0d-1leT_SMsZyjeqI=w128-h128-e365-rj-sc0x00ffffff",
+            "width": 128,
+            "height": 128
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "296966492933718018",
+          "name": "Vedant Karia",
+          "discriminator": 8686,
+          "nickname": "@veekay_21",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "791913346734751774",
+      "type": "Reply",
+      "timestamp": "2020-12-25T06:20:54.9+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sick! I'll check it out asap.",
+      "author": {
+        "id": "296966492933718018",
+        "name": "Vedant Karia",
+        "discriminator": "8686",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/296966492933718018/d916598015b06a9d1d46a97fec28c693.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE4C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f64c.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "716387471394471937",
+          "name": "andyga0",
+          "discriminator": 3167,
+          "nickname": "andyga0",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "791912897009418252",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "794788769135984680",
+      "type": "Default",
+      "timestamp": "2021-01-02T04:46:49.023+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/733975218711953519/747596374090186832/794387655306772511 @m1guelpf you released GumHub on gumroad right?",
+      "author": {
+        "id": "691933164909756466",
+        "name": "digvijay",
+        "discriminator": "8139",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/691933164909756466/6568eab667ac2046ce96a97cfd1984b3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "215866112972161036",
+          "name": "m1guelpf",
+          "discriminator": 4217,
+          "nickname": "Miguel Piedrafita (@m1guelpf)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "794851194274185266",
+      "type": "Reply",
+      "timestamp": "2021-01-02T08:54:52.336+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yup, https://gumhub.m1guelpf.me",
+      "author": {
+        "id": "215866112972161036",
+        "name": "m1guelpf",
+        "discriminator": "4217",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215866112972161036/3899afcd1ceed90926c7c3ff102d284c.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Sell access to your GitHub repos with Gumroad",
+          "url": "https://gumhub.m1guelpf.me/",
+          "timestamp": null,
+          "description": "GumHub is a one-click solution to sell access to your GitHub repos with Gumroad.When you purchase GumHub, you'll get access to the source code, along with instructions for getting it up-and-running with your own repos. The process is as simple as clicking a \"Deploy to Vercel\" button and filling in five fields.",
+          "thumbnail": {
+            "url": "https://static-2.gumroad.com/res/gumroad/2052788695131/asset_previews/df57b0aec7fda656f2cff73c86c62949/retina/01._20Render.png",
+            "width": 670,
+            "height": 376
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "691933164909756466",
+          "name": "digvijay",
+          "discriminator": 8139,
+          "nickname": "digvijay",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "794788769135984680",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "794852937233858581",
+      "type": "Default",
+      "timestamp": "2021-01-02T09:01:47.89+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but that was another thing I was playing with afterwards",
+      "author": {
+        "id": "215866112972161036",
+        "name": "m1guelpf",
+        "discriminator": "4217",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215866112972161036/3899afcd1ceed90926c7c3ff102d284c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795125796141400064",
+      "type": "Default",
+      "timestamp": "2021-01-03T03:06:02.523+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "applied to colleges; progress update complete",
+      "author": {
+        "id": "397269876345012245",
+        "name": "fredrickdouglass",
+        "discriminator": "8531",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397269876345012245/a_e3b5578f043ff406665d60b5dd489d78.gif"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800205822088970261",
+      "type": "Default",
+      "timestamp": "2021-01-17T03:32:15.091+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Done with the Landing Page of Aretus. You can check it out at https://aretus.vercel.app . Now back to working on the app.",
+      "author": {
+        "id": "787194536358445112",
+        "name": "Prajwxl",
+        "discriminator": "0951",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/787194536358445112/606d22ac710a0e20bca20d8b62712340.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "801001759048335370",
+      "type": "Reply",
+      "timestamp": "2021-01-19T08:15:01.25+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so cool! btw how are you sourcing the data from notion to blog? api?",
+      "author": {
+        "id": "717955628915621920",
+        "name": "aqua (he/him)",
+        "discriminator": "5670",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/717955628915621920/1bf444782a25083603ceb833077c61ea.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "787194536358445112",
+          "name": "Prajwxl",
+          "discriminator": 951,
+          "nickname": "Prajwxl",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "800205822088970261",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "801039207375831040",
+      "type": "Reply",
+      "timestamp": "2021-01-19T10:43:49.627+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There are repos on GitHub which help with sourcing data from Notion.",
+      "author": {
+        "id": "787194536358445112",
+        "name": "Prajwxl",
+        "discriminator": "0951",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/787194536358445112/606d22ac710a0e20bca20d8b62712340.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "717955628915621920",
+          "name": "aqua (he/him)",
+          "discriminator": 5670,
+          "nickname": "aqua (he/him)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "801001759048335370",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "801195810196160532",
+      "type": "Reply",
+      "timestamp": "2021-01-19T21:06:06.649+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How are you handling images? I haven't figured out a way around the permissions error",
+      "author": {
+        "id": "164511047603060736",
+        "name": "Ben",
+        "discriminator": "8568",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/164511047603060736/85f031d7ae754ac12eb5187ae57be102.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "787194536358445112",
+          "name": "Prajwxl",
+          "discriminator": 951,
+          "nickname": "Prajwxl",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "800205822088970261",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "801195879473479771",
+      "type": "Default",
+      "timestamp": "2021-01-19T21:06:23.166+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I built a lil system like that, it works really well other than embedded images (images added by link are ok though)",
+      "author": {
+        "id": "164511047603060736",
+        "name": "Ben",
+        "discriminator": "8568",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/164511047603060736/85f031d7ae754ac12eb5187ae57be102.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801395275238211614",
+      "type": "Reply",
+      "timestamp": "2021-01-20T10:18:42.821+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well I am using some GitHub Repositories for helping me with it and they cover the images too so didn't had to worry about that. If you want I can DM you the links to them",
+      "author": {
+        "id": "787194536358445112",
+        "name": "Prajwxl",
+        "discriminator": "0951",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/787194536358445112/606d22ac710a0e20bca20d8b62712340.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "164511047603060736",
+          "name": "Ben",
+          "discriminator": 8568,
+          "nickname": "Ben (@bwarddev)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "801195879473479771",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "801436409532907530",
+      "type": "Reply",
+      "timestamp": "2021-01-20T13:02:10.001+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sure I'd appreciate that",
+      "author": {
+        "id": "164511047603060736",
+        "name": "Ben",
+        "discriminator": "8568",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/164511047603060736/85f031d7ae754ac12eb5187ae57be102.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "787194536358445112",
+          "name": "Prajwxl",
+          "discriminator": 951,
+          "nickname": "Prajwxl",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "801395275238211614",
+        "channelId": "747597666656976957",
+        "guildId": "733975218711953519"
+      }
+    }
+  ],
+  "messageCount": 139
+}

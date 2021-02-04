@@ -1,0 +1,2 @@
+# print(dumb_reduced_relationships,
+#       file=open("dumb_reduced_relationships.txt", "w", encoding='utf8'))

@@ -1,0 +1,1799 @@
+{
+  "guild": {
+    "id": "733975218711953519",
+    "name": "gen z mafia",
+    "iconUrl": "https://cdn.discordapp.com/icons/733975218711953519/1defd2842cd55023e919903effda80b2.png"
+  },
+  "channel": {
+    "id": "788180979062800414",
+    "type": "GuildTextChat",
+    "category": "\uD83D\uDCAC | ▬▬▬▬ Topics ▬▬▬▬ | \uD83D\uDCAC",
+    "name": "\uD83C\uDF0E-social-sciences",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "788181070730231838",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:10:10.958+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@cor @thatchinesejew Enjoy!",
+      "author": {
+        "id": "343381278655250433",
+        "name": "nikolas",
+        "discriminator": "7859",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343381278655250433/3f24748f352f65003de601c8f497e6e7.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE07",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f607.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": [
+        {
+          "id": "781113808638050304",
+          "name": "cor",
+          "discriminator": 7039,
+          "nickname": "cor",
+          "isBot": false
+        },
+        {
+          "id": "514178560832045056",
+          "name": "thatchinesejew",
+          "discriminator": 9264,
+          "nickname": "thatchinesejew",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "788187218941313025",
+      "type": "Default",
+      "timestamp": "2020-12-14T23:34:36.806+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "can we get a description for this channel? \uD83D\uDE04",
+      "author": {
+        "id": "215866112972161036",
+        "name": "m1guelpf",
+        "discriminator": "4217",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/215866112972161036/3899afcd1ceed90926c7c3ff102d284c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788240112675717120",
+      "type": "Default",
+      "timestamp": "2020-12-15T03:04:47.655+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Does discussion of economics fit into this channel?",
+      "author": {
+        "id": "713836971713101879",
+        "name": "Aventura",
+        "discriminator": "5016",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/713836971713101879/9d965b236837de8dab26524c540a4166.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788244693606596618",
+      "type": "Reply",
+      "timestamp": "2020-12-15T03:22:59.834+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Why not \uD83E\uDD17",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "713836971713101879",
+          "name": "Aventura",
+          "discriminator": 5016,
+          "nickname": "Aventura (@LifeOfAventura)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788240112675717120",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788464904595177492",
+      "type": "Default",
+      "timestamp": "2020-12-15T17:58:02.225+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Here the ways of men divide. If you wish to strive for peace of soul and happiness, then believe; if you wish to be a disciple of truth, then inquire.” -Friederich Nietzsche",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788475517782589471",
+      "type": "Default",
+      "timestamp": "2020-12-15T18:40:12.606+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Friedrich Nietzsche: “We have art in order not to die of the truth.”",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788475833803210752",
+      "type": "Default",
+      "timestamp": "2020-12-15T18:41:27.951+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The arts as a set is the ultimate distraction, and is often bigger than our own narrow definition.",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788478006536044544",
+      "type": "Reply",
+      "timestamp": "2020-12-15T18:50:05.971+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Truth",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "781113808638050304",
+          "name": "cor",
+          "discriminator": 7039,
+          "nickname": "cor",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788475833803210752",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "788478089092792381",
+      "type": "Default",
+      "timestamp": "2020-12-15T18:50:25.654+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah i feel like games and arts are way bigger",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788478235415019550",
+      "type": "Default",
+      "timestamp": "2020-12-15T18:51:00.54+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "than we think. almost everything can be a game or turned arts, kinda",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788478627876175882",
+      "type": "Default",
+      "timestamp": "2020-12-15T18:52:34.11+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Life is a game. The purpose is to create. Any creation is art",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788732673831993374",
+      "type": "Default",
+      "timestamp": "2020-12-16T11:42:03.386+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://en.wikipedia.org/wiki/Game_theory",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Game theory",
+          "url": "https://en.wikipedia.org/wiki/Game_theory",
+          "timestamp": null,
+          "description": "Game theory is the study of mathematical models of strategic interaction among rational decision-makers. It has applications in all fields of social science, as well as in logic, systems science and computer science. Originally, it addressed zero-sum games, in which each participant's gains or losses are exactly balanced by those of the other pa...",
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789061711864004638",
+      "type": "Default",
+      "timestamp": "2020-12-17T09:29:32.166+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/david_perell/status/1339425471755370496?s=21",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/david_perell/status/1339425471755370496?s=21",
+          "timestamp": "2020-12-17T04:21:32.445+00:00",
+          "description": "This paragraph from “The Sovereign Individual” has shaped by career strategy as much as anything I’ve read. \n\nAnd especially this sentence: “The greatest source of wealth will be the ideas you have in your head.\"",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "David Perell (@david_perell)",
+            "url": "https://twitter.com/david_perell",
+            "iconUrl": "https://pbs.twimg.com/profile_images/1298333250079752195/9zaKSNHm_bigger.jpg"
+          },
+          "image": {
+            "url": "https://pbs.twimg.com/media/EpaYXbwXEAEovuW.jpg:large",
+            "width": 2048,
+            "height": 729
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "fields": [
+            {
+              "name": "Likes",
+              "value": "237",
+              "isInline": true
+            }
+          ]
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789078883412082738",
+      "type": "Reply",
+      "timestamp": "2020-12-17T10:37:46.182+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "true in part i think.. we’re heading towards increased upward mobility but are still faaaar from what he describes imho",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "514178560832045056",
+          "name": "thatchinesejew",
+          "discriminator": 9264,
+          "nickname": "thatchinesejew",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789061711864004638",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789079039821611068",
+      "type": "Default",
+      "timestamp": "2020-12-17T10:38:23.473+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and may never reach it",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789190674326880298",
+      "type": "Reply",
+      "timestamp": "2020-12-17T18:01:59.213+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I can agree with that. But if I were to have any comparison to this text, it would be content creation & selling content / attempt to decentralize education",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "238740157254074368",
+          "name": "Luis",
+          "discriminator": 3761,
+          "nickname": "Luis",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789078883412082738",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789201980840214538",
+      "type": "Reply",
+      "timestamp": "2020-12-17T18:46:54.896+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://nautil.us/blog/-larry-david-and-the-game-theory-of-anonymous-donations",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Larry David and the Game Theory of Anonymous Donations",
+          "url": "http://nautil.us/blog/-larry-david-and-the-game-theory-of-anonymous-donations",
+          "timestamp": null,
+          "description": "What’s intriguing about anonymous giving, and other behaviors apparently designed to obscure good traits and acts, like modesty,…",
+          "thumbnail": {
+            "url": "http://static.nautil.us/14848_1392a70e4978d9890a1a1d40a11edbe8.jpg",
+            "width": 733,
+            "height": 762
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "781113808638050304",
+          "name": "cor",
+          "discriminator": 7039,
+          "nickname": "cor",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "788732673831993374",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789260059229028372",
+      "type": "Reply",
+      "timestamp": "2020-12-17T22:37:41.863+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I think that is an accurate passage but I don't think this is as good as it seems. Anyone can potentially strike it big and become a social media sensation, but barely anyone will. Instead we are just going to have more and more of the kind of people that hang out in Naval or David Perell's  Twitter comments trying to be the most insightful, clear thinker",
+      "author": {
+        "id": "396514556370747422",
+        "name": "bboylen",
+        "discriminator": "7656",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396514556370747422/fed3187e1ac2b15520cd187a93837ef1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "514178560832045056",
+          "name": "thatchinesejew",
+          "discriminator": 9264,
+          "nickname": "thatchinesejew",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789061711864004638",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789260421382668358",
+      "type": "Default",
+      "timestamp": "2020-12-17T22:39:08.207+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I know there are more opportunities than just the social media stuff, but that is one example where there are many striving and failing",
+      "author": {
+        "id": "396514556370747422",
+        "name": "bboylen",
+        "discriminator": "7656",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396514556370747422/fed3187e1ac2b15520cd187a93837ef1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789260547203792936",
+      "type": "Default",
+      "timestamp": "2020-12-17T22:39:38.205+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Of course digitization/the web is fantastic for global GDP",
+      "author": {
+        "id": "396514556370747422",
+        "name": "bboylen",
+        "discriminator": "7656",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/396514556370747422/fed3187e1ac2b15520cd187a93837ef1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789277959236223017",
+      "type": "Reply",
+      "timestamp": "2020-12-17T23:48:49.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "reading it later ❤️",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "514178560832045056",
+          "name": "thatchinesejew",
+          "discriminator": 9264,
+          "nickname": "thatchinesejew",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789201980840214538",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789576518854508584",
+      "type": "Reply",
+      "timestamp": "2020-12-18T19:35:11.717+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I agree, I think this is an issue in which following and followers is a flawed concept for wealth of knowledge. It’s set up to be hierarchical but not quality controlled for conversation rates and depth of knowledge. We’ve trained ourselves to validate based off of numeric metrics that are provided but are equally invalid on a wider scale.",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "396514556370747422",
+          "name": "bboylen",
+          "discriminator": 7656,
+          "nickname": "bboylen",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789260421382668358",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789627624015527966",
+      "type": "Reply",
+      "timestamp": "2020-12-18T22:58:16.137+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wouldnt say we were trained. we were manipulated by zuck + chamath and all the other early fb execs",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "514178560832045056",
+          "name": "thatchinesejew",
+          "discriminator": 9264,
+          "nickname": "thatchinesejew",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789576518854508584",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789627918098628669",
+      "type": "Default",
+      "timestamp": "2020-12-18T22:59:26.252+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i think twitter didn't have likes before b4 fb, twitter ended up copying them",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789747987844431912",
+      "type": "Reply",
+      "timestamp": "2020-12-19T06:56:33.11+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes but we’re not collectively and actively trying to undo the value system either. It’s something I contemplate each day and am slowly trying to build out a better framework of prioritizing engagement over numeric followings. \n\nWe couldn’t have had “content” creators monetize until we had a hierarchy first though IMO.",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783724226619768912",
+          "name": "platocrat",
+          "discriminator": 4224,
+          "nickname": "platocrat",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789627624015527966",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789748040507981825",
+      "type": "Reply",
+      "timestamp": "2020-12-19T06:56:45.666+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Was retweeting from the beginning?",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783724226619768912",
+          "name": "platocrat",
+          "discriminator": 4224,
+          "nickname": "platocrat",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789627918098628669",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789875274565156896",
+      "type": "Reply",
+      "timestamp": "2020-12-19T15:22:20.629+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I agree that without hierarchy we wouldn’t have CCs - def something interesting to think about",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "514178560832045056",
+          "name": "thatchinesejew",
+          "discriminator": 9264,
+          "nickname": "thatchinesejew",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789747987844431912",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789876330971922472",
+      "type": "Default",
+      "timestamp": "2020-12-19T15:26:32.496+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Although, going back hundreds/thousands of years, hierarchies sort of naturally evolved across diff species. Given that, designing/establishing a system without clear hierarchies is challenging",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f44d.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789876540879536148",
+      "type": "Default",
+      "timestamp": "2020-12-19T15:27:22.542+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Would love to hear ideas for alternatives to classical hierarchies",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789947079057342464",
+      "type": "Reply",
+      "timestamp": "2020-12-19T20:07:40.154+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Somewhat related article of CC content density. Enjoyed reading through the “recognition economy” bit. https://constine.substack.com/p/content-density-why-tiktoks-trounce",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Content density: Why TikToks trounce Stories",
+          "url": "https://constine.substack.com/p/content-density-why-tiktoks-trounce",
+          "timestamp": null,
+          "description": "Constine's Newsletter #11: The formula to 15 seconds of fame",
+          "thumbnail": {
+            "url": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F86af5007-8bfc-4c9f-885d-b384f899451f_964x628.png",
+            "width": 921,
+            "height": 600
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD14",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f914.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "783724226619768912",
+          "name": "platocrat",
+          "discriminator": 4224,
+          "nickname": "platocrat",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789875274565156896",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789947174614990848",
+      "type": "Reply",
+      "timestamp": "2020-12-19T20:08:02.937+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I will have to think more about it. Will share when I have more concrete ideas",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783724226619768912",
+          "name": "platocrat",
+          "discriminator": 4224,
+          "nickname": "platocrat",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789876540879536148",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789955558999326732",
+      "type": "Reply",
+      "timestamp": "2020-12-19T20:41:21.93+00:00",
+      "timestampEdited": "2020-12-19T20:41:36.668+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Meant to direct this at this channel \uD83D\uDE05",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "783724226619768912",
+          "name": "platocrat",
+          "discriminator": 4224,
+          "nickname": "platocrat",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789876540879536148",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "789960753388978216",
+      "type": "Default",
+      "timestamp": "2020-12-19T21:02:00.369+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Micro-entertainment is the top of the funnel” — the article paints CCs as having their own mature industry. Wonder what’s post-micro-entertainment",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790524815399714816",
+      "type": "Reply",
+      "timestamp": "2020-12-21T10:23:23.232+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What do you do in your free time that you end up reading these stuff",
+      "author": {
+        "id": "522420213661302794",
+        "name": "drepram",
+        "discriminator": "3477",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/522420213661302794/3ebf1d23c7955340d037421f98f896d0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDE06",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f606.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "514178560832045056",
+          "name": "thatchinesejew",
+          "discriminator": 9264,
+          "nickname": "thatchinesejew",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "789201980840214538",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "790587996289105921",
+      "type": "Reply",
+      "timestamp": "2020-12-21T14:34:26.73+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LOL, what a question. I honestly follow several industries / topics on twitter which makes my feed chaotic, but it helps me make connections in contextualizing certain messages. I also found that article on hacker news. Lol",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "522420213661302794",
+          "name": "drepram",
+          "discriminator": 3477,
+          "nickname": "drepram",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "790524815399714816",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "793161402016989195",
+      "type": "Default",
+      "timestamp": "2020-12-28T17:00:14.467+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://perell.com/essay/why-you-should-write-pseudonymously/",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Why You Should Write Pseudonymously - David Perell",
+          "url": "https://perell.com/essay/why-you-should-write-pseudonymously/",
+          "timestamp": null,
+          "description": "Pseudonyms are coming back. The most interesting articles I read and Twitter accounts I follow are increasingly penned by pseudonymous authors. People like Jesse Livermore, Modest Proposal, and The Stoic Emperor can avoid ridicule and pursue unpopular ideas because they aren’t paralyzed by the social repercussions of their words. With the assura...",
+          "author": {
+            "name": "David Perell",
+            "url": "https://perell.com/author/dperellelon-edu/"
+          },
+          "thumbnail": {
+            "url": "https://149483024.v2.pressablecdn.com/wp-content/uploads/2020/03/img-1.jpg",
+            "width": 2500,
+            "height": 1667
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793193140273938484",
+      "type": "Reply",
+      "timestamp": "2020-12-28T19:06:21.457+00:00",
+      "timestampEdited": "2020-12-28T19:07:10.333+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "** \"Why You Should Build Pseudonymously\"",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "514178560832045056",
+          "name": "thatchinesejew",
+          "discriminator": 9264,
+          "nickname": "thatchinesejew",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "793161402016989195",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "793193298108874752",
+      "type": "Reply",
+      "timestamp": "2020-12-28T19:06:59.088+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDCAF \uD83D\uDCAF \uD83D\uDCAF  mf facts",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "734409767216349227",
+            "name": "emoji_5",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/734409767216349227.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "783724226619768912",
+          "name": "platocrat",
+          "discriminator": 4224,
+          "nickname": "platocrat",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "793193140273938484",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "795802351968583681",
+      "type": "Reply",
+      "timestamp": "2021-01-04T23:54:26.002+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GitHub",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "514178560832045056",
+          "name": "thatchinesejew",
+          "discriminator": 9264,
+          "nickname": "thatchinesejew",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "793161402016989195",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "795802475353210920",
+      "type": "Default",
+      "timestamp": "2021-01-04T23:54:55.419+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Feel like 1/2 GitHub Accounts are anonymous",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796619361389379615",
+      "type": "Default",
+      "timestamp": "2021-01-07T06:00:56.227+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you do that and later want to reveal who you are then you need to go through everything possibly",
+      "author": {
+        "id": "739429338100924516",
+        "name": "haden",
+        "discriminator": "7264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739429338100924516/d070e3f343bad45ea5ffd9b55f65746c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796619372805881877",
+      "type": "Default",
+      "timestamp": "2021-01-07T06:00:58.949+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Depends though",
+      "author": {
+        "id": "739429338100924516",
+        "name": "haden",
+        "discriminator": "7264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739429338100924516/d070e3f343bad45ea5ffd9b55f65746c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796619436899303465",
+      "type": "Default",
+      "timestamp": "2021-01-07T06:01:14.23+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Since first impressions could be mixed between the real you and your pseudonym",
+      "author": {
+        "id": "739429338100924516",
+        "name": "haden",
+        "discriminator": "7264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739429338100924516/d070e3f343bad45ea5ffd9b55f65746c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796619473820975144",
+      "type": "Default",
+      "timestamp": "2021-01-07T06:01:23.033+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "But if you write under your own name then you consider that every time you're right",
+      "author": {
+        "id": "739429338100924516",
+        "name": "haden",
+        "discriminator": "7264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739429338100924516/d070e3f343bad45ea5ffd9b55f65746c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796619532873367582",
+      "type": "Default",
+      "timestamp": "2021-01-07T06:01:37.112+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Both have ups and downs",
+      "author": {
+        "id": "739429338100924516",
+        "name": "haden",
+        "discriminator": "7264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/739429338100924516/d070e3f343bad45ea5ffd9b55f65746c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796840391080935434",
+      "type": "Default",
+      "timestamp": "2021-01-07T20:39:13.812+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The Weeknd was anonymous online for years when he released his first couple of albums because he thought he wasn't good looking enough or the right look to be an artist/singer in the hip hop and r&b world. And look at him now years later he's maintained the same stage name. His first show was sold out and he was accepted through his eclectic sound and musicianship...at least the first few albums lol. Slightly different than tech obviously but I think it also shows that starting off anonish could have benefits to focus and not be so focused on the \"image\" of whom you are publicly. I'm in support of this because sometimes you have to distance yourself from your legal identity to get creative.",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83E\uDD18",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f918.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": null,
+            "name": "\uD83D\uDCAF",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/72x72/1f4af.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "797256257038843975",
+      "type": "Reply",
+      "timestamp": "2021-01-09T00:11:43.983+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "100% agree! can help a lot if in early stage you’re only judged by your work and not as a person as a whole. There are also many Youtubers whose channels I think might have never taken off if they had shown their face from the beginning",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "514178560832045056",
+          "name": "thatchinesejew",
+          "discriminator": 9264,
+          "nickname": "thatchinesejew",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "796840391080935434",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "797257107429654559",
+      "type": "Default",
+      "timestamp": "2021-01-09T00:15:06.732+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "of course hard to do in tech because of legal requirements alone",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "797258103770710038",
+      "type": "Default",
+      "timestamp": "2021-01-09T00:19:04.278+00:00",
+      "timestampEdited": "2021-01-09T00:19:23.224+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i guess satoshi (wether it is a group or an individual) is by far the most successful anonymous tech builder. also interesting to compare that to e.g. ethereum, where we have a public high profile inventor who also tweets a lot etc.",
+      "author": {
+        "id": "238740157254074368",
+        "name": "Luis",
+        "discriminator": "3761",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/238740157254074368/3e15856a9b1c918480d1d2affff0ff2e.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800025560826773515",
+      "type": "Default",
+      "timestamp": "2021-01-16T15:35:57.457+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://theecologist.org/2021/jan/11/we-need-london-school-ecology-and-economics",
+      "author": {
+        "id": "522420213661302794",
+        "name": "drepram",
+        "discriminator": "3477",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/522420213661302794/3ebf1d23c7955340d037421f98f896d0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "We need a London School of Ecology and Economics",
+          "url": "https://theecologist.org/2021/jan/11/we-need-london-school-ecology-and-economics",
+          "timestamp": null,
+          "description": "'The LSE would become a world leader and show other universities teaching economics is incomplete without teaching ecology.'",
+          "thumbnail": {
+            "url": "https://theecologist.org/sites/default/files/styles/twitter/public/2019-01/satishkumar_2.jpg?h=2992ba0a&itok=rJQDC-_L",
+            "width": 1024,
+            "height": 512
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800454086142853170",
+      "type": "Default",
+      "timestamp": "2021-01-17T19:58:45.854+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not sure if this belongs in here but I haven been quite interested in personalities (mbti, big 5). \nWhen I watched the \"The Social Dilemma\" I noticed that they show an analysis of the big 5 of every user when visualizing the algorithm. \nWas wondering if anyone knows how accurate a test conducted through the usage of social media would be compared to a proper scientific test?",
+      "author": {
+        "id": "699654641557831690",
+        "name": "Lukas Schmidt",
+        "discriminator": "7717",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699654641557831690/ff4ef573d84401887ff331d73bc43a12.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800587740147220510",
+      "type": "Reply",
+      "timestamp": "2021-01-18T04:49:51.452+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh... what do you think is the reason for that?",
+      "author": {
+        "id": "574176384872742923",
+        "name": "kcaj_gnohc",
+        "discriminator": "6141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574176384872742923/78954f5cb1d9c8adfbcfccb4dfac061c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "781113808638050304",
+          "name": "cor",
+          "discriminator": 7039,
+          "nickname": "cor",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "795802475353210920",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "800587983795388416",
+      "type": "Reply",
+      "timestamp": "2021-01-18T04:50:49.542+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "check out books on cambridge analytica's OCEAN analyses. I think the best they can find is just correlation between data-points they have and OCEAN personalities. They then further break it down into swing-voters, solid supporters, never-voters etc.",
+      "author": {
+        "id": "574176384872742923",
+        "name": "kcaj_gnohc",
+        "discriminator": "6141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574176384872742923/78954f5cb1d9c8adfbcfccb4dfac061c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "699654641557831690",
+          "name": "Lukas Schmidt",
+          "discriminator": 7717,
+          "nickname": "Lukas Schmidt",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "800454086142853170",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "800588027864154206",
+      "type": "Default",
+      "timestamp": "2021-01-18T04:51:00.049+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what's everyone's thought on Peter Turchin? e.g. \"elite overproduction\", \"cliodynamics\"... https://www.theatlantic.com/magazine/archive/2020/12/can-history-predict-future/616993/",
+      "author": {
+        "id": "574176384872742923",
+        "name": "kcaj_gnohc",
+        "discriminator": "6141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574176384872742923/78954f5cb1d9c8adfbcfccb4dfac061c.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Next Decade Could Be Even Worse",
+          "url": "https://www.theatlantic.com/magazine/archive/2020/12/can-history-predict-future/616993/",
+          "timestamp": null,
+          "description": "A historian believes he has discovered iron laws that predict the rise and fall of societies. He has bad news.",
+          "thumbnail": {
+            "url": "https://cdn.theatlantic.com/thumbor/U3cx1aRyutn1Ent6ArlhzVKw2PU=/0x43:2000x1085/960x500/media/img/2020/11/WEL_Wood_TurchinOpener/original.jpg",
+            "width": 960,
+            "height": 500
+          },
+          "fields": []
+        }
+      ],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800593408627441704",
+      "type": "Reply",
+      "timestamp": "2021-01-18T05:12:22.923+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I would love to learn more about this. MBTI is interesting to me but I’m not sure how certain behaviors would be consistent enough to identify through the 16 personality types",
+      "author": {
+        "id": "514178560832045056",
+        "name": "thatchinesejew",
+        "discriminator": "9264",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/514178560832045056/84630fe44b693b607ea863f03f66a20b.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "699654641557831690",
+          "name": "Lukas Schmidt",
+          "discriminator": 7717,
+          "nickname": "Lukas Schmidt",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "800454086142853170",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "800713790126817280",
+      "type": "Reply",
+      "timestamp": "2021-01-18T13:10:44.109+00:00",
+      "timestampEdited": "2021-01-18T13:11:20.065+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Many accounts are millennials or gen z",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "574176384872742923",
+          "name": "kcaj_gnohc",
+          "discriminator": 6141,
+          "nickname": "kcaj_gnohc",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "800587740147220510",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "800714120252620841",
+      "type": "Default",
+      "timestamp": "2021-01-18T13:12:02.817+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Some look for work so they might have real id",
+      "author": {
+        "id": "781113808638050304",
+        "name": "cor",
+        "discriminator": "7039",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/781113808638050304/028a24a87eb046c2e8fb097d9d2afcf8.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801868562988924968",
+      "type": "Reply",
+      "timestamp": "2021-01-21T17:39:23.414+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I like MBTI since it is like a guide on how to deal with different kinds of people. \nTo get a better look at the individual I believe OCEAN to be more accurate and reliable. \nEspecially the explanation that being high in extroversion does not mean that you want to be around people all the time. In the OCEAN model it is solely the probability of feeling positive emotions.",
+      "author": {
+        "id": "699654641557831690",
+        "name": "Lukas Schmidt",
+        "discriminator": "7717",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699654641557831690/ff4ef573d84401887ff331d73bc43a12.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "514178560832045056",
+          "name": "thatchinesejew",
+          "discriminator": 9264,
+          "nickname": "thatchinesejew",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "800593408627441704",
+        "channelId": "788180979062800414",
+        "guildId": "733975218711953519"
+      }
+    },
+    {
+      "id": "801923734188326983",
+      "type": "Default",
+      "timestamp": "2021-01-21T21:18:37.253+00:00",
+      "timestampEdited": "2021-01-21T21:18:52.4+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "`MBTI != science`",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801923747812212748",
+      "type": "Default",
+      "timestamp": "2021-01-21T21:18:40.501+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "js",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801924142961000448",
+      "type": "Default",
+      "timestamp": "2021-01-21T21:20:14.712+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And, as an analogy one of my professor's once gave,\n```javascript\nMBTI == astrology && MBTI !== astrology\n```",
+      "author": {
+        "id": "783724226619768912",
+        "name": "platocrat",
+        "discriminator": "4224",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/783724226619768912/d26f77a35b7f5ce45bc07914e92a4fbf.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802151787167481879",
+      "type": "Default",
+      "timestamp": "2021-01-22T12:24:49.32+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How does the Silicon Valley community think about futurism/transhumanism-communism? e.g. Scott Alexander, LessWrong, Substack/Medium writers, bloggers etc.",
+      "author": {
+        "id": "574176384872742923",
+        "name": "kcaj_gnohc",
+        "discriminator": "6141",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/574176384872742923/78954f5cb1d9c8adfbcfccb4dfac061c.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 62
+}
